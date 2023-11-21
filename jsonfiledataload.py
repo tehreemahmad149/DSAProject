@@ -3,7 +3,8 @@ import json
 
 def read_json_files():
     # List all files in the folder
-    file_list = os.listdir('\\Users\\tehre\\OneDrive\\Documents\\JSONFILES')
+    file_list = os.listdir('\\Users\\tehre\\OneDrive\\Documents\\JSONFILES')#add in path to folder holding json files
+    #use double slashes in path to avoid escape sequence error
 
     # Filter only JSON files
     json_files = [file for file in file_list if file.endswith('.json')]
@@ -16,7 +17,7 @@ def read_json_files():
             try:
                 data = json.load(file)
                 # Do something with the data (process, analyze, etc.)
-                print(f"Content of {json_file}: {data}")
+                print(f"Content of {json_file}: {data}")#to show which file is being accessed
                 
                 # Return the content of the current file
                 yield data

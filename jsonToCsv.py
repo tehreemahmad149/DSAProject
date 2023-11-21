@@ -5,7 +5,7 @@ import csv
 # Path to the directory containing JSON files
 path_to_json = 'C:\\Users\\user\\Documents\\dataset\\dataset\\newsdata'
 # Output directory to store CSV files
-output_directory = 'C:\\Users\\user\\Desktop\\Dsa_Project\\DSAProject\\output_csv'
+output_directory = 'C:\\Users\\user\\Documents\\dataset\\dataset\\output_csv'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_directory, exist_ok=True)
@@ -28,7 +28,7 @@ for js in json_files:
                     'date': item.get('date', ''),
                     'source': item.get('source', ''),
                     'title': item.get('title', ''),
-                    'content': item.get('content', ''),
+                    'content': item.get('content', '').replace('\n', ' '),  # Replace newline characters with space
                     'author': item.get('author', ''),
                     'url': item.get('url', ''),
                     'published': item.get('published', ''),

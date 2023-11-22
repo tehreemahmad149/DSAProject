@@ -1,6 +1,6 @@
 import os
 import json
-
+# Increased Error Handling
 def replace_problematic_characters(text):
     # Replace characters that may cause encoding issues with a placeholder
     return ''.join(char if char.isprintable() else '?' for char in text)

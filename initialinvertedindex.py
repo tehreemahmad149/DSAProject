@@ -7,7 +7,7 @@ import os
 import string
 import re
 folder_path = '\\Users\\tehre\\OneDrive\\Documents\\JSONFILES'
-class ForwardIndex:
+class InvertedIndex:
     def __init__(self):
         self.index = {}
 
@@ -26,7 +26,7 @@ class ForwardIndex:
         return self.index.get(keyword, [])
 
 #  Usage:
-forward_index = ForwardIndex()
+inverted_index = InvertedIndex()
 i = 0
 for filename in os.listdir(folder_path):
     file_path = os.path.join(folder_path, filename)
@@ -34,7 +34,7 @@ for filename in os.listdir(folder_path):
         for article_id, content_tokens in preprocessing.extract_content_and_id_from_json(file_path):
             i = i+1
             document_article_id = f"{filename}_{i}"  # Unique ID combining filename and i
-            forward_index.add_document(document_article_id, content_tokens)
+            inverted_index.add_document(document_article_id, content_tokens)
 
-result = forward_index.search("help")
+result = inverted_index.search("help")
 print("Documents containing 'help':", result)

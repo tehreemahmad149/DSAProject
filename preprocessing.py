@@ -75,17 +75,21 @@ for filename in os.listdir(folder_path):
             print(f"Article ID: [{article_id}], Tokenized Content: [{tokenized_content_str.encode('utf-8', 'ignore').decode('utf-8')}]")
             print("\n" * 4)
 
-# Save the forward index to a CSV file
-output_file_path = 'forward_index.csv'
+# Save the forward index to a TXT file with improved formatting
+output_file_path_txt = 'forward_index.txt'
 
-with open(output_file_path, 'w', newline='') as csvfile:
-    csv_writer = csv.writer(csvfile)
-    
-    # Write the header
-    csv_writer.writerow(['Term', 'Document IDs'])
-    
-    # Write each term and its associated document IDs
-    for term, doc_ids in forward_index.index.items():
-        csv_writer.writerow([term, ', '.join(map(str, doc_ids))])
+with open(output_file_path_txt, 'w', encoding='utf-8') as txtfile:
+    # Write header
+    txtfile.write("Document ID\tKeywords\n")
 
-print(f"Forward index saved to {output_file_path}")
+    # Write each document ID and its associated keywords
+    for doc_id, keywords in forward_index.index.items():
+        keyword_str = ', '.join(map(str, keywords))
+        txtfile.write(f"Document ID: {doc_id}\n")
+        txtfile.write(f"Keywords: {keyword_str}\n")
+        # Add a separator line
+        txtfile.write('-' * 40 + '\n')
+        # Skip 3 lines
+        txtfile.write('\n' * 3)
+
+print(f"Forward index saved to {output_file_path_txt}")

@@ -6,6 +6,8 @@ import os
 import string
 import re
 import sys
+from forwardIndex import ForwardIndex 
+import csv
 
 # Set the default encoding to 'utf-8'
 sys.stdout.reconfigure(encoding='utf-8')
@@ -21,12 +23,18 @@ os.system('chcp 65001')
 stop_words = set(stopwords.words('english'))
 punctuation = set(string.punctuation)
 
+forward_index = ForwardIndex()
+
 # Function to remove special characters using regex
 def remove_special_characters(text):
     return re.sub(r'[^A-Za-z0-9\s]', '', text)
 
+# Custom function to generate unique document IDs
+def generate_unique_doc_id(file_name, obj_index):
+    return f"{file_name}_{obj_index}"
+
 # Path to the folder containing the JSON files locally
-folder_path = 'C:\\Users\\user\\Documents\\dataset\\dataset\\newsdata'
+folder_path = 'C:\\Users\\user\\Documents\\dataset\\dataset'
 
 # Function to extract content from all objects in each JSON file
 def extract_content_and_id_from_json(file_path):
@@ -34,10 +42,13 @@ def extract_content_and_id_from_json(file_path):
         try:
             data = json.load(file)
             if isinstance(data, list):
-                for obj in data:
+                for obj_index, obj in enumerate(data):
                     content_item = obj.get('content', '')
-                    article_id = obj.get('id', '')
-                    if content_item and article_id:
+                    if content_item:
+                        # Generate a unique document ID
+                        file_name = os.path.splitext(os.path.basename(file_path))[0]
+                        article_id = generate_unique_doc_id(file_name, obj_index)
+
                         # Lowercasing the parsed content
                         content = content_item.lower()
 
@@ -58,7 +69,23 @@ for filename in os.listdir(folder_path):
     file_path = os.path.join(folder_path, filename)
     if os.path.isfile(file_path) and filename.endswith('.json'):
         for article_id, content_tokens in extract_content_and_id_from_json(file_path):
+            forward_index.add_document(article_id, content_tokens)
             # Convert the list of tokens to a string before printing
             tokenized_content_str = ', '.join(map(str, content_tokens))
             print(f"Article ID: [{article_id}], Tokenized Content: [{tokenized_content_str.encode('utf-8', 'ignore').decode('utf-8')}]")
             print("\n" * 4)
+
+# Save the forward index to a CSV file
+output_file_path = 'forward_index.csv'
+
+with open(output_file_path, 'w', newline='') as csvfile:
+    csv_writer = csv.writer(csvfile)
+    
+    # Write the header
+    csv_writer.writerow(['Term', 'Document IDs'])
+    
+    # Write each term and its associated document IDs
+    for term, doc_ids in forward_index.index.items():
+        csv_writer.writerow([term, ', '.join(map(str, doc_ids))])
+
+print(f"Forward index saved to {output_file_path}")

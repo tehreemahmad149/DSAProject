@@ -22,64 +22,56 @@ punctuation = set(string.punctuation)
 
 # Function to remove special characters using regex
 def remove_special_characters(text):
-    # Use regex to remove characters like \xe2\x80\x9c and @@@@@
-    cleaned_text = re.sub(r'[^A-Za-z0-9\s]', '', text)
-    return cleaned_text
+    return re.sub(r'[^A-Za-z0-9\s]', '', text)
 
-# Read forward_index.txt and extract document information
+# Function to read forward_index.txt and extract document information
 def read_forward_index(file_path):
     document_info = {}
     with open(file_path, 'r', encoding='utf-8') as txtfile:
-        lines = txtfile.readlines()
-        # Skip the header
-        lines = lines[1:]
-        for i in range(0, len(lines), 5):
-            if i + 1 < len(lines):
-                doc_id_line = lines[i]
-                keywords_line = lines[i + 1]
+        lines = txtfile.read().split('----------------------------------------\n')
 
+        for entry in lines:
+            if entry.strip():  # Skip empty entries
                 # Extract document ID
-                doc_id_parts = doc_id_line.split(":")
-                if len(doc_id_parts) > 1:
-                    doc_id = doc_id_parts[1].strip()
+                doc_id_match = re.search(r'Document ID: (.+)', entry)
+                if doc_id_match:
+                    doc_id = doc_id_match.group(1).strip()
                 else:
                     continue
 
                 # Extract keywords
-                keywords_parts = keywords_line.split(":")
-                if len(keywords_parts) > 1:
-                    keywords = keywords_parts[1].strip().split(', ')
+                keywords_match = re.search(r'Keywords: (.+)', entry)
+                if keywords_match:
+                    keywords = keywords_match.group(1).strip().split(', ')
                     document_info[doc_id] = keywords
+
     return document_info
 
-# Path to the forward_index.txt file
-forward_index_path = 'forward_index.txt'
+
+# Function to process user query
+def process_user_query(query):
+    tokens = [word for word in word_tokenize(query.lower()) if word.isalpha() and word not in stop_words and word not in punctuation]
+    return ' '.join(map(str, tokens))
 
 # Read document information from forward_index.txt
+forward_index_path = 'forward_index.txt'
 document_info = read_forward_index(forward_index_path)
 
 # User query
-user_query = "Tell me about narrow prosecution."
+user_query = "Tell me about Elizabeth Minor and the University of Tskuba."
 
 # Process user query
-user_query_tokens = [word for word in word_tokenize(user_query.lower()) if word.isalpha() and word not in stop_words and word not in punctuation]
-
-# Convert user query tokens to a string before printing
-user_query_str = ', '.join(map(str, user_query_tokens))
-print(f"User Query: [{user_query_str}]")
+user_query_tokens = process_user_query(user_query)
 
 # Extract content and tokens from forward index
 all_content_tokens = list(document_info.values())
 
 # TF-IDF Vectorization
 vectorizer = TfidfVectorizer(stop_words='english', max_features=1000)
-tfidf_matrix = vectorizer.fit_transform([' '.join(map(str, tokens)) for tokens in all_content_tokens])
-
-# TF-IDF Vectorization for the user query
-query_vector = vectorizer.transform([' '.join(map(str, user_query_tokens))])
+tfidf_matrix = vectorizer.fit_transform([' '.join(map(str, tokens)) for tokens in all_content_tokens] + [user_query_tokens])
 
 # Calculate cosine similarity
-cosine_similarities = cosine_similarity(query_vector, tfidf_matrix)
+cosine_similarities = cosine_similarity(tfidf_matrix[-1], tfidf_matrix[:-1])
 
 # Get document ranks based on similarity
 document_ranks = list(enumerate(cosine_similarities[0]))
@@ -92,3 +84,4 @@ print("Ranked Documents:")
 for index, score in sorted_documents:
     doc_id = list(document_info.keys())[index]
     print(f"Document ID: {doc_id}, Similarity Score = {score}")
+    # You can optionally print more information about the document here, e.g., content or a snippet

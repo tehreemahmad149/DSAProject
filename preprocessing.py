@@ -5,10 +5,17 @@ import json
 import os
 import string
 import re
+import sys
 
-# Downloading stopwords
+# Set the default encoding to 'utf-8'
+sys.stdout.reconfigure(encoding='utf-8')
+
+# Download stopwords
 nltk.download('punkt')
 nltk.download('stopwords')
+
+# Set console encoding to 'utf-8' (for Windows)
+os.system('chcp 65001')
 
 # Define a set of stopwords and punctuation
 stop_words = set(stopwords.words('english'))
@@ -16,19 +23,16 @@ punctuation = set(string.punctuation)
 
 # Function to remove special characters using regex
 def remove_special_characters(text):
-    # Use regex to remove characters like \xe2\x80\x9c and @@@@@
-    cleaned_text = re.sub(r'[^A-Za-z0-9\s]', '', text)
-    return cleaned_text
+    return re.sub(r'[^A-Za-z0-9\s]', '', text)
 
-# Path provided to the folder containing the JSON files locally
-folder_path = 'nela-gt-2022/newsdata/'
+# Path to the folder containing the JSON files locally
+folder_path = 'C:\\Users\\user\\Documents\\dataset\\dataset\\newsdata'
 
-# Function to extract content from all the objects in every JSON file
+# Function to extract content from all objects in each JSON file
 def extract_content_and_id_from_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         try:
             data = json.load(file)
-            # Extracting "content" and "id" field
             if isinstance(data, list):
                 for obj in data:
                     content_item = obj.get('content', '')
@@ -40,7 +44,7 @@ def extract_content_and_id_from_json(file_path):
                         # Remove special characters
                         content = remove_special_characters(content)
 
-                        # Removing stopwords and punctuation
+                        # Remove stopwords and punctuation
                         tokens = [word for word in word_tokenize(content) if word.isalpha() and word not in stop_words and word not in punctuation]
 
                         yield article_id, tokens
@@ -56,7 +60,5 @@ for filename in os.listdir(folder_path):
         for article_id, content_tokens in extract_content_and_id_from_json(file_path):
             # Convert the list of tokens to a string before printing
             tokenized_content_str = ', '.join(map(str, content_tokens))
-            print(f"Article ID: [{article_id}], Tokenized Content:[{tokenized_content_str}]")
-            print("\n\n\n\n")
-            
-#so we have removed non-content data, stopwords, special characters, lowercased the content, and finally tokenized the data...
+            print(f"Article ID: [{article_id}], Tokenized Content: [{tokenized_content_str.encode('utf-8', 'ignore').decode('utf-8')}]")
+            print("\n" * 4)

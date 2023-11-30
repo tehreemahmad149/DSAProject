@@ -15,6 +15,7 @@ punctuation = set(string.punctuation)
 
 # Function to remove special characters using regex
 def remove_special_characters(text):
+    # Using regex to remove characters like \xe2\x80\x9c and @@@@@
     return re.sub(r'[^A-Za-z0-9\s]', '', text)
 
 # Common function for content processing as a generator

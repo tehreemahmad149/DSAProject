@@ -1,3 +1,33 @@
 Implementation of an elementary search engine
 
 For DSA end-semester project
+
+
+Components Description:
+
+1. utils:
+        This component implements the preprocessing steps currently including LOWERCASING, REMOVING STOPWORDS, REMOVING SPECIAL CHARACTERS, and TOKENIZATION
+
+2. class_forwardIndex:
+        this file contains the class definition of forward indexing 
+
+3. implementation_forwardIndex:
+        this file implements the forward indexing function and generates a forward index in a text file named 'forward_index.txt' along with a lexicon in 'lexicon.txt'
+
+4. forward_index.txt:
+        this file actually contains the forward index that has 2 key fields: Document ID and keywords
+
+5. lexicon.txt:
+        this file contains all the distinct words present altogether in all the test files. we will utilize this to generate the inverted index along with forward_index.txt
+
+6. class_invertedIndex:
+        this file contains a class definition containing several functions to build an inverted index using the above mentioned both text files
+
+7. implementation_invertedIndex:
+        this file implements the class functions and generate a inverted index text file. at the end we also have a example test to verify our inverted index working
+
+8. inverted_index.txt:
+        this file contains the inverted index
+
+9. rankingAlgo:
+        the ranking algorithm is not completed yet...

@@ -1,5 +1,6 @@
 from class_forwardIndex import ForwardIndex
 from implementation_forwardIndex import load_config, build_forward_index
+import implementation_invertedindex 
 
 if __name__ == "__main__":
     # Load configuration settings from config.json or use default values
@@ -22,7 +23,21 @@ if __name__ == "__main__":
     # Write the lexicon to a TXT file
     forward_index_instance.save_lexicon_to_txt(lexicon_file_path_txt)
 
-    # Display success messages
+    #create inverted index
+    inverted_index = implementation_invertedindex.InvertedIndex()
+    inverted_index.build_inverted_index(implementation_invertedindex.forward_index_file_path, implementation_invertedindex.lexicon_file_path) #add in forward index, lexicon path
+    inverted_index.write_to_file(implementation_invertedindex.inverted_index_file_path) #add in inverted index path
+    
+    # Display success messages for all 
     print(f"Forward index saved to {output_file_path_txt}")
     print(f"Lexicon saved to {lexicon_file_path_txt}")
+    print(f"Inverted index saved to {implementation_invertedindex.inverted_index_file_path}")
+
+
+#Test search for inverted index
+    search_keyword = 'oregonianoregonlive'  # Replace with the keyword you want to search
+    result = inverted_index.search(search_keyword)
+    print(f"Documents containing '{search_keyword}': {', '.join(result)}")
+
+
     exit

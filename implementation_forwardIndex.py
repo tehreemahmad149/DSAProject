@@ -8,24 +8,26 @@ def load_config(config_path='config.json'):
     if os.path.exists(config_path):
         with open(config_path, 'r') as config_file:
             return json.load(config_file)
+     # Throw error otherwise
     else:
         print(f"Config file {config_path} not found. Using default configuration.")
         return {}
 
 def build_forward_index(folder_path, forward_index):
-    # Build the forward index by processing JSON files in the specified folder
+    # Build the forward index by processing JSON files in the specified folder and getting content
     for filename in os.listdir(folder_path):
         file_path = os.path.join(folder_path, filename)
         if os.path.isfile(file_path) and filename.endswith('.json'):
             extract_content_and_id_from_json(file_path, forward_index)
 
 def extract_content_and_id_from_json(file_path, forward_index):
-    # Extract content and document ID from a JSON file and add the document to the forward index
+    # Extract content and document ID from each object in a JSON file and add the document to the forward index
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
             if isinstance(data, list):
                 for obj_index, obj in enumerate(data):
+                    # Get content
                     content_item = obj.get('content', '')
                     if content_item:
                         # Generate a unique document ID based on the file name and object index
@@ -35,8 +37,7 @@ def extract_content_and_id_from_json(file_path, forward_index):
                         # Process the content and add the document to the forward index
                         tokens = process_content_generator(content_item)
                         forward_index.add_document(article_id, tokens)
-                        print(f"{article_id}: {tokens}")
-    except json.JSONDecodeError as e:
+    except json.JSONDecodeError as e:# Throw error otherwise
         print(f"Error decoding JSON in file {file_path}: {e}")
     except Exception as e:
         print(f"An unexpected error occurred in file {file_path}: {e}")

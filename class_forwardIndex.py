@@ -49,23 +49,15 @@ class ForwardIndex:
         # Return the entire word_id_mapping
         return self.word_id_mapping
 
-    def save_forwardIndex_to_txt(self, output_folder_path):
-        # Save the forward index to multiple text files based on the starting character of document IDs
-        file_paths = {}
-
-        for doc_id, (keywords, frequencies, positions) in self.index.items():
-            # Determine the file path based on the starting character of the doc_id
-            start_char = doc_id[0].lower() if doc_id else 'other'
-            file_path = file_paths.get(start_char, f"{output_folder_path}/forward_index_{start_char}.txt")
-
-            with open(file_path, 'a', encoding='utf-8') as txtfile:
+    def save_forwardIndex_to_txt(self, output_file_path):
+        # Save the forward index to a TXT file
+        with open(output_file_path, 'w', encoding='utf-8') as txtfile:
+            for doc_id, (keywords, frequencies, positions) in self.index.items():
                 keyword_str = ', '.join(map(str, keywords))
                 txtfile.write(f"Document ID: {doc_id}\n")
                 txtfile.write(f"Keywords: {keyword_str}\n")
                 txtfile.write(f"Frequencies: {frequencies}\n")
                 txtfile.write(f"Positions: {positions}\n\n")
-
-            file_paths[start_char] = file_path
 
     def save_lexicon_to_txt(self, lexicon_file_path):
         # Save the lexicon to a TXT file

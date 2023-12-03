@@ -1,16 +1,17 @@
 # import re
 import json
+import os
 from class_invertedIndex import InvertedIndex
 
-# Usage
-lexicon_file_path = '/home/gosal/tehreem-s-DSAprojectRepo/lexicon.txt'
-forward_index_file_path = '/home/gosal/tehreem-s-DSAprojectRepo/forward_index.txt'
-output_file = '/home/gosal/tehreem-s-DSAprojectRepo/inverted_index.txt'
+def load_config(config_path='config.json'):
+    # Load configuration from config.json
+    if os.path.exists(config_path):
+        with open(config_path, 'r') as config_file:
+            return json.load(config_file)
+     # Throw error otherwise
+    else:
+    # Throw error otherwise
+        print(f"Config file {config_path} not found. Using default configuration.")
+        return {}
 
-inverted_index = InvertedIndex()
-# inverted_index.build_index(lexicon_file_path, forward_index_file_path)
-# inverted_index.write_index_to_file(output_file)
 
-# Example search for the keyword 'please'
-result = inverted_index.search("please", output_file)
-print(f"Documents containing 'please': {result}")

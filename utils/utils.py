@@ -26,6 +26,6 @@ def process_content_generator(content):
     tokens = [word for word in word_tokenize(content) if word.isalpha() and word not in stop_words and word not in punctuation]
     return tokens
 
-# Function to generate unique document IDs based on file name and object index
+# Function to generate unique document IDs based on json file name and object index
 def generate_unique_doc_id(file_name, obj_index):
     return f"{file_name}_{obj_index}"

@@ -1,5 +1,8 @@
 {
-  "folder_path": "C:\\Users\\user\\Documents\\GitHub\\DSAProject\\testFiles",
-  "output_file_path_txt": "forward_index.txt",
-  "lexicon_file_path_txt": "lexicon.txt"
+  "folder_path": "C:\\Users\\user\\Documents\\GitHub\\DSAProject_2\\testFiles", 
+  "output_file_path_txt": "C:\\Users\\user\\Documents\\GitHub\\DSAProject_2\\forward_index.txt",
+  "lexicon_file_path_txt": "C:\\Users\\user\\Documents\\GitHub\\DSAProject_2\\lexicon.txt",
+  "inverted_index_file_path_txt": "C:\\Users\\user\\Documents\\GitHub\\DSAProject_2\\inverted_index.txt"
 }
+
+

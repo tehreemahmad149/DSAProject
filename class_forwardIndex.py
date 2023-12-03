@@ -1,10 +1,10 @@
 class ForwardIndex:
     def __init__(self):
         # Initialize attributes
-        self.index = {}           # Document ID to (keywords, frequencies, positions) dictionary
-        self.lexicon = {}         # Dictionary of unique keywords in the entire dataset (word -> (frequency, positions))
+        self.index = {}           # Document ID to (keywords, frequencies, positions) mapping
+        self.lexicon = {}     # Set of unique keywords in the entire dataset
         self.next_word_id = 1     # Counter for generating unique word IDs
-
+    
     def add_document(self, doc_id, keywords):
         # Add document to the index with associated keywords, frequencies, and positions
         frequencies = {}  # Define frequency dictionary

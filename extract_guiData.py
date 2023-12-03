@@ -31,7 +31,7 @@ def extract_metadata_from_json(file_path):
     return []
 
 # Path to the folder containing JSON files
-folder_path = 'C:\\Users\\user\\Documents\\GitHub\\DSAProject\\testFiles'
+folder_path = "\\DSAProject\\testFiles"
 
 # Create an instance of the ForwardIndex class
 forward_index = ForwardIndex()
@@ -48,7 +48,7 @@ for filename in os.listdir(folder_path):
         metadata_list.extend(extract_metadata_from_json(file_path))
 
 # Save metadata to a TXT file
-metadata_file_path_txt = 'metadata.txt'
+metadata_file_path_txt = '\\DSAProject\\metadata.txt'
 with open(metadata_file_path_txt, 'w', encoding='utf-8') as metadata_file:
     for metadata_entry in metadata_list:
         metadata_file.write(f"Doc ID: {metadata_entry['doc_id']}\n")

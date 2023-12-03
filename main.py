@@ -1,3 +1,5 @@
+import os
+
 from class_forwardIndex import ForwardIndex
 from implementation_forwardIndex import load_config, build_forward_index
 
@@ -16,12 +18,16 @@ if __name__ == "__main__":
     # Build the forward index by processing JSON files in the specified folder
     build_forward_index(folder_path, forward_index_instance)
 
-    # Write the forward index to a TXT file
-    forward_index_instance.save_forwardIndex_to_txt(output_file_path_txt)
-
     # Write the lexicon to a TXT file
     forward_index_instance.save_lexicon_to_txt(lexicon_file_path_txt)
 
-    # Display success messages
-    print(f"Forward index saved to {output_file_path_txt}")
-    print(f"Lexicon saved to {lexicon_file_path_txt}")
+    # Create a folder to store the split text files
+    output_folder_path = "output_txt_files"
+    os.makedirs(output_folder_path, exist_ok=True)
+
+    # Write the forward index to multiple text files
+    forward_index_instance.save_forwardIndex_to_txt(output_folder_path)
+
+    # Display success message
+    print(f"Forward index saved to {output_folder_path}/")
+    exit()

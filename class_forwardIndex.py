@@ -1,6 +1,6 @@
 class ForwardIndex:
     def __init__(self):
-        # Initialize attribute
+        # Initialize attributes
         self.index = {}           # Document ID to (keywords, frequencies, positions) mapping
         self.lexicon = {}     # Set of unique keywords in the entire dataset
         self.next_word_id = 1     # Counter for generating unique word IDs

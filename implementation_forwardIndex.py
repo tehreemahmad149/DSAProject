@@ -35,6 +35,7 @@ def extract_content_and_id_from_json(file_path, forward_index):
                         # Process the content and add the document to the forward index
                         tokens = process_content_generator(content_item)
                         forward_index.add_document(article_id, tokens)
+                        print(f"{article_id}: {tokens}")
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON in file {file_path}: {e}")
     except Exception as e:

@@ -2,10 +2,10 @@ class InvertedIndex:
     def __init__(self):
         self.index = {}
 
-    def read_lexicon(self, lexicon_path):
+    def read_lexicon(self, lexicon_file_path):
         lexicon_words = set()
 
-        with open(lexicon_path, 'r', encoding='utf-8') as lexicon_file:
+        with open(lexicon_file_path, 'r', encoding='utf-8') as lexicon_file:
             # Skip the header line
             next(lexicon_file)
             for line in lexicon_file:
@@ -20,12 +20,12 @@ class InvertedIndex:
         if doc_id not in self.index[keyword]:
             self.index[keyword].append(doc_id) 
 
-    def build_inverted_index(self, file_path, lexicon_path):
+    def build_inverted_index(self, output_file_path, lexicon_path):
         # Read lexicon file
         lexicon_words = self.read_lexicon(lexicon_path)
 
         # Read forward index file
-        with open(file_path, 'r') as file:
+        with open(output_file_path, 'r') as file:
             lines = file.readlines()
 
         current_doc_id = None
@@ -40,8 +40,8 @@ class InvertedIndex:
                     if keyword in lexicon_words:
                         self.add_entry(keyword, current_doc_id)
                        
-    def write_to_file(self, output_file):
-        with open(output_file, 'w') as file:
+    def write_to_file(self, inverted_index_file_path):
+        with open(inverted_index_file_path, 'w') as file:
             for keyword, doc_ids in self.index.items():
                 file.write(f"{keyword}: {', '.join(doc_ids)}\n")
 

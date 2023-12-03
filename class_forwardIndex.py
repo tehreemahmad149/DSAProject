@@ -48,11 +48,13 @@ class ForwardIndex:
         # Save the forward index to a TXT file
         with open(output_file_path, 'w', encoding='utf-8') as txtfile:
             for doc_id, (keywords, frequencies, positions) in self.index.items():
-                # Output information directly
+                # Converting keywords to string
+                keyword_str = ', '.join(map(str, keywords))
+                # Output information
                 txtfile.write(f"Document ID: {doc_id}\n")
-                txtfile.write(f"Keywords: {keywords}")
-                txtfile.write(f"Frequencies: {frequencies}")
-                txtfile.write(f"Positions: {positions}\n")
+                txtfile.write(f"Keywords: {keyword_str}\n")
+                txtfile.write(f"Frequencies: {frequencies}\n")
+                txtfile.write(f"Positions: {positions}\n\n")
 
     def save_lexicon_to_txt(self, lexicon_file_path):
         # Save the lexicon to a TXT file

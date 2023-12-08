@@ -1,3 +1,7 @@
+import json
+import os
+import re
+
 class ForwardIndex:
     def __init__(self):
         # Initialize attributes
@@ -44,22 +48,30 @@ class ForwardIndex:
         # Return the word ID for a given keyword
         return self.lexicon.get(word, (None, None))[0]
 
-    def save_forwardIndex_to_txt(self, output_file_path):
+
+    def save_forwardIndex_to_json(self, output_file_path):
         # Save the forward index to a TXT file
-        with open(output_file_path, 'w', encoding='utf-8') as txtfile:
+        with open(output_file_path, 'w', encoding='utf-8') as json_file:
+            data_list = []
             for doc_id, (keywords, frequencies, positions) in self.index.items():
                 # Converting keywords to string
                 keyword_str = ', '.join(map(str, keywords))
-                # Output information
-                txtfile.write(f"Document ID: {doc_id}\n")
-                txtfile.write(f"Keywords: {keyword_str}\n")
-                txtfile.write(f"Frequencies: {frequencies}\n")
-                txtfile.write(f"Positions: {positions}\n\n")
+                frequencies_str = list(map(str, frequencies))
+                positions_str = list(map(str, positions))
+                data = {"Document ID": doc_id, "Keywords": keyword_str, "Frequencies": frequencies_str, "Positions": positions_str}
+                data_list.append(data)
+            json.dump(data_list, json_file, indent=2)
 
-    def save_lexicon_to_txt(self, lexicon_file_path):
+
+    def save_lexicon_to_json(self, lexicon_file_path):
         # Save the lexicon to a TXT file
-        with open(lexicon_file_path, 'w', encoding='utf-8') as txtfile:
-            txtfile.write("Word ID\tWord\n")
-            for word in self.lexicon:
-                word_id = self.lexicon[word]
-                txtfile.write(f"{word_id}\t{word}\n")
+        with open(lexicon_file_path, 'w', encoding='utf-8') as json_file:
+            lexicon_list = []
+            for word, word_id in self.lexicon.items():
+                data = {"Word ID": word_id, "Word": word}
+                lexicon_list.append(data)
+                
+            with open(lexicon_file_path, 'w', encoding='utf-8') as json_file:
+                json.dump(lexicon_list, json_file, indent=2)
+
+

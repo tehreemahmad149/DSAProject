@@ -58,7 +58,7 @@ class ForwardIndex:
                 keyword_str = ', '.join(map(str, keywords))
                 frequencies_str = list(map(str, frequencies))
                 positions_str = list(map(str, positions))
-                data = {"Document ID": doc_id, "Keywords": keyword_str, "Frequencies": frequencies_str, "Positions": positions_str}
+                data = {"Document ID": doc_id, "Keywords": keyword_str, "Frequencies": frequencies, "Positions": positions}
                 data_list.append(data)
             json.dump(data_list, json_file, indent=2)
 

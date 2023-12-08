@@ -1,0 +1,852 @@
+{
+    "yachts": {
+        "Word ID": 11014,
+        "Document IDs": [
+            "prntly_4"
+        ]
+    },
+    "yager": {
+        "Word ID": 5711,
+        "Document IDs": [
+            "airwars_22"
+        ]
+    },
+    "yahoo": {
+        "Word ID": 12366,
+        "Document IDs": [
+            "themichellemalkinblog_7"
+        ]
+    },
+    "yale": {
+        "Word ID": 7379,
+        "Document IDs": [
+            "ancientcode_15"
+        ]
+    },
+    "yard": {
+        "Word ID": 15605,
+        "Document IDs": [
+            "airwars_14",
+            "disclosetv_19",
+            "truthdig_32",
+            "usahitman_49",
+            "usahitman_51"
+        ]
+    },
+    "yards": {
+        "Word ID": 5200,
+        "Document IDs": [
+            "airwars_14"
+        ]
+    },
+    "year": {
+        "Word ID": 650,
+        "Document IDs": [
+            "369news_0",
+            "369news_1",
+            "369news_2",
+            "911truthorg_1",
+            "911truthorg_3",
+            "airwars_0",
+            "airwars_1",
+            "airwars_2",
+            "airwars_3",
+            "airwars_4",
+            "airwars_5",
+            "airwars_8",
+            "airwars_9",
+            "airwars_10",
+            "airwars_11",
+            "airwars_14",
+            "airwars_15",
+            "airwars_17",
+            "airwars_18",
+            "airwars_19",
+            "airwars_20",
+            "airwars_22",
+            "airwars_23",
+            "airwars_24",
+            "airwars_26",
+            "airwars_27",
+            "alternativemediatelevisionamtv_0",
+            "alternativemediatelevisionamtv_5",
+            "alternativemediatelevisionamtv_7",
+            "alternativemediatelevisionamtv_8",
+            "alternativemediatelevisionamtv_9",
+            "alternativemediatelevisionamtv_10",
+            "alternativemediatelevisionamtv_11",
+            "alternativemediatelevisionamtv_13",
+            "alternativemediatv_0",
+            "alternativemediatv_5",
+            "alternativemediatv_7",
+            "alternativemediatv_8",
+            "alternativemediatv_9",
+            "alternativemediatv_10",
+            "alternativemediatv_11",
+            "alternativemediatv_13",
+            "ancientcode_2",
+            "ancientcode_4",
+            "ancientcode_5",
+            "ancientcode_8",
+            "ancientcode_9",
+            "ancientcode_10",
+            "ancientcode_11",
+            "ancientcode_12",
+            "ancientcode_13",
+            "ancientcode_14",
+            "ancientcode_15",
+            "ancientcode_16",
+            "ancientcode_17",
+            "ancientcode_18",
+            "ancientcode_19",
+            "collectiveevolution_4",
+            "collectiveevolution_5",
+            "dailybuzzlive_1",
+            "dailybuzzlive_5",
+            "disclosetv_2",
+            "disclosetv_14",
+            "disclosetv_16",
+            "disclosetv_17",
+            "disclosetv_19",
+            "disclosetv_21",
+            "disclosetv_23",
+            "disclosetv_24",
+            "draxe_4",
+            "draxe_5",
+            "draxe_7",
+            "draxe_8",
+            "draxe_19",
+            "escapeallthesethings_1",
+            "escapeallthesethings_4",
+            "escapeallthesethings_5",
+            "obamawatcher_0",
+            "obamawatcher_1",
+            "obamawatcher_3",
+            "obamawatcher_4",
+            "obamawatcher_6",
+            "observer_0",
+            "observer_2",
+            "prntly_0",
+            "prntly_4",
+            "realclimatescience_1",
+            "realclimatescience_6",
+            "realclimatescience_18",
+            "realclimatescience_22",
+            "realclimatescience_25",
+            "realclimatescience_43",
+            "realclimatescience_48",
+            "realclimatescience_53",
+            "realclimatescience_62",
+            "realclimatescience_68",
+            "realclimatescience_71",
+            "realclimatescience_72",
+            "realclimatescience_73",
+            "realclimatescience_75",
+            "realclimatescience_108",
+            "realclimatescience_112",
+            "realclimatescience_116",
+            "realclimatescience_145",
+            "realclimatescience_148",
+            "realclimatescience_150",
+            "realjewnews_21",
+            "realjewnews_37",
+            "thehuffingtonpostpoliticalsatire_0",
+            "themichellemalkinblog_0",
+            "themichellemalkinblog_1",
+            "themichellemalkinblog_3",
+            "themichellemalkinblog_4",
+            "themichellemalkinblog_6",
+            "themichellemalkinblog_8",
+            "themichellemalkinblog_9",
+            "themillenniumreport_0",
+            "truthdig_4",
+            "truthdig_6",
+            "truthdig_21",
+            "truthdig_28",
+            "truthdig_32",
+            "truthdig_36",
+            "truthdig_37",
+            "truthdig_40",
+            "truthdig_46",
+            "truthdig_47",
+            "usahitman_0",
+            "usahitman_2",
+            "usahitman_4",
+            "usahitman_6",
+            "usahitman_10",
+            "usahitman_11",
+            "usahitman_14",
+            "usahitman_16",
+            "usahitman_19",
+            "usahitman_21",
+            "usahitman_23",
+            "usahitman_25",
+            "usahitman_28",
+            "usahitman_29",
+            "usahitman_33",
+            "usahitman_34",
+            "usahitman_39",
+            "usahitman_41",
+            "usahitman_43",
+            "usahitman_45",
+            "usahitman_48",
+            "usahitman_49",
+            "usahitman_50",
+            "usahitman_52",
+            "usahitman_53",
+            "usahitman_55",
+            "usahitman_56",
+            "usahitman_57",
+            "usahitman_58"
+        ]
+    },
+    "yearbook": {
+        "Word ID": 11765,
+        "Document IDs": [
+            "thehuffingtonpostpoliticalsatire_0"
+        ]
+    },
+    "yearly": {
+        "Word ID": 992,
+        "Document IDs": [
+            "369news_1",
+            "alternativemediatelevisionamtv_0",
+            "alternativemediatelevisionamtv_5",
+            "alternativemediatelevisionamtv_7",
+            "alternativemediatelevisionamtv_8",
+            "alternativemediatelevisionamtv_9",
+            "alternativemediatelevisionamtv_10",
+            "alternativemediatelevisionamtv_11",
+            "alternativemediatv_0",
+            "alternativemediatv_5",
+            "alternativemediatv_7",
+            "alternativemediatv_8",
+            "alternativemediatv_9",
+            "alternativemediatv_10",
+            "alternativemediatv_11",
+            "escapeallthesethings_5"
+        ]
+    },
+    "yearning": {
+        "Word ID": 11910,
+        "Document IDs": [
+            "themichellemalkinblog_1"
+        ]
+    },
+    "yearround": {
+        "Word ID": 9869,
+        "Document IDs": [
+            "draxe_19"
+        ]
+    },
+    "years": {
+        "Word ID": 171,
+        "Document IDs": [
+            "369news_0",
+            "369news_1",
+            "911truthorg_3",
+            "airwars_0",
+            "airwars_1",
+            "airwars_2",
+            "airwars_3",
+            "airwars_4",
+            "airwars_5",
+            "airwars_8",
+            "airwars_9",
+            "airwars_10",
+            "airwars_11",
+            "airwars_14",
+            "airwars_15",
+            "airwars_18",
+            "airwars_19",
+            "airwars_22",
+            "airwars_23",
+            "airwars_24",
+            "airwars_26",
+            "airwars_27",
+            "ancientcode_2",
+            "ancientcode_4",
+            "ancientcode_8",
+            "ancientcode_9",
+            "ancientcode_10",
+            "ancientcode_11",
+            "ancientcode_12",
+            "ancientcode_13",
+            "ancientcode_14",
+            "ancientcode_15",
+            "ancientcode_16",
+            "ancientcode_17",
+            "ancientcode_18",
+            "ancientcode_19",
+            "collectiveevolution_4",
+            "collectiveevolution_5",
+            "dailybuzzlive_1",
+            "disclosetv_16",
+            "disclosetv_17",
+            "disclosetv_19",
+            "disclosetv_21",
+            "disclosetv_24",
+            "draxe_4",
+            "draxe_5",
+            "draxe_8",
+            "escapeallthesethings_1",
+            "escapeallthesethings_4",
+            "escapeallthesethings_5",
+            "obamawatcher_0",
+            "obamawatcher_3",
+            "obamawatcher_4",
+            "obamawatcher_6",
+            "observer_0",
+            "observer_2",
+            "prntly_0",
+            "prntly_4",
+            "realclimatescience_1",
+            "realclimatescience_6",
+            "realclimatescience_18",
+            "realclimatescience_22",
+            "realclimatescience_25",
+            "realclimatescience_48",
+            "realclimatescience_68",
+            "realclimatescience_72",
+            "realclimatescience_73",
+            "realclimatescience_75",
+            "realclimatescience_108",
+            "realclimatescience_112",
+            "realclimatescience_145",
+            "realclimatescience_148",
+            "realclimatescience_150",
+            "themichellemalkinblog_0",
+            "themichellemalkinblog_1",
+            "themichellemalkinblog_3",
+            "themichellemalkinblog_4",
+            "themichellemalkinblog_6",
+            "themichellemalkinblog_8",
+            "themillenniumreport_0",
+            "truthdig_4",
+            "truthdig_6",
+            "truthdig_28",
+            "truthdig_32",
+            "truthdig_36",
+            "truthdig_40",
+            "truthdig_46",
+            "usahitman_0",
+            "usahitman_4",
+            "usahitman_10",
+            "usahitman_11",
+            "usahitman_21",
+            "usahitman_28",
+            "usahitman_29",
+            "usahitman_34",
+            "usahitman_39",
+            "usahitman_49",
+            "usahitman_50",
+            "usahitman_52",
+            "usahitman_57"
+        ]
+    },
+    "yearsin": {
+        "Word ID": 3585,
+        "Document IDs": [
+            "911truthorg_3"
+        ]
+    },
+    "yearslong": {
+        "Word ID": 5689,
+        "Document IDs": [
+            "airwars_22"
+        ]
+    },
+    "yehovah": {
+        "Word ID": 9932,
+        "Document IDs": [
+            "escapeallthesethings_1",
+            "escapeallthesethings_4"
+        ]
+    },
+    "yellen": {
+        "Word ID": 8526,
+        "Document IDs": [
+            "disclosetv_9",
+            "realjewnews_21"
+        ]
+    },
+    "yellow": {
+        "Word ID": 382,
+        "Document IDs": [
+            "369news_0",
+            "airwars_7",
+            "airwars_14",
+            "draxe_18"
+        ]
+    },
+    "yells": {
+        "Word ID": 14371,
+        "Document IDs": [
+            "truthdig_37"
+        ]
+    },
+    "yemen": {
+        "Word ID": 4895,
+        "Document IDs": [
+            "airwars_9",
+            "airwars_11",
+            "airwars_12",
+            "airwars_15",
+            "airwars_18"
+        ]
+    },
+    "yeren": {
+        "Word ID": 10814,
+        "Document IDs": [
+            "prntly_0"
+        ]
+    },
+    "yes": {
+        "Word ID": 4653,
+        "Document IDs": [
+            "911truthorg_2",
+            "airwars_4",
+            "airwars_7",
+            "airwars_22",
+            "airwars_24",
+            "allianceadvancedhealth_0",
+            "allianceadvancedhealth_1",
+            "allianceadvancedhealth_2",
+            "allianceadvancedhealth_3",
+            "allianceadvancedhealth_4",
+            "allianceadvancedhealth_5",
+            "allianceadvancedhealth_6",
+            "allianceadvancedhealth_7",
+            "allianceadvancedhealth_8",
+            "allianceadvancedhealth_9",
+            "allianceforadvancedhealth_0",
+            "allianceforadvancedhealth_1",
+            "allianceforadvancedhealth_2",
+            "allianceforadvancedhealth_3",
+            "allianceforadvancedhealth_4",
+            "allianceforadvancedhealth_5",
+            "allianceforadvancedhealth_6",
+            "allianceforadvancedhealth_7",
+            "allianceforadvancedhealth_8",
+            "allianceforadvancedhealth_9",
+            "ancientcode_17",
+            "ancientcode_19",
+            "disclosetv_2",
+            "disclosetv_10",
+            "draxe_7",
+            "draxe_14",
+            "escapeallthesethings_4",
+            "obamawatcher_4",
+            "obamawatcher_8",
+            "prntly_2",
+            "realclimatescience_126",
+            "themichellemalkinblog_1",
+            "themichellemalkinblog_2",
+            "themichellemalkinblog_3",
+            "themichellemalkinblog_6",
+            "themichellemalkinblog_7",
+            "themillenniumreport_0",
+            "truthdig_4",
+            "truthdig_46",
+            "usahitman_13",
+            "usahitman_20",
+            "usahitman_49"
+        ]
+    },
+    "yeshua": {
+        "Word ID": 10015,
+        "Document IDs": [
+            "escapeallthesethings_4"
+        ]
+    },
+    "yesno": {
+        "Word ID": 4406,
+        "Document IDs": [
+            "airwars_4"
+        ]
+    },
+    "yesterday": {
+        "Word ID": 5692,
+        "Document IDs": [
+            "airwars_22",
+            "airwars_24",
+            "disclosetv_2",
+            "disclosetv_10",
+            "obamawatcher_4",
+            "obamawatcher_8",
+            "prntly_2"
+        ]
+    },
+    "yet": {
+        "Word ID": 1127,
+        "Document IDs": [
+            "369news_1",
+            "911truthorg_1",
+            "911truthorg_2",
+            "911truthorg_3",
+            "airwars_0",
+            "airwars_1",
+            "airwars_2",
+            "airwars_4",
+            "airwars_5",
+            "airwars_6",
+            "airwars_7",
+            "airwars_8",
+            "airwars_10",
+            "airwars_14",
+            "airwars_16",
+            "airwars_22",
+            "airwars_24",
+            "airwars_25",
+            "airwars_26",
+            "airwars_27",
+            "ancientcode_8",
+            "ancientcode_10",
+            "ancientcode_12",
+            "ancientcode_13",
+            "ancientcode_14",
+            "ancientcode_15",
+            "collectiveevolution_18",
+            "disclosetv_2",
+            "disclosetv_19",
+            "disclosetv_21",
+            "draxe_1",
+            "draxe_7",
+            "draxe_9",
+            "draxe_15",
+            "draxe_17",
+            "draxe_20",
+            "escapeallthesethings_4",
+            "escapeallthesethings_5",
+            "prntly_4",
+            "realclimatescience_143",
+            "realjewnews_37",
+            "realstrategy_4",
+            "themichellemalkinblog_3",
+            "themichellemalkinblog_9",
+            "themillenniumreport_0",
+            "truthdig_4",
+            "truthdig_5",
+            "truthdig_28",
+            "truthdig_32",
+            "truthdig_36",
+            "usahitman_6",
+            "usahitman_11",
+            "usahitman_45"
+        ]
+    },
+    "yetby": {
+        "Word ID": 10207,
+        "Document IDs": [
+            "escapeallthesethings_5"
+        ]
+    },
+    "yielding": {
+        "Word ID": 14412,
+        "Document IDs": [
+            "truthdig_40"
+        ]
+    },
+    "yields": {
+        "Word ID": 11420,
+        "Document IDs": [
+            "realjewnews_21",
+            "usahitman_41"
+        ]
+    },
+    "yokohama": {
+        "Word ID": 12769,
+        "Document IDs": [
+            "themillenniumreport_0"
+        ]
+    },
+    "yolk": {
+        "Word ID": 9580,
+        "Document IDs": [
+            "draxe_9",
+            "draxe_10",
+            "draxe_19"
+        ]
+    },
+    "yolks": {
+        "Word ID": 9588,
+        "Document IDs": [
+            "draxe_10",
+            "draxe_19"
+        ]
+    },
+    "yom": {
+        "Word ID": 10158,
+        "Document IDs": [
+            "escapeallthesethings_5",
+            "realclimatescience_90"
+        ]
+    },
+    "yoo": {
+        "Word ID": 10490,
+        "Document IDs": [
+            "obamawatcher_5"
+        ]
+    },
+    "york": {
+        "Word ID": 2490,
+        "Document IDs": [
+            "911truthorg_1",
+            "911truthorg_3",
+            "airwars_1",
+            "airwars_3",
+            "airwars_4",
+            "airwars_10",
+            "airwars_19",
+            "airwars_21",
+            "airwars_22",
+            "airwars_24",
+            "ancientcode_5",
+            "ancientcode_6",
+            "ancientcode_7",
+            "disclosetv_10",
+            "prntly_4",
+            "realclimatescience_26",
+            "realclimatescience_54",
+            "realclimatescience_106",
+            "realclimatescience_108",
+            "realclimatescience_116",
+            "realclimatescience_130",
+            "thehuffingtonpostpoliticalsatire_0",
+            "themichellemalkinblog_1",
+            "themichellemalkinblog_2",
+            "themichellemalkinblog_4",
+            "themichellemalkinblog_7",
+            "themillenniumreport_0",
+            "truthdig_4",
+            "truthdig_5",
+            "truthdig_21",
+            "truthdig_28",
+            "truthdig_36",
+            "truthdig_40",
+            "truthdig_46",
+            "usahitman_5",
+            "usahitman_6",
+            "usahitman_28",
+            "usahitman_45"
+        ]
+    },
+    "yorkbased": {
+        "Word ID": 13754,
+        "Document IDs": [
+            "truthdig_21"
+        ]
+    },
+    "yorker": {
+        "Word ID": 6447,
+        "Document IDs": [
+            "ancientcode_5",
+            "ancientcode_6",
+            "truthdig_28",
+            "usahitman_6",
+            "usahitman_28"
+        ]
+    },
+    "yorkers": {
+        "Word ID": 14725,
+        "Document IDs": [
+            "usahitman_6",
+            "usahitman_28"
+        ]
+    },
+    "youd": {
+        "Word ID": 12301,
+        "Document IDs": [
+            "themichellemalkinblog_6"
+        ]
+    },
+    "youll": {
+        "Word ID": 12247,
+        "Document IDs": [
+            "themichellemalkinblog_6"
+        ]
+    },
+    "young": {
+        "Word ID": 6282,
+        "Document IDs": [
+            "ancientcode_2",
+            "ancientcode_7",
+            "ancientcode_11",
+            "ancientcode_12",
+            "ancientcode_13",
+            "ancientcode_14",
+            "ancientcode_16",
+            "ancientcode_17",
+            "disclosetv_21",
+            "obamawatcher_1",
+            "obamawatcher_7",
+            "prntly_4",
+            "themichellemalkinblog_2",
+            "themichellemalkinblog_3",
+            "themichellemalkinblog_9",
+            "themillenniumreport_0",
+            "truthdig_28",
+            "truthdig_32",
+            "truthdig_37",
+            "urbanintellectuals_0"
+        ]
+    },
+    "younger": {
+        "Word ID": 6566,
+        "Document IDs": [
+            "ancientcode_7",
+            "ancientcode_11",
+            "ancientcode_16",
+            "ancientcode_17",
+            "disclosetv_21"
+        ]
+    },
+    "youngest": {
+        "Word ID": 7133,
+        "Document IDs": [
+            "ancientcode_13"
+        ]
+    },
+    "youngsters": {
+        "Word ID": 14283,
+        "Document IDs": [
+            "truthdig_37"
+        ]
+    },
+    "younis": {
+        "Word ID": 4336,
+        "Document IDs": [
+            "airwars_4"
+        ]
+    },
+    "youre": {
+        "Word ID": 12011,
+        "Document IDs": [
+            "themichellemalkinblog_2",
+            "themichellemalkinblog_4"
+        ]
+    },
+    "yousif": {
+        "Word ID": 4063,
+        "Document IDs": [
+            "airwars_2"
+        ]
+    },
+    "youssef": {
+        "Word ID": 4043,
+        "Document IDs": [
+            "airwars_2"
+        ]
+    },
+    "youth": {
+        "Word ID": 8890,
+        "Document IDs": [
+            "ancientcode_17",
+            "disclosetv_21",
+            "themichellemalkinblog_3",
+            "usahitman_26"
+        ]
+    },
+    "youthfulness": {
+        "Word ID": 7680,
+        "Document IDs": [
+            "ancientcode_17"
+        ]
+    },
+    "youtube": {
+        "Word ID": 3433,
+        "Document IDs": [
+            "911truthorg_3",
+            "ancientcode_2",
+            "ancientcode_9",
+            "ancientcode_11",
+            "escapeallthesethings_1",
+            "obamawatcher_5",
+            "realclimatescience_33"
+        ]
+    },
+    "yuanmingyuan": {
+        "Word ID": 13084,
+        "Document IDs": [
+            "themillenniumreport_0"
+        ]
+    },
+    "yuga": {
+        "Word ID": 1041,
+        "Document IDs": [
+            "369news_1"
+        ]
+    },
+    "yugoslavia": {
+        "Word ID": 12872,
+        "Document IDs": [
+            "themillenniumreport_0"
+        ]
+    },
+    "yuka": {
+        "Word ID": 6163,
+        "Document IDs": [
+            "ancientcode_2"
+        ]
+    },
+    "yukaghir": {
+        "Word ID": 6188,
+        "Document IDs": [
+            "ancientcode_2"
+        ]
+    },
+    "yukon": {
+        "Word ID": 9515,
+        "Document IDs": [
+            "draxe_8"
+        ]
+    },
+    "yum": {
+        "Word ID": 9230,
+        "Document IDs": [
+            "draxe_2",
+            "draxe_5",
+            "draxe_12",
+            "draxe_13",
+            "draxe_17"
+        ]
+    },
+    "yummiest": {
+        "Word ID": 9683,
+        "Document IDs": [
+            "draxe_13"
+        ]
+    },
+    "yummy": {
+        "Word ID": 9370,
+        "Document IDs": [
+            "draxe_5",
+            "draxe_12",
+            "draxe_17"
+        ]
+    },
+    "yuna": {
+        "Word ID": 12363,
+        "Document IDs": [
+            "themichellemalkinblog_7"
+        ]
+    },
+    "yup": {
+        "Word ID": 14181,
+        "Document IDs": [
+            "truthdig_36"
+        ]
+    },
+    "yuri": {
+        "Word ID": 6227,
+        "Document IDs": [
+            "ancientcode_2"
+        ]
+    },
+    "yuribey": {
+        "Word ID": 6278,
+        "Document IDs": [
+            "ancientcode_2"
+        ]
+    }
+}

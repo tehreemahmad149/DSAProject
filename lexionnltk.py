@@ -2,7 +2,7 @@ import nltk
 import json
 from nltk.corpus import wordnet as wn
 
-'''def build_lexicon():
+def build_lexicon():
     lexicon = []
     word_id = 1
 
@@ -20,7 +20,7 @@ def save_lexicon_to_json(lexicon, output_file):
         json.dump(lexicon, json_file, indent=2)
 
 lexicon = build_lexicon()
-save_lexicon_to_json(lexicon, 'C:\\DSAProject\\lexicon.json')'''
+save_lexicon_to_json(lexicon, 'C:\\DSAProject\\lexicon.json')
 word_synsets = wn.synsets('semiramis')
 
 if word_synsets:

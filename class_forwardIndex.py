@@ -32,9 +32,9 @@ class ForwardIndex:
                 self.next_word_id += 1
 
     def get_info_for_document(self, doc_id):
-        # Return all information (keywords, frequencies, positions) 
-        # associated with a specific document ID
-        return self.index.get(doc_id, ((), {}, {}))
+    # Return all information (keywords, frequencies, positions, date, title) associated with a specific document ID
+        return self.index.get(doc_id, ((), {}, {}, "", ""))
+
 
     def get_original_document_id(self, ranked_document_id):
         # Retrieving original document ID based on ranking (not yet implemented)
@@ -74,4 +74,9 @@ class ForwardIndex:
             with open(lexicon_file_path, 'w', encoding='utf-8') as json_file:
                 json.dump(lexicon_list, json_file, indent=2)
 
+    def rank_documents(self, query):
+        # Use the ranking functions from the separate file
+        from ranking import Ranking
 
+        # Call the ranking function with the forward index instance and the query
+        return Ranking.rank_documents(self, query)

@@ -28,8 +28,10 @@ def extract_content_and_id_from_json(file_path, forward_index):
             data = json.load(file)
             if isinstance(data, list):
                 for obj_index, obj in enumerate(data):
-                    # Get content
+                    # Get content and title
                     content_item = obj.get('content', '')
+                    title = obj.get('title', '')  # Add this line to extract the title
+
                     if content_item:
                         # Generate a unique document ID based on the file name and object index
                         file_name = os.path.splitext(os.path.basename(file_path))[0]
@@ -37,9 +39,8 @@ def extract_content_and_id_from_json(file_path, forward_index):
 
                         # Process the content and add the document to the forward index
                         tokens = process_content_generator(content_item)
-                        forward_index.add_document(article_id, tokens) 
-    # Throw error otherwise
+                        forward_index.add_document(article_id, tokens, title)  # Update this line
     except json.JSONDecodeError as error:
         print(f"Error decoding JSON in file {file_path}: {error}")
     except Exception as e:
-        print(f"An unexpected error occurred in file {file_path}: {error}")
+        print(f"An unexpected error occurred in file {file_path}: {e}")

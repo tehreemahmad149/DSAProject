@@ -31,3 +31,7 @@ Components Description:
 
 9. rankingAlgo:
         the ranking algorithm is not completed yet...
+
+10. barrels.py:
+        distributed the inverted index into 26 json files in "barrel_created" folder based on alphabetical order
+        

@@ -1,50 +1,46 @@
+import json
+import os
+import re
+from class_forwardIndex import ForwardIndex
+
+
 class InvertedIndex:
     def __init__(self):
+        # Initialize the inverted index as a dictionary with keywords mapping to document IDs
         self.index = {}
 
-    def read_lexicon(self, lexicon_file_path):
-        lexicon_words = set()
+    def build_inverted_index(self, forward_index_path, lexicon_path):
+        # Read forward index and lexicon from JSON files
+        with open(forward_index_path, 'r', encoding='utf-8') as forward_file:
+            forward_index = json.load(forward_file)
 
-        with open(lexicon_file_path, 'r', encoding='utf-8') as lexicon_file:
-            # Skip the header line
-            next(lexicon_file)
-            for line in lexicon_file:
-                word = line.split('\t')[-1].strip()
-                lexicon_words.add(word)
-        return lexicon_words #all the words in the lexicon
-    
+        with open(lexicon_path, 'r', encoding='utf-8') as lexicon_file:
+            lexicon = json.load(lexicon_file)
 
-    def add_entry(self, keyword, doc_id):
-        if keyword not in self.index:
-            self.index[keyword] = [] #empty list for that keyword
-        if doc_id not in self.index[keyword]:
-            self.index[keyword].append(doc_id) 
+        # Iterate through the lexicon to build the inverted index
+        for word_info in lexicon:
+            word_id = word_info["Word ID"]
+            word = word_info['Word']
+            # Initialize the inverted index entry for the current keyword
+            self.index[word] = {"Word ID": word_id, "Document IDs": []}
 
-    def build_inverted_index(self, output_file_path, lexicon_path):
-        # Read lexicon file
-        lexicon_words = self.read_lexicon(lexicon_path)
+            # Iterate through the forward index to find documents containing the current keyword
+            for data in forward_index:
+                keywords = data['Keywords']
+                doc_id = data['Document ID']
+                if word in keywords:
+                    self.index[word]["Document IDs"].append(doc_id)
 
-        # Read forward index file
-        with open(output_file_path, 'r') as file:
-            lines = file.readlines()
+    def save_inverted_index_to_json(self, output_file_path):
+        # Save the inverted index to a JSON file
+        with open(output_file_path, 'w', encoding='utf-8') as json_file:
+            json.dump(self.index, json_file, indent=1)
 
-        current_doc_id = None
-        current_keywords = []
+    def search_inverted_index(self, keyword):
+        # Search the inverted index for a keyword and return the list of document IDs
+        return self.index.get(keyword, {}).get("Document IDs", [])
 
-        for line in lines:
-            if line.startswith('Document ID:'):
-                current_doc_id = line.split(':')[-1].strip()
-            elif line.startswith('Keywords:'):
-                current_keywords = [kw.strip() for kw in line.split(':')[-1].split(',')]
-                for keyword in current_keywords:
-                    if keyword in lexicon_words:
-                        self.add_entry(keyword, current_doc_id)
-                       
-    def write_to_file(self, inverted_index_file_path):
-        with open(inverted_index_file_path, 'w') as file:
-            for keyword, doc_ids in self.index.items():
-                file.write(f"{keyword}: {', '.join(doc_ids)}\n")
 
-    def search(self, keyword):
-        return self.index.get(keyword, [])
+
+ 
 

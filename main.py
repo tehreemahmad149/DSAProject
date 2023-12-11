@@ -1,15 +1,18 @@
+# main.py
+
 from class_forwardIndex import ForwardIndex
+from class_invertedIndex import InvertedIndex
+from ranking import Ranking
 from implementation_forwardIndex import load_config, build_forward_index
-import implementation_invertedindex
 
 if __name__ == "__main__":
-
     config = load_config()
-    
-    # Get folder_path, output_file_path_txt, and lexicon_file_path_txt from config.json
+
+    # Get folder_path, output_file_path_txt, lexicon_file_path_txt, and inverted_index_file_path_txt from config.json
     folder_path = config.get('folder_path', '')
     output_file_path_txt = config.get('output_file_path_txt', 'forward_index.txt')
     lexicon_file_path_txt = config.get('lexicon_file_path_txt', 'lexicon.txt')
+    inverted_index_file_path_txt = config.get('inverted_index_file_path_txt', 'inverted_index.txt')
 
     # Create an instance of the ForwardIndex class
     forward_index_instance = ForwardIndex()
@@ -18,26 +21,25 @@ if __name__ == "__main__":
     build_forward_index(folder_path, forward_index_instance)
 
     # Save the forward index and lexicon to TXT files
-    forward_index_instance.save_forwardIndex_to_txt(output_file_path_txt)
-    forward_index_instance.save_lexicon_to_txt(lexicon_file_path_txt)
+    forward_index_instance.save_forwardIndex_to_json(output_file_path_txt)
+    forward_index_instance.save_lexicon_to_json(lexicon_file_path_txt)
 
-    #create inverted index
-    inverted_index = implementation_invertedindex.InvertedIndex()
-    inverted_index.build_inverted_index(output_file_path_txt, lexicon_file_path_txt)  # Use the paths from the configuration file
+    # Create an instance of the InvertedIndex class
+    inverted_index_instance = InvertedIndex()
 
-    # Get the inverted_index_file_path from the configuration file
-    inverted_index_file_path = config.get('inverted_index_file_path_txt', 'inverted_index.txt')
-    inverted_index.write_to_file(inverted_index_file_path)
-    
-    # Display success messages for all 
-    print(f"Forward index saved to {output_file_path_txt}")
-    print(f"Lexicon saved to {lexicon_file_path_txt}")
-    print(f"Inverted index saved to {inverted_index_file_path}")
+    # Build inverted index
+    inverted_index_instance.build_inverted_index(output_file_path_txt, lexicon_file_path_txt)
+    inverted_index_instance.save_inverted_index_to_json(inverted_index_file_path_txt)
 
+    # Create an instance of the Ranking class
+    ranking_instance = Ranking(forward_index_instance, inverted_index_instance)
 
-    #Test search for inverted index
-    search_keyword = 'oregonianoregonlive'  # Replace with the keyword you want to search
-    result = inverted_index.search(search_keyword)
-    print(f"Documents containing '{search_keyword}': {', '.join(result)}")
+    # Search for documents based on a query
+    query = ["lucifer", "darkness"]
+    ranked_documents = ranking_instance.rank_documents(query)
 
-    exit
+    # Display the ranked documents
+    for doc_id, score in ranked_documents:
+        print(f"Document ID: {doc_id}, Score: {score}")
+
+    exit()

@@ -12,7 +12,6 @@ class Ranking:
 
     @staticmethod
     def calculate_bm25f_score(forward_index, query, doc_id, k1=1.5, b=0.75, title_boost=1.2):
-
         # Get frequency of each word using forward index to further calculate the document length
         doc_info = forward_index.get_info_for_document(doc_id)
         document_length = doc_info.get('Doc_length')

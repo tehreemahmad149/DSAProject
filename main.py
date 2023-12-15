@@ -40,13 +40,11 @@ if __name__ == "__main__":
     # Build inverted index
     inverted_index_instance.build_inverted_index(output_file_path_txt, lexicon_file_path_txt)
     inverted_index_instance.save_inverted_index_to_json(inverted_index_file_path_txt)
-    inverted_index_instance.sort_inverted_index(inverted_index_file_path_txt)
+    # inverted_index_instance.sort_inverted_index(inverted_index_file_path_txt)
     
     end_1 = time.time()
     print(end_1 - start_1)
     
-    
-
     # #start time measurement
     # start = time.time()
       
@@ -63,7 +61,5 @@ if __name__ == "__main__":
 
     # end = time.time()
     # print(end - start)
-    
-    
     
     exit()

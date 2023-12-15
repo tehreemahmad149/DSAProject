@@ -1,5 +1,6 @@
 import json
 import os
+import hashlib 
 from utils.utils import process_content_generator, generate_unique_doc_id
 
 class ForwardIndex:
@@ -11,10 +12,12 @@ class ForwardIndex:
         self.total_doc_length = 0
     
     def add_document(self, doc_id, keywords, title, doc_length):
+        # Use SHA-256 hashing for the document ID
+        hashed_doc_id = hashlib.sha256(doc_id.encode()).hexdigest()
+
         # Add document to the index with associated keywords, frequencies, positions, and title
         frequencies = {}  # Define frequency dictionary
         positions = {}    # Define positions dictionary
-        # doc_length = {}   # Define document length dictionary
         # Add frequencies and positions for each keyword
         for position, word in enumerate(keywords):
             if word not in frequencies:
@@ -27,7 +30,7 @@ class ForwardIndex:
             self.total_doc_length += doc_length
 
         # Store title information
-        self.index[doc_id] = {"Keywords": keywords, "Frequencies": frequencies, "Positions": positions, "Title": title, "Doc_length": doc_length}
+        self.index[hashed_doc_id] = {"Keywords": keywords, "Frequencies": frequencies, "Positions": positions, "Title": title, "Doc_length": doc_length}
 
         # Update lexicon with the new unique words from the document, 
         # assigning Word IDs and incrementing them

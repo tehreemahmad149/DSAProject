@@ -1,7 +1,15 @@
 import json
 import os
-from implementation_forwardIndex import ForwardIndex
+import time
+import hashlib  # Import hashlib for SHA-256
+from class_forwardIndex import ForwardIndex
 from utils.utils import process_content_generator, generate_unique_doc_id
+
+def hash_string(string):
+    # Calculate SHA-256 hash of the input string
+    sha256 = hashlib.sha256()
+    sha256.update(string.encode('utf-8'))
+    return sha256.hexdigest()
 
 def extract_metadata_from_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -18,20 +26,21 @@ def extract_metadata_from_json(file_path):
                     json_url = obj.get('url', '')
 
                     if json_id and json_url:
-                        file_name = os.path.splitext(os.path.basename(file_path))[0]
-                        doc_id = generate_unique_doc_id(file_name, obj_index)
+                        # Use SHA-256 hash as the document ID
+                        doc_id = hash_string(f"{json_id}_{json_url}")
                         metadata_list.append({'doc_id': doc_id, 'json_id': json_id, 'json_url': json_url})
-                
+
                 if metadata_list:
                     return metadata_list
-
         except json.JSONDecodeError as e:
             print(f"Error decoding JSON in file {file_path}: {e}")
-
     return []
 
+#start time measurement
+start = time.time()
+
 # Path to the folder containing JSON files
-folder_path = "\\DSAProject\\testFiles"
+folder_path = "/home/gosal/Documents/DSA/project/DSAProject/testFiles/"
 
 # Create an instance of the ForwardIndex class
 forward_index = ForwardIndex()
@@ -47,13 +56,13 @@ for filename in os.listdir(folder_path):
         # Extract content and document IDs from each JSON file
         metadata_list.extend(extract_metadata_from_json(file_path))
 
-# Save metadata to a TXT file
-metadata_file_path_txt = '\\DSAProject\\metadata.txt'
-with open(metadata_file_path_txt, 'w', encoding='utf-8') as metadata_file:
-    for metadata_entry in metadata_list:
-        metadata_file.write(f"Doc ID: {metadata_entry['doc_id']}\n")
-        metadata_file.write(f"JSON ID: {metadata_entry['json_id']}\n")
-        metadata_file.write(f"JSON URL: {metadata_entry['json_url']}\n")
+# Save metadata to a JSON file
+metadata_file_path_json = '/home/gosal/Documents/DSA/project/DSAProject/metadata.json'
+with open(metadata_file_path_json, 'w', encoding='utf-8') as metadata_file:
+    json.dump(metadata_list, metadata_file, indent=2)
+
+print(f"Metadata saved to {metadata_file_path_json}")
 
 
-print(f"Metadata saved to {metadata_file_path_txt}")
+end = time.time()
+print(end - start)

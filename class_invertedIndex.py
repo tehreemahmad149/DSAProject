@@ -25,12 +25,10 @@ class InvertedIndex:
             self.index[word] = {"Word ID": word_id, "Document IDs": []}
 
             # Iterate through the forward index to find documents containing the current keyword
-            for doc_id, doc_info in forward_index.items():
+            for hashed_doc_id, doc_info in forward_index.items():
                 keywords = doc_info['Keywords']
                 if word in keywords:
-                    self.index[word]["Document IDs"].append(doc_id)
-
-
+                    self.index[word]["Document IDs"].append(hashed_doc_id)
 
     def save_inverted_index_to_json(self, output_file_path):
         # Save the inverted index to a JSON file
@@ -49,10 +47,10 @@ class InvertedIndex:
 
     def search_inverted_index(self, keywords):
         # Search the inverted index for keywords and return the list of unique document IDs
-        unique_document_ids = set()
+        unique_hashed_document_ids = set()
         for keyword in keywords:
-            unique_document_ids.update(self.index.get(keyword, {}).get("Document IDs", []))
-        return list(unique_document_ids)
+            unique_hashed_document_ids.update(self.index.get(keyword, {}).get("Document IDs", []))
+        return list(unique_hashed_document_ids)
 
 
 

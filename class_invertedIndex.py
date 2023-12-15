@@ -37,14 +37,23 @@ class InvertedIndex:
         with open(output_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(self.index, json_file, indent=1)
 
+    # old function
+    # def search_inverted_index(self, keywords):
+    #     # Search the inverted index for keywords and return the list of document IDs
+    #     document_ids = []
+    #     for keyword in keywords:
+    #         # document_ids.append(self.index[keyword])
+    #         # print(document_ids)
+    #         document_ids.extend(self.index.get(keyword, {}).get("Document IDs", []))
+    #     return document_ids
+
     def search_inverted_index(self, keywords):
-        # Search the inverted index for keywords and return the list of document IDs
-        document_ids = []
+        # Search the inverted index for keywords and return the list of unique document IDs
+        unique_document_ids = set()
         for keyword in keywords:
-            # document_ids.append(self.index[keyword])
-            # print(document_ids)
-            document_ids.extend(self.index.get(keyword, {}).get("Document IDs", []))
-        return document_ids
+            unique_document_ids.update(self.index.get(keyword, {}).get("Document IDs", []))
+        return list(unique_document_ids)
+
 
 
     def load_from_json(self, file_path):

@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-totalDocumentLengthFile = "/home/gosal/Documents/DSA/project/DSAProject/total_doc_len.json"
+totalDocumentLengthFile = "C:/Users/user/Documents/GitHub/DSAProject_2/total_doc_len.json"
 
 class Ranking:
     def __init__(self, forward_index, inverted_index):

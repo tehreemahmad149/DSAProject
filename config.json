@@ -1,9 +1,9 @@
 {
-  "folder_path": "/home/gosal/Documents/DSA/project/DSAProject/testFiles/", 
-  "output_file_path_txt": "/home/gosal/Documents/DSA/project/DSAProject/FI.json",
-  "lexicon_file_path_txt": "/home/gosal/Documents/DSA/project/DSAProject/Lexi.json",
-  "inverted_index_file_path_txt": "/home/gosal/Documents/DSA/project/DSAProject/II.json",
-  "total_doc_length_file": "/home/gosal/Documents/DSA/project/DSAProject/total_doc_len.json"
+  "folder_path": "C:/Users/user/Documents/GitHub/DSAProject_2/testFiles/", 
+  "output_file_path_txt": "C:/Users/user/Documents/GitHub/DSAProject_2/FI.json",
+  "lexicon_file_path_txt": "C:/Users/user/Documents/GitHub/DSAProject_2/Lexi.json",
+  "inverted_index_file_path_txt": "C:/Users/user/Documents/GitHub/DSAProject_2/II.json",
+  "total_doc_length_file": "C:/Users/user/Documents/GitHub/DSAProject_2/total_doc_len.json"
 }
 
 

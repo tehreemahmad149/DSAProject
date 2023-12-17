@@ -12,6 +12,13 @@ def get_barrel_for_word_id(word_id):
 # Start time measurement
 start = time.time()
 
+# def get_barrel_id(query, barrels):
+#     for word in query:
+#         wordId= forward_index_instance.get_word_id(word)
+#         print(wordId)
+#         if(wordId):
+#             barrels.append(get_barrel_for_word_id(wordId))
+
 def split_json_by_word_id(input_path, output_folder):
     with open(input_path, 'r') as input_file:
         data = json.load(input_file)
@@ -20,21 +27,29 @@ def split_json_by_word_id(input_path, output_folder):
     if not isinstance(data, dict):
         raise ValueError("Input JSON should contain a dictionary of objects.")
 
-    # Iterate through the data to determine the barrels and write to respective files
+    # Create a dictionary to store data for each barrel
+    barrels_data = {}
+
+    # Iterate through the data to determine the barrels and store data in respective dictionaries
     for key, value in data.items():
         word_id = int(value["Word ID"])
         barrel_name = get_barrel_for_word_id(word_id)
-        folder_path = os.path.join(output_folder, barrel_name)
-        os.makedirs(folder_path, exist_ok=True)
 
-        output_path = os.path.join(folder_path, f"{barrel_name}.json")
+        # Check if the barrel dictionary exists, if not, create it
+        if barrel_name not in barrels_data:
+            barrels_data[barrel_name] = {}
 
-        # Append the data to the existing file or create a new one
-        with open(output_path, 'a') as output_file:
-            json.dump({key: value}, output_file, indent=4)
-            output_file.write("\n")  # Add a newline for each entry
+        # Add the data to the barrel dictionary
+        barrels_data[barrel_name][key] = value
 
-# Replace the paths with your actual file paths
+    # Iterate through the barrels and write the dictionaries to respective files
+    for barrel_name, barrel_data in barrels_data.items():
+        output_path = os.path.join(output_folder, f"{barrel_name}.json")
+
+        with open(output_path, 'w') as output_file:
+            json.dump(barrel_data, output_file, indent=1)
+
+
 input_file_path = '/home/gosal/Documents/DSA/project/DSAProject/II.json'
 output_folder_path = '/home/gosal/Documents/DSA/project/DSAProject/barrel_created/'
 

@@ -33,5 +33,5 @@ Components Description:
         the ranking algorithm is not completed yet...
 
 10. barrels.py:
-        distributed the inverted index into 26 json files in "barrel_created" folder based on alphabetical order
+        this file is only responsible for creating barrels not for modifying or searching in barrels, that is upto invertedIndex also
         

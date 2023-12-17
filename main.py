@@ -2,7 +2,7 @@ from class_forwardIndex import ForwardIndex, load_config, build_forward_index
 from class_invertedIndex import InvertedIndex
 from ranking import Ranking
 # from implementation_forwardIndex import load_config, build_forward_index
-import time
+import time     
 
 if __name__ == "__main__":
     config = load_config()
@@ -31,6 +31,7 @@ if __name__ == "__main__":
     end = time.time()
     print(end - start)
 
+
     #start time measurement
     start_1 = time.time()
 
@@ -40,10 +41,10 @@ if __name__ == "__main__":
     # Build inverted index
     inverted_index_instance.build_inverted_index(output_file_path_txt, lexicon_file_path_txt)
     inverted_index_instance.save_inverted_index_to_json(inverted_index_file_path_txt)
-    # inverted_index_instance.sort_inverted_index(inverted_index_file_path_txt)
     
     end_1 = time.time()
     print(end_1 - start_1)
+    
     
     # #start time measurement
     # start = time.time()

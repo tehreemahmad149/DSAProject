@@ -2,6 +2,8 @@ import math
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from barrels import get_barrel_for_word_id
+import sys
 
 totalDocumentLengthFile = "/home/gosal/Documents/DSA/project/DSAProject/total_doc_len.json"
 
@@ -12,7 +14,6 @@ class Ranking:
 
     @staticmethod
     def calculate_bm25f_score(forward_index, query, doc_id, k1=1.5, b=0.75, title_boost=1.2):
-
         # Get frequency of each word using forward index to further calculate the document length
         doc_info = forward_index.get_info_for_document(doc_id)
         document_length = doc_info.get('Doc_length')
@@ -61,19 +62,48 @@ class Ranking:
                 print(f"score: {score}")
         return score
 
+    def get_barrel_id(self, query_tokenized):
+        barrels = []
+        for word in query_tokenized:
+            wordId = self.forward_index.get_word_id(word)
+            print(wordId)
+            if(wordId):
+                barrels.append(get_barrel_for_word_id(wordId))
+        return barrels
 
     def rank_documents(self, query_tokenized, k1=1.5, b=0.75, title_boost=1.2):
         #debugging
         print(query_tokenized) #to be assured that the right query is being passed
 
+        barrels = self.get_barrel_id(query_tokenized)
+        print(f"barrels: {barrels}")
+
+        # Create a dictionary to store inverted indices for each barrel
+        barrel_inverted_indices = {}
+        # for each word in tokenized query, getting the relevant barrel to look for in.
+        for barrel in barrels:
+            barrel_path = f"/home/gosal/Documents/DSA/project/DSAProject/barrel_created/{barrel}.json"
+            #create an instance of inverted_index
+            inverted_index = self.inverted_index
+            inverted_index.load_inverted_index_from_barrel(barrel_path)
+            barrel_inverted_indices[barrel] = inverted_index # Working fine till here
+
+        # load relevant data from barrel
+        # inverted_index_instance.load_inverted_index_from_barrel(f"{barrel}.json")
+
         # Get document texts using forward index
         #this code below looks for the queried keyword/keywords in the inverted index and retrieves the relevant document_id section of the words.
         doc_texts = []
-        for doc_id in self.inverted_index.search_inverted_index(query_tokenized):
+        for barrel, inverted_index in barrel_inverted_indices.items():
+            print(f"Barrel: {barrel}")
+            # print(f"Inverted Index: {inverted_index.index}")
+            print("=" * 30)
+            for doc_id in inverted_index.search_inverted_index(query_tokenized):
                 doc_info = self.forward_index.get_info_for_document(doc_id)
                 # Extract keywords for the document
                 keywords = doc_info.get('Keywords', [])
                 doc_texts.append(' '.join(keywords))
+        # print(doc_texts)
 
         # Initialize TF-IDF vectorizer
         tfidf_vectorizer = TfidfVectorizer()
@@ -85,18 +115,15 @@ class Ranking:
         query_vector = tfidf_vectorizer.transform([' '.join(query_tokenized)])
         cosine_similarities = cosine_similarity(query_vector, tfidf_matrix).flatten()
 
-        #debugging
-        # print(len(cosine_similarities))
-        # print(cosine_similarities)
         # Combine scores using weighted sum
         scores = {}
-        for i, doc_id in enumerate(self.inverted_index.search_inverted_index(query_tokenized)):
+        for barrel, inverted_index in barrel_inverted_indices.items():
+            for i, doc_id in enumerate(inverted_index.search_inverted_index(query_tokenized)):
+                bm25f_score = Ranking.calculate_bm25f_score(self.forward_index, query_tokenized, doc_id, k1, b, title_boost)
 
-            bm25f_score = Ranking.calculate_bm25f_score(self.forward_index, query_tokenized, doc_id, k1, b, title_boost)
-
-            # Combine with cosine similarity
-            total_score = 0.6 * cosine_similarities[i] + 0.4 * bm25f_score
-            scores[doc_id] = total_score
+                # Combine with cosine similarity
+                total_score = 0.6 * cosine_similarities[i] + 0.4 * bm25f_score
+                scores[doc_id] = total_score
         
         #debugging
         print(f"cosine_similarities: {cosine_similarities}")

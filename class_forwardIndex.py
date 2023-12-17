@@ -1,20 +1,23 @@
 import json
 import os
+import hashlib 
 from utils.utils import process_content_generator, generate_unique_doc_id
 
 class ForwardIndex:
     def __init__(self):
         # Initialize attributes
         self.index = {}           # Document ID to (keywords, frequencies, positions, title) mapping
-        self.lexicon = {}         # Set of unique keywords in the entire dataset
+        self.lexicon = []        # Set of unique keywords in the entire dataset
         self.next_word_id = 1     # Counter for generating unique word IDs
         self.total_doc_length = 0
     
     def add_document(self, doc_id, keywords, title, doc_length):
+        # Use SHA-256 hashing for the document ID
+        hashed_doc_id = hashlib.sha256(doc_id.encode()).hexdigest()
+
         # Add document to the index with associated keywords, frequencies, positions, and title
         frequencies = {}  # Define frequency dictionary
         positions = {}    # Define positions dictionary
-        # doc_length = {}   # Define document length dictionary
         # Add frequencies and positions for each keyword
         for position, word in enumerate(keywords):
             if word not in frequencies:
@@ -27,7 +30,7 @@ class ForwardIndex:
             self.total_doc_length += doc_length
 
         # Store title information
-        self.index[doc_id] = {"Keywords": keywords, "Frequencies": frequencies, "Positions": positions, "Title": title, "Doc_length": doc_length}
+        self.index[hashed_doc_id] = {"Keywords": keywords, "Frequencies": frequencies, "Positions": positions, "Title": title, "Doc_length": doc_length}
 
         # Update lexicon with the new unique words from the document, 
         # assigning Word IDs and incrementing them
@@ -66,8 +69,11 @@ class ForwardIndex:
         return self.lexicon
 
     def get_word_id(self, word):
-        # Return the word ID for a given keyword
-        return self.lexicon.get(word, None)
+        count = 0
+        for entry in self.lexicon:
+            if entry["Word"] == word:
+                return entry['Word ID']
+        return None
 
     def get_all_document_ids(self):
         # Return a list of all document IDs
@@ -97,6 +103,24 @@ class ForwardIndex:
         with open(file_path, 'r') as file:
             self.index = json.load(file)
 
+    def load_lexicon_from_file(self, lexicon_file_path):
+        try:
+            with open(lexicon_file_path, 'r', encoding='utf-8') as json_file:
+                lexicon_data = json.load(json_file)
+
+                for entry in lexicon_data:
+                    word_id = entry.get("Word ID", None)
+                    word = entry.get("Word", None)
+
+                    if word_id is not None and word is not None:
+                        self.lexicon.append({"Word": word, "Word ID": word_id})
+
+        except FileNotFoundError:
+            print(f"File not found: {lexicon_file_path}")
+        except json.JSONDecodeError as error:
+            print(f"Error decoding JSON in file {lexicon_file_path}: {error}")
+
+
 
 def load_config(config_path='config.json'):
 # Load configuration from config.json
@@ -108,6 +132,7 @@ def load_config(config_path='config.json'):
     # Throw error otherwise
         print(f"Config file {config_path} not found. Using default configuration.")
         return {}
+        
 def build_forward_index(folder_path, forward_index):
     # Build the forward index by processing JSON files in the specified folder and getting content
     for filename in os.listdir(folder_path):

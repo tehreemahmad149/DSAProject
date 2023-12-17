@@ -20,16 +20,17 @@ loaded_metadata = load_metadata("metadata.json")
 # Create an instance of the Ranking class
 ranking_instance = Ranking(forward_index_instance, inverted_index_instance)
 
-user_input = input("Enter a sentence: ")
-print("You entered:", user_input)
+# Prompt the user for a search query
+user_query = input("Enter your search query: ")
 
 #start time measurement
 start = time.time()
 
-query = process_content_generator(user_input)
+# Tokenize the user's query using the same process as document tokenization
+tokenized_query = process_content_generator(user_query)
 
-#getting the relevant documents
-ranked_documents = ranking_instance.rank_documents(query)
+# Search for documents based on the user's query
+ranked_documents = ranking_instance.rank_documents(tokenized_query)
 
 #getting the doc_ids to display the metadata
 doc_ids_to_display = []

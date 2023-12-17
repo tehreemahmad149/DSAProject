@@ -7,7 +7,7 @@ class ForwardIndex:
     def __init__(self):
         # Initialize attributes
         self.index = {}           # Document ID to (keywords, frequencies, positions, title) mapping
-        self.lexicon = []        # Set of unique keywords in the entire dataset
+        self.lexicon = {}         # Set of unique keywords in the entire dataset
         self.next_word_id = 1     # Counter for generating unique word IDs
         self.total_doc_length = 0
     
@@ -84,6 +84,7 @@ class ForwardIndex:
         with open(output_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(self.index, json_file, indent=2)
 
+
     def save_lexicon_to_json(self, lexicon_file_path):
         # Save the lexicon to a TXT file
         with open(lexicon_file_path, 'w', encoding='utf-8') as json_file:
@@ -108,12 +109,7 @@ class ForwardIndex:
             with open(lexicon_file_path, 'r', encoding='utf-8') as json_file:
                 lexicon_data = json.load(json_file)
 
-                for entry in lexicon_data:
-                    word_id = entry.get("Word ID", None)
-                    word = entry.get("Word", None)
-
-                    if word_id is not None and word is not None:
-                        self.lexicon.append({"Word": word, "Word ID": word_id})
+                self.lexicon = lexicon_data
 
         except FileNotFoundError:
             print(f"File not found: {lexicon_file_path}")

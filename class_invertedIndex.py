@@ -59,7 +59,7 @@ class InvertedIndex:
             word_id = self.get_word_id(keyword)
             print(word_id)
             barrel_path = get_barrel_for_word_id(word_id)
-            completed_barrel_path = f"/home/gosal/Documents/DSA/project/DSAProject/barrel_created/{barrel_path}.json"
+            completed_barrel_path = f"C:\\DSAProject\\barrel_created\\{barrel_path}.json"
             # Load the inverted index from the relevant barrel
             print(completed_barrel_path)
             inverted_index = self.load_inverted_index_from_barrel(completed_barrel_path)

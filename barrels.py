@@ -6,7 +6,7 @@ import time
 def get_barrel_for_word_id(word_id):
     # Assuming word IDs are integers, determine the barrel based on the division
     # Each barrel contains a maximum of 1000 words
-    barrel_number = word_id // 1000
+    barrel_number = word_id // 1000 # code chaged here from // to /
     return f"barrel_{barrel_number}"
 
 # Start time measurement
@@ -50,8 +50,8 @@ def split_json_by_word_id(input_path, output_folder):
             json.dump(barrel_data, output_file, indent=1)
 
 
-input_file_path = '/home/gosal/Documents/DSA/project/DSAProject/II.json'
-output_folder_path = '/home/gosal/Documents/DSA/project/DSAProject/barrel_created/'
+input_file_path = r"C:\DSAProject\II.json"
+output_folder_path = r"C:\DSAProject\barrel_created"
 
 split_json_by_word_id(input_file_path, output_folder_path)
 

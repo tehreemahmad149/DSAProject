@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from barrels import get_barrel_for_word_id
 import sys
 
-totalDocumentLengthFile = "/home/gosal/Documents/DSA/project/DSAProject/total_doc_len.json"
+totalDocumentLengthFile = "C:\\DSAProject\\total_doc_len.json"
 
 class Ranking:
     def __init__(self, forward_index, inverted_index):
@@ -82,7 +82,7 @@ class Ranking:
         barrel_inverted_indices = {}
         # for each word in tokenized query, getting the relevant barrel to look for in.
         for barrel in barrels:
-            barrel_path = f"/home/gosal/Documents/DSA/project/DSAProject/barrel_created/{barrel}.json"
+            barrel_path = f"C:\\DSAProject\\barrel_created\\{barrel}.json"
             #create an instance of inverted_index
             inverted_index = self.inverted_index
             inverted_index.load_inverted_index_from_barrel(barrel_path)

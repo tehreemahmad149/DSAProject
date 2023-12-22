@@ -220,6 +220,22 @@ class InvertedIndex:
         return self.index.get(keyword, {}).get("Document IDs", [])
 
 
+<<<<<<< Updated upstream
+=======
+        for keyword in keywords:
+            # Determine the relevant barrel for the word ID
+            print(keyword)
+            word_id = self.get_word_id(keyword)
+            print(word_id)
+            barrel_path = get_barrel_for_word_id(word_id)
+            completed_barrel_path = f"C:\\DSAProject\\barrel_created\\{barrel_path}.json"
+            # Load the inverted index from the relevant barrel
+            print(completed_barrel_path)
+            inverted_index = self.load_inverted_index_from_barrel(completed_barrel_path)
+            # print(self.index)
+            unique_hashed_document_ids.update(self.index.get(keyword, {}).get("Document IDs", []))
+        return list(unique_hashed_document_ids)
+>>>>>>> Stashed changes
 
  
 

@@ -31,7 +31,11 @@ def extract_metadata_from_json(file_path):
     return []
 
 # Path to the folder containing JSON files
+<<<<<<< Updated upstream
 folder_path = "\\DSAProject\\testFiles"
+=======
+folder_path = "C:\\DSAProject\\testFiles"
+>>>>>>> Stashed changes
 
 # Create an instance of the ForwardIndex class
 forward_index = ForwardIndex()
@@ -47,6 +51,7 @@ for filename in os.listdir(folder_path):
         # Extract content and document IDs from each JSON file
         metadata_list.extend(extract_metadata_from_json(file_path))
 
+<<<<<<< Updated upstream
 # Save metadata to a TXT file
 metadata_file_path_txt = '\\DSAProject\\metadata.txt'
 with open(metadata_file_path_txt, 'w', encoding='utf-8') as metadata_file:
@@ -54,6 +59,12 @@ with open(metadata_file_path_txt, 'w', encoding='utf-8') as metadata_file:
         metadata_file.write(f"Doc ID: {metadata_entry['doc_id']}\n")
         metadata_file.write(f"JSON ID: {metadata_entry['json_id']}\n")
         metadata_file.write(f"JSON URL: {metadata_entry['json_url']}\n")
+=======
+# Save metadata to a JSON file
+metadata_file_path_json = "C:\\DSAProject\\metadata.json"
+with open(metadata_file_path_json, 'w', encoding='utf-8') as metadata_file:
+    json.dump(metadata_dict, metadata_file, indent=2)
+>>>>>>> Stashed changes
 
 
 print(f"Metadata saved to {metadata_file_path_txt}")

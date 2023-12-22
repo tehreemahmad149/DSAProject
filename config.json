@@ -1,8 +1,15 @@
 {
   "folder_path": "C:\\DSAProject\\testFiles", 
+<<<<<<< Updated upstream
   "output_file_path_txt": "\\DSAProject\\FI.json",
   "lexicon_file_path_txt": "\\DSAProject\\Lexi.json",
   "inverted_index_file_path_txt": "\\DSAProject\\II.json"
+=======
+  "output_file_path_txt": "C:\\DSAProject\\FI.json",
+  "lexicon_file_path_txt": "C:\\DSAProject\\Lexi.json",
+  "inverted_index_file_path_txt": "C:\\DSAProject\\II.json",
+  "total_doc_length_file": "C:\\DSAProject\\total_doc_len.json"
+>>>>>>> Stashed changes
 }
 
 

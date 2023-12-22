@@ -76,9 +76,6 @@ class ForwardIndex:
                 json.dump(lexicon_list, json_file, indent=2)
 
 
-<<<<<<< Updated upstream
-=======
-
 def load_config(config_path='config.json'):
 # Load configuration from config.json
     if os.path.exists(config_path):

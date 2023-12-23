@@ -58,10 +58,18 @@ class SearchView(View):
                     print(f"Document ID: {doc_id}, Score: {score}")
 
             # Return the ranked documents as JSON
-            search_results = [{'doc_id': doc_id, 'score': score} for doc_id, score in ranked_documents]
+            search_results = [
+                {
+                    'title': loaded_metadata[doc_id]['json_id'],
+                    'url': loaded_metadata[doc_id]['json_url'],
+                    'score': score
+                }
+                for doc_id, score in ranked_documents
+            ]
+
             return JsonResponse({'results': search_results})
 
         except Exception as e:
-          import traceback
-          traceback.print_exc()  # Print the full traceback
-          return JsonResponse({'error': str(e)}, status=500)
+            import traceback
+            traceback.print_exc()  # Print the full traceback
+            return JsonResponse({'error': str(e)}, status=500)

@@ -64,7 +64,7 @@ def extract_metadata_from_json(file_path):
 start = time.time()
 
 # Path to the folder containing JSON files
-folder_path = "C:/Users/user/Documents/GitHub/DSA/myproject/myapi/testFiles/"
+folder_path = r"C:\DSAProject\myproject\myapi\testFiles"
 
 # Create an instance of the ForwardIndex class
 forward_index = ForwardIndex()
@@ -81,7 +81,7 @@ for filename in os.listdir(folder_path):
         metadata_dict.update(extract_metadata_from_json(file_path))
 
 # Save metadata to a JSON file
-metadata_file_path_json = 'C:/Users/user/Documents/GitHub/DSA/myproject/myapi/metadata.json'
+metadata_file_path_json = r"C:\DSAProject\myproject\myapi\metadata.json"
 with open(metadata_file_path_json, 'w', encoding='utf-8') as metadata_file:
     json.dump(metadata_dict, metadata_file, indent=2)
 

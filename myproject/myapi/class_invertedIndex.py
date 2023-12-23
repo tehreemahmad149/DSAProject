@@ -61,7 +61,7 @@ class InvertedIndex:
 
             if word_id is not None:
                 barrel_path = get_barrel_for_word_id(word_id)
-                completed_barrel_path = f"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/barrel_created/{barrel_path}.json"
+                completed_barrel_path = f"C:\\DSAProject\\myproject\\myapi\\barrel_created\\{barrel_path}.json"
             # Load the inverted index from the relevant barrel
                 print(completed_barrel_path)
                 inverted_index = self.load_inverted_index_from_barrel(completed_barrel_path)

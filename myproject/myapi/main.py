@@ -11,7 +11,7 @@ from myapi.class_invertedIndex import InvertedIndex
 from myapi.ranking import Ranking
 
 # from implementation_forwardIndex import load_config, build_forward_index
-import time     
+import time
 
 if __name__ == "__main__":
     config = load_config()

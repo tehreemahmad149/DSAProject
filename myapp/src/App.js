@@ -1,14 +1,12 @@
-// myapp/src/App.js
 import React from 'react';
-import SearchPage from './SearchPage'; // Adjust the path accordingly
+import SearchPage from './SearchPage';
 
 const App = () => {
-    return (
-        <div>
-            <h1>Search Engine</h1>
-            <SearchPage />
-        </div>
-    );
+  return (
+    <div className="container">
+      <SearchPage />
+    </div>
+  );
 };
 
 export default App;

@@ -74,3 +74,14 @@
 .result-link:hover {
   text-decoration: underline;
 }
+
+.add-content-button {
+  background-color: #34a853;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;  /* Adjust the margin as needed */
+}

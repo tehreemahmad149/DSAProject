@@ -1,26 +1,34 @@
-// myapp/src/SearchPage.js
+// SearchPage.js
 import React, { useState } from 'react';
 import axios from 'axios';
-import './SearchPage.css'; // Import your CSS file for styling
+import AddContentModal from './AddContentModal';
+import './SearchPage.css';
 
 const SearchPage = () => {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const handleSearch = async () => {
     try {
-      const response = await fetch('http://localhost:8000/api/search/', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ query }),
-      });
-
-      const data = await response.json();
-      setResults(data.results);
+      const response = await axios.post('http://localhost:8000/api/search/', { query });
+      setResults(response.data.results);
     } catch (error) {
       console.error('Error fetching search results:', error);
+    }
+  };
+
+  const handleAddContent = () => {
+    setIsModalOpen(true);
+  };
+
+  const handleAddContentModal = async (content) => {
+    try {
+      const response = await axios.post('http://localhost:8000/api/add-content/', { content });
+      console.log(response.data);  // Handle the response as needed
+      setIsModalOpen(false);
+    } catch (error) {
+      console.error('Error adding content:', error);
     }
   };
 
@@ -39,6 +47,9 @@ const SearchPage = () => {
       <button onClick={handleSearch} className="search-button">
         Search
       </button>
+      <button onClick={handleAddContent} className="add-content-button">
+        Add Content
+      </button>
 
       <ul className="results-container">
         {results.map((result) => (
@@ -50,6 +61,14 @@ const SearchPage = () => {
           </li>
         ))}
       </ul>
+      {/* Conditionally render the modal based on isModalOpen */}
+      {isModalOpen && (
+        <AddContentModal
+          isOpen={isModalOpen}
+          onClose={() => setIsModalOpen(false)}
+          onAddContent={handleAddContentModal}  // Pass the function to handle adding content
+        />
+      )}
     </div>
   );
 };

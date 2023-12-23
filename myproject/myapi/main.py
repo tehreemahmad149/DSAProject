@@ -10,7 +10,6 @@ from myapi.class_forwardIndex import ForwardIndex, load_config, build_forward_in
 from myapi.class_invertedIndex import InvertedIndex
 from myapi.ranking import Ranking
 
-
 # from implementation_forwardIndex import load_config, build_forward_index
 import time     
 

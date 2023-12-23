@@ -1,10 +1,16 @@
 import json
 import tkinter as tk
 import os
-from class_forwardIndex import ForwardIndex
-from class_forwardIndex import build_forward_index
-from class_invertedIndex import InvertedIndex
-from extract_guiData import extract_metadata_from_json
+import sys
+from pathlib import Path
+
+# Add the root directory of your project to the sys.path
+project_root = str(Path(__file__).resolve().parent.parent)  # Adjust the parent count based on your project structure
+sys.path.append(project_root)
+from myapi.class_forwardIndex import ForwardIndex
+from myapi.class_forwardIndex import build_forward_index
+from myapi.class_invertedIndex import InvertedIndex
+from myapi.extract_guiData import extract_metadata_from_json
 from datetime import datetime
 
 def prompt_user_for_article():
@@ -30,7 +36,7 @@ def prompt_user_for_article():
     root.mainloop()
 
 
-def append_article_to_json_file(article_data, json_file_path=r"C:\DSAProject\test\newarticles.json"):
+def append_article_to_json_file(article_data, json_file_path=r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/test/newarticles.json"):
     try:
         with open(json_file_path, "r", encoding="utf-8") as file:
             articles = json.load(file)
@@ -44,11 +50,11 @@ def append_article_to_json_file(article_data, json_file_path=r"C:\DSAProject\tes
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
-def append_article_to_forward_file(json_file_path="C:\\DSAProject\\FI.json"):
+def append_article_to_forward_file(json_file_path="C:/Users/user/Documents/GitHub/DSA/myproject/myapi/FI.json"):
     try:
         forward_index = ForwardIndex() 
         print("obj created")  # Create a new instance of ForwardIndex
-        build_forward_index(r"C:\DSAProject\test", forward_index)  # Build the forward index
+        build_forward_index(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/test", forward_index)  # Build the forward index
         print("extra foward built\n")
 
         # Open the file and directly assign the content to existing_data
@@ -75,7 +81,7 @@ def append_article_to_forward_file(json_file_path="C:\\DSAProject\\FI.json"):
         json.dump(existing_data, file, ensure_ascii=False, indent=2)
         print(" foward dumped close in file built\n")
     
-    with open(r"C:\DSAProject\Lexi.json", "r", encoding="utf-8") as file:
+    with open(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/Lexi.json", "r", encoding="utf-8") as file:
         print(" lexi load open in file built\n")
         existing_lexi = json.load(file)
         print(" lexui load close in file built\n")
@@ -90,14 +96,14 @@ def append_article_to_forward_file(json_file_path="C:\\DSAProject\\FI.json"):
     
     
 
-    with open(r"C:\DSAProject\Lexi.json", "w", encoding="utf-8") as file:
+    with open(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/Lexi.json", "w", encoding="utf-8") as file:
         update_lexi = existing_lexi + lexicon_list
         print(" lexidump open in file built\n")
         json.dump(update_lexi, file, ensure_ascii=False, indent=2)
         print(" lexi dump in file built\n")
 
     print("Forward\\lexicon appended successfully!")
-    total_doc_length_file = r"C:\DSAProject\total_doc_len.json"
+    total_doc_length_file = r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/total_doc_len.json"
     with open(total_doc_length_file, 'r', encoding='utf-8') as json_file:
             data = json.load(json_file)
             total_doc_length = data["total_doc_length"]
@@ -109,9 +115,9 @@ def append_article_to_forward_file(json_file_path="C:\\DSAProject\\FI.json"):
             
     #code for meta data files
     metadata_dict = {}
-    metadata_dict.update(extract_metadata_from_json("C:\\DSAProject\\metadata.json"))
+    metadata_dict.update(extract_metadata_from_json("C:/Users/user/Documents/GitHub/DSA/myproject/myapi/metadata.json"))
     #new meta data dict completed
-    json_file_path="C:\\DSAProject\\metadata.json"
+    json_file_path="C:/Users/user/Documents/GitHub/DSA/myproject/myapi/metadata.json"
     try:
         with open(json_file_path, "r", encoding="utf-8") as file:
             print("meta file open\n")
@@ -138,9 +144,9 @@ def append_article_to_forward_file(json_file_path="C:\\DSAProject\\FI.json"):
 
 def append_article_to_inverted_file():
     inverted_index = InvertedIndex()
-    inverted_index.build_inverted_index("C:\\DSAProject\\FI.json", r"C:\DSAProject\Lexi.json")
-    inverted_index.save_inverted_index_to_json(r"C:\DSAProject\II.json")
-    json_file_path=r"C:\DSAProject\test\newarticles.json"
+    inverted_index.build_inverted_index("C:\\DSAProject\\FI.json", r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/Lexi.json")
+    inverted_index.save_inverted_index_to_json(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/II.json")
+    json_file_path=r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/test/newarticles.json"
     with open(json_file_path, "w", encoding="utf-8") as file:
             json.dump([], file, ensure_ascii=False, indent=2)
 

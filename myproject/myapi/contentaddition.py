@@ -36,7 +36,7 @@ def prompt_user_for_article():
     root.mainloop()
 
 
-def append_article_to_json_file(article_data, json_file_path=r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/test/newarticles.json"):
+def append_article_to_json_file(article_data, json_file_path=r"C:\DSAProject\myproject\myapi\test\newarticles.json"):
     try:
         with open(json_file_path, "r", encoding="utf-8") as file:
             articles = json.load(file)
@@ -50,11 +50,11 @@ def append_article_to_json_file(article_data, json_file_path=r"C:/Users/user/Doc
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
-def append_article_to_forward_file(json_file_path="C:/Users/user/Documents/GitHub/DSA/myproject/myapi/FI.json"):
+def append_article_to_forward_file(json_file_path=r"C:\DSAProject\myproject\myapi\FI.json"):
     try:
         forward_index = ForwardIndex() 
         print("obj created")  # Create a new instance of ForwardIndex
-        build_forward_index(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/test", forward_index)  # Build the forward index
+        build_forward_index(r"C:\DSAProject\myproject\myapi\test", forward_index)  # Build the forward index
         print("extra foward built\n")
 
         # Open the file and directly assign the content to existing_data
@@ -81,29 +81,30 @@ def append_article_to_forward_file(json_file_path="C:/Users/user/Documents/GitHu
         json.dump(existing_data, file, ensure_ascii=False, indent=2)
         print(" foward dumped close in file built\n")
     
-    with open(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/Lexi.json", "r", encoding="utf-8") as file:
+    with open(r"C:\DSAProject\myproject\myapi\Lexi.json", "r", encoding="utf-8") as file:
         print(" lexi load open in file built\n")
         existing_lexi = json.load(file)
         print(" lexui load close in file built\n")
     last_word_id = existing_lexi[-1]["Word ID"]+1
     lexicon_list = []
     for word, word_id in forward_index.lexicon.items():
-        data = {"Word ID": last_word_id, "Word": word}
-        lexicon_list.append(data)
-        last_word_id = last_word_id+1
+        if word not in [item["Word"] for item in existing_lexi]:
+            data = {"Word ID": last_word_id, "Word": word}
+            lexicon_list.append(data)
+            last_word_id = last_word_id+1
     
     print(lexicon_list)
     
     
 
-    with open(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/Lexi.json", "w", encoding="utf-8") as file:
+    with open(r"C:\DSAProject\myproject\myapi\Lexi.json", "w", encoding="utf-8") as file:
         update_lexi = existing_lexi + lexicon_list
         print(" lexidump open in file built\n")
         json.dump(update_lexi, file, ensure_ascii=False, indent=2)
         print(" lexi dump in file built\n")
 
     print("Forward\\lexicon appended successfully!")
-    total_doc_length_file = r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/total_doc_len.json"
+    total_doc_length_file = r"C:\DSAProject\myproject\myapi\total_doc_len.json"
     with open(total_doc_length_file, 'r', encoding='utf-8') as json_file:
             data = json.load(json_file)
             total_doc_length = data["total_doc_length"]
@@ -115,9 +116,9 @@ def append_article_to_forward_file(json_file_path="C:/Users/user/Documents/GitHu
             
     #code for meta data files
     metadata_dict = {}
-    metadata_dict.update(extract_metadata_from_json("C:/Users/user/Documents/GitHub/DSA/myproject/myapi/metadata.json"))
+    metadata_dict.update(extract_metadata_from_json(r"C:\DSAProject\myproject\myapi\test\newarticles.json"))#add path of newarticles file
     #new meta data dict completed
-    json_file_path="C:/Users/user/Documents/GitHub/DSA/myproject/myapi/metadata.json"
+    json_file_path=r"C:\DSAProject\myproject\myapi\metadata.json"
     try:
         with open(json_file_path, "r", encoding="utf-8") as file:
             print("meta file open\n")
@@ -144,9 +145,9 @@ def append_article_to_forward_file(json_file_path="C:/Users/user/Documents/GitHu
 
 def append_article_to_inverted_file():
     inverted_index = InvertedIndex()
-    inverted_index.build_inverted_index("C:\\DSAProject\\FI.json", r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/Lexi.json")
-    inverted_index.save_inverted_index_to_json(r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/II.json")
-    json_file_path=r"C:/Users/user/Documents/GitHub/DSA/myproject/myapi/test/newarticles.json"
+    inverted_index.build_inverted_index(r"C:\DSAProject\myproject\myapi\FI.json", r"C:\DSAProject\myproject\myapi\Lexi.json")
+    inverted_index.save_inverted_index_to_json(r"C:\DSAProject\myproject\myapi\II.json")
+    json_file_path=r"C:\DSAProject\myproject\myapi\test\newarticles.json"
     with open(json_file_path, "w", encoding="utf-8") as file:
             json.dump([], file, ensure_ascii=False, indent=2)
 

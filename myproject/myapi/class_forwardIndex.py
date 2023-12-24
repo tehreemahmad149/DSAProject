@@ -119,7 +119,7 @@ class ForwardIndex:
 
 
 
-def load_config(config_path='config.json'):
+def load_config(config_path=r"C:\DSAProject\myproject\myapi\config.json"):
 # Load configuration from config.json
     if os.path.exists(config_path):
         with open(config_path, 'r') as config_file:

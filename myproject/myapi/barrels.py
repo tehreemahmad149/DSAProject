@@ -50,8 +50,8 @@ def split_json_by_word_id(input_path, output_folder):
             json.dump(barrel_data, output_file, indent=1)
 
 
-input_file_path = 'C:/Users/user/Documents/GitHub/DSA/myproject/myapi/II.json'
-output_folder_path = 'C:/Users/user/Documents/GitHub/DSA/myproject/myapi/barrel_created/'
+input_file_path = r"C:\DSAProject\myproject\myapi\II.json"
+output_folder_path = r"C:\DSAProject\myproject\myapi\barrel_created"
 
 split_json_by_word_id(input_file_path, output_folder_path)
 

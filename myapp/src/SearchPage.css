@@ -1,87 +1,115 @@
 /* SearchPage.css */
 
-.google-search-container {
-  max-width: 800px;
-  margin: 50px auto;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f0f0; /* Light gray background */
+}
+
+.search-page-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
   padding: 20px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   text-align: center;
-  overflow: hidden; /* Add overflow to contain the results */
+  background-color: #ffffff; /* White background */
+  min-height: 100vh; /* Minimum height of the viewport */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Push the content to the top and bottom */
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 .google-logo {
   width: 120px;
   height: 40px;
-  background: url('C:\\Users\\user\\Documents\\GitHub\\DSA\\myapp\\src\\146025.png') center / contain no-repeat;
-  margin: 20px auto;
+  margin-right: 15px;
 }
 
-.search-box {
+.search-input-container {
+  flex: 1;
   display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
+  align-items: center;
+  border: 1px solid #dfe1e5; /* Google search bar border color */
+  border-radius: 24px;
+  overflow: hidden;
 }
 
 .search-input {
-  flex: 0.8; /* Adjust the flex value to make the input smaller */
+  flex: 1;
   padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
+  border: none;
   font-size: 16px;
+  outline: none;
 }
 
-.search-button {
-  flex: 0.2; /* Adjust the flex value to make the button smaller */
-  background-color: #4285f4;
+.search-button,
+.add-content-button {
   color: white;
   border: none;
-  padding: 10px;
-  border-radius: 4px;
   cursor: pointer;
   font-size: 16px;
+  transition: background-color 0.3s, transform 0.3s; /* Smooth transition for background color and transform */
+}
+
+/* Search button specific styles */
+.search-button {
+  background-color: #4285f4;
+  padding: 12px 24px; /* Increased padding for a more comfortable click/tap */
+  border-radius: 24px 0 0 24px; /* Rounded corners on the left side */
+}
+
+.search-button:hover {
+  background-color: #357ae8; /* Darker blue on hover */
+  transform: scale(1.05); /* Slight scale-up effect on hover */
+}
+
+/* Add Content button specific styles */
+.add-content-button {
+  background-color: #4285f4;
+  padding: 12px 24px; /* Increased padding for a more comfortable click/tap */
+  border-radius: 24px 24px 24px 24px; /* Rounded corners on the right side */
+  margin-left: 10px;
+}
+
+.add-content-button:hover {
+  background-color: #357ae8; /* Darker green on hover */
+  transform: scale(1.05); /* Slight scale-up effect on hover */
 }
 
 .results-container {
   list-style: none;
   padding: 0;
-  text-align: left; /* Align text to the left */
-  overflow-y: auto; /* Add a vertical scrollbar when the content overflows */
+  text-align: left;
+  overflow-y: auto;
+  padding-top: 20px;
+  flex: 1; /* Fill the available space */
 }
 
 .result-item {
-  margin-bottom: 30px; /* Adjust the margin as needed */
+  margin-bottom: 30px;
 }
 
 .result-link {
   text-decoration: none;
   color: #1a0dab;
   display: flex;
-  align-items: center; /* Align text and image vertically */
-}
-
-.result-image {
-  width: 60px;
-  height: 60px;
-  object-fit: cover; /* Maintain aspect ratio for images */
-  margin-right: 10px;
+  align-items: center;
 }
 
 .result-content {
-  flex: 1; /* Take remaining width */
+  flex: 1;
 }
 
 .result-link:hover {
   text-decoration: underline;
-}
-
-.add-content-button {
-  background-color: #34a853;
-  color: white;
-  border: none;
-  padding: 10px;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-  margin-left: 10px;  /* Adjust the margin as needed */
 }

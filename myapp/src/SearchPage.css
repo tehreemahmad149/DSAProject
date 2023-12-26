@@ -1,0 +1,87 @@
+/* SearchPage.css */
+
+.google-search-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+  overflow: hidden; /* Add overflow to contain the results */
+}
+
+.google-logo {
+  width: 120px;
+  height: 40px;
+  background: url('C:\\Users\\user\\Documents\\GitHub\\DSA\\myapp\\src\\146025.png') center / contain no-repeat;
+  margin: 20px auto;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  flex: 0.8; /* Adjust the flex value to make the input smaller */
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.search-button {
+  flex: 0.2; /* Adjust the flex value to make the button smaller */
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.results-container {
+  list-style: none;
+  padding: 0;
+  text-align: left; /* Align text to the left */
+  overflow-y: auto; /* Add a vertical scrollbar when the content overflows */
+}
+
+.result-item {
+  margin-bottom: 30px; /* Adjust the margin as needed */
+}
+
+.result-link {
+  text-decoration: none;
+  color: #1a0dab;
+  display: flex;
+  align-items: center; /* Align text and image vertically */
+}
+
+.result-image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover; /* Maintain aspect ratio for images */
+  margin-right: 10px;
+}
+
+.result-content {
+  flex: 1; /* Take remaining width */
+}
+
+.result-link:hover {
+  text-decoration: underline;
+}
+
+.add-content-button {
+  background-color: #34a853;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;  /* Adjust the margin as needed */
+}

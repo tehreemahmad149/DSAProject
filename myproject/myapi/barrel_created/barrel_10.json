@@ -1,0 +1,6792 @@
+{
+ "burials": {
+  "Word ID": 10000,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "scythians": {
+  "Word ID": 10001,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "iranian": {
+  "Word ID": 10002,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "8586aff0df275cec00e6d207e8246bc9329b4eb999a4ccc6c2bbe3c22de873e8",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "propaganda": {
+  "Word ID": 10003,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102",
+   "bb3fadc711a9bca51506839ab5aa335abfa5505f6f467eab5f3002fbd30537cb",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6"
+  ]
+ },
+ "tries": {
+  "Word ID": 10004,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "be25a60462a5f2398712dc1c9ef2a9144a2cd90b658352819ac0abebba3bc81e",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "ornate": {
+  "Word ID": 10005,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "donor": {
+  "Word ID": 10006,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271"
+  ]
+ },
+ "shocked": {
+  "Word ID": 10007,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067"
+  ]
+ },
+ "removes": {
+  "Word ID": 10008,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "advisors": {
+  "Word ID": 10009,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "mechanics": {
+  "Word ID": 10010,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "shoigu": {
+  "Word ID": 10011,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "cloned": {
+  "Word ID": 10012,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "achieve": {
+  "Word ID": 10013,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "4769db9a017d11ef249e475e325ad990a00ad8a25698b3e3dbd0d10104770d2a",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "nomadic": {
+  "Word ID": 10014,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "recall": {
+  "Word ID": 10015,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "shaman": {
+  "Word ID": 10016,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "warrior": {
+  "Word ID": 10017,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "nucleus": {
+  "Word ID": 10018,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "metalwork": {
+  "Word ID": 10019,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "horse": {
+  "Word ID": 10020,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "3aacd27e17b05d7f2ad4dbfa1d30e20933cc467cdcec1b5a749e6cac05e16950"
+  ]
+ },
+ "adult": {
+  "Word ID": 10021,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "depicting": {
+  "Word ID": 10022,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "proteins": {
+  "Word ID": 10023,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "tuva": {
+  "Word ID": 10024,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "lore": {
+  "Word ID": 10025,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "dominated": {
+  "Word ID": 10026,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "4e817e15b57ac9df7a919510d7d9ef4cf0d90f66bebd5e34e5c493b6b92f0fbd"
+  ]
+ },
+ "simplified": {
+  "Word ID": 10027,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "longdead": {
+  "Word ID": 10028,
+  "Document IDs": [
+   "db287e774e0ee5a97f5261786f30a159c6a0c8ebc56d0372c409ad30d64fc284"
+  ]
+ },
+ "metallic": {
+  "Word ID": 10029,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "buzzing": {
+  "Word ID": 10030,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "gough": {
+  "Word ID": 10031,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "briefed": {
+  "Word ID": 10032,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "9a6e3caccf15aa422eb739143f16d113cd4e1f51a08b51034d5d6cd00efd0b22"
+  ]
+ },
+ "nbc": {
+  "Word ID": 10033,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "186ce2abe7995b240834c63c4419a2ac4eda8730cd739d587a8f755d42dffd86"
+  ]
+ },
+ "transmedium": {
+  "Word ID": 10034,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "pst": {
+  "Word ID": 10035,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "puerto": {
+  "Word ID": 10036,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "camera": {
+  "Word ID": 10037,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "splashed": {
+  "Word ID": 10038,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "gadi": {
+  "Word ID": 10039,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "sphere": {
+  "Word ID": 10040,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "ae016dda007195948fade60b9a8d1908a370afd62720a92d502252587a582a44"
+  ]
+ },
+ "waters": {
+  "Word ID": 10041,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "f45e277a6b1da1e9a8d1316bf67557210e4dda04e93379f5405fad9145ed994b",
+   "035f62691f9dfa1c095dc8fd9474891778d1e8fc55e674664be0a4c7b827296e",
+   "9b75558b57df4d2ce9540ee2c45809df94575fa9a7c5439b5c58a8cdf5265073"
+  ]
+ },
+ "acorn": {
+  "Word ID": 10042,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "russell": {
+  "Word ID": 10043,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "disappearing": {
+  "Word ID": 10044,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "fb70a1b4037229a69c35cc884c74bb564a53f988fa514fc05df52e362112ea73",
+   "49e8d66ec84625453f028dd7e4cb15674f82605951fe3f2ecb88fb8468b5fa1b"
+  ]
+ },
+ "failure": {
+  "Word ID": 10045,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "f6a10a82b55674df24a655c534d83b3499f52e834d078c413eb9bfa65f550985",
+   "59916ff8ffb3d4fee75d377499cafb2cb328397b610b36412232c2c55fec5c46"
+  ]
+ },
+ "ridicule": {
+  "Word ID": 10046,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "grainy": {
+  "Word ID": 10047,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "disappointment": {
+  "Word ID": 10048,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "warships": {
+  "Word ID": 10049,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "pyramid": {
+  "Word ID": 10050,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "swarms": {
+  "Word ID": 10051,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "nightvision": {
+  "Word ID": 10052,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "uavs": {
+  "Word ID": 10053,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "triangle": {
+  "Word ID": 10054,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102"
+  ]
+ },
+ "flipped": {
+  "Word ID": 10055,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "blimp": {
+  "Word ID": 10056,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "flashing": {
+  "Word ID": 10057,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "rico": {
+  "Word ID": 10058,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "corbell": {
+  "Word ID": 10059,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "omaha": {
+  "Word ID": 10060,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "pyramidshaped": {
+  "Word ID": 10061,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "effortlessly": {
+  "Word ID": 10062,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "sailors": {
+  "Word ID": 10063,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "filmmaker": {
+  "Word ID": 10064,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "littoral": {
+  "Word ID": 10065,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "aguadilla": {
+  "Word ID": 10066,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "jeremy": {
+  "Word ID": 10067,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "newsnation": {
+  "Word ID": 10068,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "splash": {
+  "Word ID": 10069,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "afterward": {
+  "Word ID": 10070,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "dove": {
+  "Word ID": 10071,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "oni": {
+  "Word ID": 10072,
+  "Document IDs": [
+   "ac8eb08e662d27672ed4a3041c2ecc717a78fed92955e896c0e966520c18ac54"
+  ]
+ },
+ "zecharia": {
+  "Word ID": 10073,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "upsetting": {
+  "Word ID": 10074,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "disprove": {
+  "Word ID": 10075,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "darwinian": {
+  "Word ID": 10076,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "solving": {
+  "Word ID": 10077,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "darwin": {
+  "Word ID": 10078,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "undiscovered": {
+  "Word ID": 10079,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77"
+  ]
+ },
+ "anthropology": {
+  "Word ID": 10080,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "reconstruct": {
+  "Word ID": 10081,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "bonobos": {
+  "Word ID": 10082,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "equation": {
+  "Word ID": 10083,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "hammond": {
+  "Word ID": 10084,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "chimpanzee": {
+  "Word ID": 10085,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "lineage": {
+  "Word ID": 10086,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "11ae00522497a6fa79e459fc065228348643ed4a54e6dfed77a3d0fbd57cf7f6",
+   "b6d576be24a77588a81cad3037807e1c34f40d4cc4991ba61658765ecb7d48bb"
+  ]
+ },
+ "traits": {
+  "Word ID": 10087,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "chronicles": {
+  "Word ID": 10088,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "disparate": {
+  "Word ID": 10089,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "chimpanzees": {
+  "Word ID": 10090,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "religion": {
+  "Word ID": 10091,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801"
+  ]
+ },
+ "diverged": {
+  "Word ID": 10092,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "miocene": {
+  "Word ID": 10093,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "ashley": {
+  "Word ID": 10094,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "biographics": {
+  "Word ID": 10095,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "ancestor": {
+  "Word ID": 10096,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "rages": {
+  "Word ID": 10097,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "clergy": {
+  "Word ID": 10098,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "paleoanthropologists": {
+  "Word ID": 10099,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "sumerian": {
+  "Word ID": 10100,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "almcija": {
+  "Word ID": 10101,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "topdown": {
+  "Word ID": 10102,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "concludes": {
+  "Word ID": 10103,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "knucklewalking": {
+  "Word ID": 10104,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "acceptable": {
+  "Word ID": 10105,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "spirituality": {
+  "Word ID": 10106,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "ancestors": {
+  "Word ID": 10107,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8"
+  ]
+ },
+ "apes": {
+  "Word ID": 10108,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "evolutionary": {
+  "Word ID": 10109,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "6c3afe7faaef1d1b691c950ebbd254a43ba8c287b2048a8d3abaf47e398b4eb8",
+   "86fbff0d1277287c3e4775c58dd88cf088f602dcf34501a2fc0092a5170ce134",
+   "09848297215b318bc28ab240053a28583d7a18b846fb6f0228565fd5f46dc178"
+  ]
+ },
+ "chimplike": {
+  "Word ID": 10110,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "flora": {
+  "Word ID": 10111,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "sergio": {
+  "Word ID": 10112,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "c7129f074304723b90ede1d59c320de4a5e9646391c87e60b0252404afd82c92"
+  ]
+ },
+ "fossil": {
+  "Word ID": 10113,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "1b20d174236a1f28ec3bc6d313b947522456813b4a45377553d0383c338d4cc4",
+   "6175746575aa2b1c3cc26b6c48c5f961b45e979f7cef9ba496dff3b0b22b8abe"
+  ]
+ },
+ "hms": {
+  "Word ID": 10114,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "genetically": {
+  "Word ID": 10115,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "suitable": {
+  "Word ID": 10116,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "17ea4f9e7a7f2246d6577ba5025d1b85e28870d21143eb68d2ddceebdd618a2c"
+  ]
+ },
+ "unite": {
+  "Word ID": 10117,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "ape": {
+  "Word ID": 10118,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "fossils": {
+  "Word ID": 10119,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "stichin": {
+  "Word ID": 10120,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "indisputable": {
+  "Word ID": 10121,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "strict": {
+  "Word ID": 10122,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "galapagos": {
+  "Word ID": 10123,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "fauna": {
+  "Word ID": 10124,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "tablets": {
+  "Word ID": 10125,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "translations": {
+  "Word ID": 10126,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "sitchin": {
+  "Word ID": 10127,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "akkadian": {
+  "Word ID": 10128,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "jumpstart": {
+  "Word ID": 10129,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "hominins": {
+  "Word ID": 10130,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "beagle": {
+  "Word ID": 10131,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "hominin": {
+  "Word ID": 10132,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "anunnaki": {
+  "Word ID": 10133,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "orangutans": {
+  "Word ID": 10134,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "altered": {
+  "Word ID": 10135,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "conclusively": {
+  "Word ID": 10136,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89",
+   "3f57371310316b140b51a6ce894dd006076df1863ecf2821ee81eb0fa04eb4c9"
+  ]
+ },
+ "bigfoot": {
+  "Word ID": 10137,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "unnatural": {
+  "Word ID": 10138,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "bottomup": {
+  "Word ID": 10139,
+  "Document IDs": [
+   "c580f245ff6dfe3d351ad8d1ac95f771a6de6ec6f204c9502bdb52fad55bbb89"
+  ]
+ },
+ "goldsmiths": {
+  "Word ID": 10140,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "voir": {
+  "Word ID": 10141,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "heresy": {
+  "Word ID": 10142,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "instructor": {
+  "Word ID": 10143,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "informations": {
+  "Word ID": 10144,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "epic": {
+  "Word ID": 10145,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "levitating": {
+  "Word ID": 10146,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "dieu": {
+  "Word ID": 10147,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "francisco": {
+  "Word ID": 10148,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "3516c11d61d94f3c95bcfc1b56814bc9ead2c90745b162f4ae8161152823761a",
+   "186ce2abe7995b240834c63c4419a2ac4eda8730cd739d587a8f755d42dffd86",
+   "17b7b7842fab5bc2d0e061c40b5153b0e15ba883e1393c0b2852c1b908f639ec",
+   "8c32aa133c341fc6e3136dae93bbde8a40b0b698c8a90ede9a8cd8ebebfc33f0",
+   "d840fc7ccbadf2d17ced6c4a46001ef460cd24bcd0fa213821440bbc09503b16",
+   "fd48f2db3cc20894ea56033998e97c08374f1166e05e34fa79593f570d5eba03",
+   "9a6e3caccf15aa422eb739143f16d113cd4e1f51a08b51034d5d6cd00efd0b22"
+  ]
+ },
+ "inti": {
+  "Word ID": 10149,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "titicaca": {
+  "Word ID": 10150,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "flesh": {
+  "Word ID": 10151,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "domaine": {
+  "Word ID": 10152,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "depicts": {
+  "Word ID": 10153,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "adorned": {
+  "Word ID": 10154,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "e7ee78920fd97b3ece980a56477d489d54b6ee58a4e2ffcfe6f5a2712dba3ca2"
+  ]
+ },
+ "robe": {
+  "Word ID": 10155,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015"
+  ]
+ },
+ "wizardlike": {
+  "Word ID": 10156,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "kuriatv": {
+  "Word ID": 10157,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "creator": {
+  "Word ID": 10158,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "5205bd84745bfd1326a3704656d6164ebbaaa5e26c50455cd7bd75f104f60070",
+   "acc6f2b45f706031bec2213476ac08a2bf7e18a6ea19f04aee8d3c25c4ddd03d",
+   "c3abc5c889ccc36fb5659d65d9081893ae56c17493c32d17757f036d8e25e1ea",
+   "dba063724a9d60f3e28488f895ffddf26913dac068a06c1fa369e5813caafb6e",
+   "698e0bc789ef64d891cec95ccb621a9c9499c5a9b6bca2e6bcaf0c488b4d3997",
+   "5ff44ede418c8b0e8b2699623cf4f1331a1a23483228360be37e990896106ade",
+   "ea4430562628ec9e6aa3722b7ea90fd7891d6ee7306c16081030a7527389a42d",
+   "f658e0737dd194e38708418b6b579415913c58b91f9a92e436d7e380c1ea9ea8",
+   "dd2db19647b2d28f1290fb3cd659e8abf0f2ed876daac8c4771f9fa6969d57bc",
+   "a855ff0c79fb0ab1e583b420fbf61ebb78ad63c87dd6f11fb17b5ccee202a66a",
+   "9c42d29d79a4bf3541f5acabf34ab9d6db9042bcfe7f7faf859c8dff97b56b39",
+   "2b4830c6de46197ca96abfc727833024cdde170a0cf632072482d86b0cee6ad6",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "alienlike": {
+  "Word ID": 10159,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "sweat": {
+  "Word ID": 10160,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "monolithic": {
+  "Word ID": 10161,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "ae016dda007195948fade60b9a8d1908a370afd62720a92d502252587a582a44",
+   "374251b09d6eb4e35f250d59a012bba1f63d56948c6dd5127c17abf04c0032e7"
+  ]
+ },
+ "god": {
+  "Word ID": 10162,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319",
+   "5205bd84745bfd1326a3704656d6164ebbaaa5e26c50455cd7bd75f104f60070",
+   "acc6f2b45f706031bec2213476ac08a2bf7e18a6ea19f04aee8d3c25c4ddd03d",
+   "c3abc5c889ccc36fb5659d65d9081893ae56c17493c32d17757f036d8e25e1ea",
+   "698e0bc789ef64d891cec95ccb621a9c9499c5a9b6bca2e6bcaf0c488b4d3997",
+   "5ff44ede418c8b0e8b2699623cf4f1331a1a23483228360be37e990896106ade",
+   "ea4430562628ec9e6aa3722b7ea90fd7891d6ee7306c16081030a7527389a42d",
+   "f658e0737dd194e38708418b6b579415913c58b91f9a92e436d7e380c1ea9ea8",
+   "dd2db19647b2d28f1290fb3cd659e8abf0f2ed876daac8c4771f9fa6969d57bc",
+   "9c42d29d79a4bf3541f5acabf34ab9d6db9042bcfe7f7faf859c8dff97b56b39",
+   "2b4830c6de46197ca96abfc727833024cdde170a0cf632072482d86b0cee6ad6",
+   "0e97c6683688d4c5c4be344f4173c8e72d47527289dd1241ada5644bc66c9206",
+   "11ae00522497a6fa79e459fc065228348643ed4a54e6dfed77a3d0fbd57cf7f6",
+   "d2b58eb551f26f52f4ee7a61978db3ff233ba317978d2b6b5c944758ea79874d",
+   "f131ec11e07c72a7c4042f771bb26bcf0789bb59eb848f29cbf2935746d15777",
+   "f3a5f1c33a65be6fad2ab397a03d32fb785afca125924aaf1a86363d2dedd6ec",
+   "c787dd2298c7a301005c66b30f8257b0afdd63daeb814ebbe5620659524b7484",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "4e817e15b57ac9df7a919510d7d9ef4cf0d90f66bebd5e34e5c493b6b92f0fbd"
+  ]
+ },
+ "believers": {
+  "Word ID": 10163,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6"
+  ]
+ },
+ "gateway": {
+  "Word ID": 10164,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "bearded": {
+  "Word ID": 10165,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "arthur": {
+  "Word ID": 10166,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "invaders": {
+  "Word ID": 10167,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "inca": {
+  "Word ID": 10168,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "nephilim": {
+  "Word ID": 10169,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "lake": {
+  "Word ID": 10170,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "pachacuti": {
+  "Word ID": 10171,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "edible": {
+  "Word ID": 10172,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "conquistadors": {
+  "Word ID": 10173,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "devastate": {
+  "Word ID": 10174,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "winged": {
+  "Word ID": 10175,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "messengers": {
+  "Word ID": 10176,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "depiction": {
+  "Word ID": 10177,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "earthly": {
+  "Word ID": 10178,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "portal": {
+  "Word ID": 10179,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "rod": {
+  "Word ID": 10180,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "unlocked": {
+  "Word ID": 10181,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "viracocha": {
+  "Word ID": 10182,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "soleil": {
+  "Word ID": 10183,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "remarkably": {
+  "Word ID": 10184,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "hayu": {
+  "Word ID": 10185,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "teach": {
+  "Word ID": 10186,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "pacayacaciq": {
+  "Word ID": 10187,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "beard": {
+  "Word ID": 10188,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "posnansky": {
+  "Word ID": 10189,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "pizarro": {
+  "Word ID": 10190,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "tiahuanaco": {
+  "Word ID": 10191,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "wiraqocha": {
+  "Word ID": 10192,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "portallike": {
+  "Word ID": 10193,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "akenaten": {
+  "Word ID": 10194,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "christianity": {
+  "Word ID": 10195,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "atahualpa": {
+  "Word ID": 10196,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "ilya": {
+  "Word ID": 10197,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "egyptians": {
+  "Word ID": 10198,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "akhenaten": {
+  "Word ID": 10199,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "alienlooking": {
+  "Word ID": 10200,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "cult": {
+  "Word ID": 10201,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "425894c6d9a34d2ef69a218e41b6c3d6f96d1da359792c337abf449460d2056a",
+   "4e817e15b57ac9df7a919510d7d9ef4cf0d90f66bebd5e34e5c493b6b92f0fbd"
+  ]
+ },
+ "worshipped": {
+  "Word ID": 10202,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "du": {
+  "Word ID": 10203,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "puerta": {
+  "Word ID": 10204,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "timelines": {
+  "Word ID": 10205,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "female": {
+  "Word ID": 10206,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "063723906aaf190822931cbebf9d30fe058a0978781e7d3476a45a08f535a993",
+   "6c3afe7faaef1d1b691c950ebbd254a43ba8c287b2048a8d3abaf47e398b4eb8",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "3ccb4f582ec8bcd71f7324732f7aa98110af120943dfa959532f738e1eba01ba",
+   "1ef703f8b80fbb2df34732c37c67819727f5082e6455a0307e8f5185bd27463c",
+   "2af92a99a265eb6cafb32cd749490103bd2eef05eb5621b8cafbd1e5e83107ef"
+  ]
+ },
+ "male": {
+  "Word ID": 10207,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "063723906aaf190822931cbebf9d30fe058a0978781e7d3476a45a08f535a993",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "43ba0f194d366e75057cbe038174f67f18555c87cad4f61f2222ffffcbc29162"
+  ]
+ },
+ "la": {
+  "Word ID": 10208,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "255330a71cff1962842248607388c2858baa19985c166767f75db9d8a4a03b2f"
+  ]
+ },
+ "strangling": {
+  "Word ID": 10209,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "godlike": {
+  "Word ID": 10210,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "executed": {
+  "Word ID": 10211,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "tiwanaku": {
+  "Word ID": 10212,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "mesopotamian": {
+  "Word ID": 10213,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "displeased": {
+  "Word ID": 10214,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "nanoparticles": {
+  "Word ID": 10215,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "reprsentation": {
+  "Word ID": 10216,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "pantheon": {
+  "Word ID": 10217,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "element": {
+  "Word ID": 10218,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "adorn": {
+  "Word ID": 10219,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "enoch": {
+  "Word ID": 10220,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "les": {
+  "Word ID": 10221,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "incan": {
+  "Word ID": 10222,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "auteur": {
+  "Word ID": 10223,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "brien": {
+  "Word ID": 10224,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "marca": {
+  "Word ID": 10225,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "virachocha": {
+  "Word ID": 10226,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "roam": {
+  "Word ID": 10227,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "igor": {
+  "Word ID": 10228,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "59916ff8ffb3d4fee75d377499cafb2cb328397b610b36412232c2c55fec5c46"
+  ]
+ },
+ "ticci": {
+  "Word ID": 10229,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "reappear": {
+  "Word ID": 10230,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "mankind": {
+  "Word ID": 10231,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "mirrored": {
+  "Word ID": 10232,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "wiracocha": {
+  "Word ID": 10233,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "aten": {
+  "Word ID": 10234,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "kryan": {
+  "Word ID": 10235,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "foerster": {
+  "Word ID": 10236,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "rituals": {
+  "Word ID": 10237,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "gilgamesh": {
+  "Word ID": 10238,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "depictions": {
+  "Word ID": 10239,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "eldest": {
+  "Word ID": 10240,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015"
+  ]
+ },
+ "downfall": {
+  "Word ID": 10241,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "monoatomic": {
+  "Word ID": 10242,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "atmosphere": {
+  "Word ID": 10243,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "2f338eaa7be09c81908a803b5e540c2b1a28df8c7dc4d0c18d5b44f0dec70d1a",
+   "6c3afe7faaef1d1b691c950ebbd254a43ba8c287b2048a8d3abaf47e398b4eb8",
+   "4400ab70b3968f201f8a63dea6f6bd040f38d8a7b417bb6e65b28e5f3770fb2b",
+   "6175746575aa2b1c3cc26b6c48c5f961b45e979f7cef9ba496dff3b0b22b8abe",
+   "36e38e42586773c3ced0f391a4a2cba55b8f94fdf5bb911bd93b714e2c2f6d4f"
+  ]
+ },
+ "standing": {
+  "Word ID": 10244,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "f6a10a82b55674df24a655c534d83b3499f52e834d078c413eb9bfa65f550985",
+   "34ccbf6192b90e0fa045151c8d7e038d40dcba1ebcb15eb37fc24deedcedceb9",
+   "035f62691f9dfa1c095dc8fd9474891778d1e8fc55e674664be0a4c7b827296e",
+   "9b75558b57df4d2ce9540ee2c45809df94575fa9a7c5439b5c58a8cdf5265073"
+  ]
+ },
+ "staffs": {
+  "Word ID": 10245,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "incas": {
+  "Word ID": 10246,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "disappear": {
+  "Word ID": 10247,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409",
+   "afa380fefa8b57b631cae34d51a11e596f53dab37512f1af22967c4b2c9617e7"
+  ]
+ },
+ "quilla": {
+  "Word ID": 10248,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "porte": {
+  "Word ID": 10249,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "preinca": {
+  "Word ID": 10250,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "monotheistic": {
+  "Word ID": 10251,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "mask": {
+  "Word ID": 10252,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "bb3fadc711a9bca51506839ab5aa335abfa5505f6f467eab5f3002fbd30537cb"
+  ]
+ },
+ "departed": {
+  "Word ID": 10253,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "ingested": {
+  "Word ID": 10254,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "nonbinary": {
+  "Word ID": 10255,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "sculptures": {
+  "Word ID": 10256,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "huiracocha": {
+  "Word ID": 10257,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "pururaucas": {
+  "Word ID": 10258,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "pharaoh": {
+  "Word ID": 10259,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "sumeria": {
+  "Word ID": 10260,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "chanca": {
+  "Word ID": 10261,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "chasquis": {
+  "Word ID": 10262,
+  "Document IDs": [
+   "4f80f6486fc783f457291c10e7ab1e7eb94b59c17f219b22c5f779f84cddd548"
+  ]
+ },
+ "engineering": {
+  "Word ID": 10263,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "3f57371310316b140b51a6ce894dd006076df1863ecf2821ee81eb0fa04eb4c9"
+  ]
+ },
+ "bielek": {
+  "Word ID": 10264,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "rainbow": {
+  "Word ID": 10265,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "exemplifies": {
+  "Word ID": 10266,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "manhattan": {
+  "Word ID": 10267,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "186ce2abe7995b240834c63c4419a2ac4eda8730cd739d587a8f755d42dffd86",
+   "7d2afe84acb6b2b9ad5ca2310fa4e8c7eb947bee52cdb20894c47bd75b365da2",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494"
+  ]
+ },
+ "norfolk": {
+  "Word ID": 10268,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "prediction": {
+  "Word ID": 10269,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "recreate": {
+  "Word ID": 10270,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "photographic": {
+  "Word ID": 10271,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "eldridge": {
+  "Word ID": 10272,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "confusing": {
+  "Word ID": 10273,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "17ea4f9e7a7f2246d6577ba5025d1b85e28870d21143eb68d2ddceebdd618a2c"
+  ]
+ },
+ "floating": {
+  "Word ID": 10274,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "relic": {
+  "Word ID": 10275,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "agedd": {
+  "Word ID": 10276,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "linear": {
+  "Word ID": 10277,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "poles": {
+  "Word ID": 10278,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "59916ff8ffb3d4fee75d377499cafb2cb328397b610b36412232c2c55fec5c46",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "einstein": {
+  "Word ID": 10279,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "teleported": {
+  "Word ID": 10280,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "brilliant": {
+  "Word ID": 10281,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "570dfd422aae450bab2002539bfcb7df4f54f24e73a4338c81f99b349311dcc5",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "born": {
+  "Word ID": 10282,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "11ae00522497a6fa79e459fc065228348643ed4a54e6dfed77a3d0fbd57cf7f6",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "e78646f227cac5c0bb16f59c6f91276d86217cc66e091af1d2280cd289b33880",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "tale": {
+  "Word ID": 10283,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "vaporized": {
+  "Word ID": 10284,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "unpredictable": {
+  "Word ID": 10285,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "warming": {
+  "Word ID": 10286,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "467544ffe6d7dc26099a8c5e4789eff4e361a763b177541dc474c87bb492d8a3",
+   "d94f6fcf20dcab7526eedd1908999873e613e7dc2479cc940b4a5a022920fcd6",
+   "86c4bc1559c7adcb256d18fae2856d8387ae2912a9413eb3f036eebe038e1005",
+   "7d47242cfe5717e349f1e32977398626a7dc99fbade1305c81d958ad59c6dd69",
+   "a807df1579b2d9ca57212d4127bad32bbfccca0f48e0ea1f891fa2d6c6bf0fec",
+   "a466b144d53c56876ca1a5b443a15e1495b2e9c19c4378b181cf872111cb64dd",
+   "1c1343d43f6586f9468d89be23730e01cdacbb9eb686a66b151b6ef8ef10c6bd",
+   "425894c6d9a34d2ef69a218e41b6c3d6f96d1da359792c337abf449460d2056a",
+   "f65e95bb7571f2fb43d0ffc48f2359e04bbf91ba3173f188b4bf0e5f056b68b8",
+   "8c32aa133c341fc6e3136dae93bbde8a40b0b698c8a90ede9a8cd8ebebfc33f0",
+   "9a6e3caccf15aa422eb739143f16d113cd4e1f51a08b51034d5d6cd00efd0b22",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6"
+  ]
+ },
+ "beleik": {
+  "Word ID": 10287,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "writers": {
+  "Word ID": 10288,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "geniuslevel": {
+  "Word ID": 10289,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "iq": {
+  "Word ID": 10290,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "invisible": {
+  "Word ID": 10291,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "exciting": {
+  "Word ID": 10292,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "570dfd422aae450bab2002539bfcb7df4f54f24e73a4338c81f99b349311dcc5",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "ghosts": {
+  "Word ID": 10293,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "2cbd0ac8d768fd05236c84a232c8259c9a88ee232ec0705c0bd259bf4e603096"
+  ]
+ },
+ "travelled": {
+  "Word ID": 10294,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "separate": {
+  "Word ID": 10295,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102",
+   "2d1e8f6525f42a17f16c6e87c2dc0ce9ee1d2da49e9fe953c02ab10c3389d95a",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271"
+  ]
+ },
+ "cautionary": {
+  "Word ID": 10296,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "curiosity": {
+  "Word ID": 10297,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77",
+   "8464b879710f1d2999842f06f3c72b11340f0f051cc535fcd45f53bded7a57dc"
+  ]
+ },
+ "unannounced": {
+  "Word ID": 10298,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "polluting": {
+  "Word ID": 10299,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "studied": {
+  "Word ID": 10300,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "pollution": {
+  "Word ID": 10301,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "albielek": {
+  "Word ID": 10302,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "eidetic": {
+  "Word ID": 10303,
+  "Document IDs": [
+   "2bc7d4b7e8d11c57703ac03acf680d5a602bb3a12441bd577ab8809aa752b279"
+  ]
+ },
+ "caribbean": {
+  "Word ID": 10304,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "f45e277a6b1da1e9a8d1316bf67557210e4dda04e93379f5405fad9145ed994b"
+  ]
+ },
+ "fertile": {
+  "Word ID": 10305,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "angelos": {
+  "Word ID": 10306,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "puzzles": {
+  "Word ID": 10307,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "superior": {
+  "Word ID": 10308,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "394c7ca9783396b0ffb57d6754ff8c19f15a4104788f4991989680e695650709"
+  ]
+ },
+ "comprises": {
+  "Word ID": 10309,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "canaries": {
+  "Word ID": 10310,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "reincarnation": {
+  "Word ID": 10311,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "minoans": {
+  "Word ID": 10312,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "atlantians": {
+  "Word ID": 10313,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "critias": {
+  "Word ID": 10314,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "sunken": {
+  "Word ID": 10315,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "ballard": {
+  "Word ID": 10316,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "bce": {
+  "Word ID": 10317,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "ceilings": {
+  "Word ID": 10318,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "captivated": {
+  "Word ID": 10319,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "antediluvian": {
+  "Word ID": 10320,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "traded": {
+  "Word ID": 10321,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271"
+  ]
+ },
+ "morality": {
+  "Word ID": 10322,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271"
+  ]
+ },
+ "flourished": {
+  "Word ID": 10323,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8"
+  ]
+ },
+ "philosophy": {
+  "Word ID": 10324,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271"
+  ]
+ },
+ "edgar": {
+  "Word ID": 10325,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "legends": {
+  "Word ID": 10326,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "ruins": {
+  "Word ID": 10327,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "plateau": {
+  "Word ID": 10328,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "tantalizing": {
+  "Word ID": 10329,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "crete": {
+  "Word ID": 10330,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "hercules": {
+  "Word ID": 10331,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "volcanic": {
+  "Word ID": 10332,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "marshlands": {
+  "Word ID": 10333,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "platos": {
+  "Word ID": 10334,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "malta": {
+  "Word ID": 10335,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "repel": {
+  "Word ID": 10336,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "cadiz": {
+  "Word ID": 10337,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "figment": {
+  "Word ID": 10338,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "prosperous": {
+  "Word ID": 10339,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "rhodes": {
+  "Word ID": 10340,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "historian": {
+  "Word ID": 10341,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8"
+  ]
+ },
+ "dialogues": {
+  "Word ID": 10342,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "mortal": {
+  "Word ID": 10343,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "bermuda": {
+  "Word ID": 10344,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "welldeveloped": {
+  "Word ID": 10345,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "impressive": {
+  "Word ID": 10346,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "394c7ca9783396b0ffb57d6754ff8c19f15a4104788f4991989680e695650709",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494"
+  ]
+ },
+ "dialotypes": {
+  "Word ID": 10347,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "continents": {
+  "Word ID": 10348,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "flourishing": {
+  "Word ID": 10349,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "atlantios": {
+  "Word ID": 10350,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "moats": {
+  "Word ID": 10351,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "soul": {
+  "Word ID": 10352,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8"
+  ]
+ },
+ "atlantis": {
+  "Word ID": 10353,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "plato": {
+  "Word ID": 10354,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "azaes": {
+  "Word ID": 10355,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "blog": {
+  "Word ID": 10356,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77",
+   "34ccbf6192b90e0fa045151c8d7e038d40dcba1ebcb15eb37fc24deedcedceb9"
+  ]
+ },
+ "explorers": {
+  "Word ID": 10357,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "harmony": {
+  "Word ID": 10358,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "portuguese": {
+  "Word ID": 10359,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "debated": {
+  "Word ID": 10360,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "concentric": {
+  "Word ID": 10361,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "pillars": {
+  "Word ID": 10362,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319"
+  ]
+ },
+ "captivation": {
+  "Word ID": 10363,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "unsolved": {
+  "Word ID": 10364,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "fabled": {
+  "Word ID": 10365,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "andalusia": {
+  "Word ID": 10366,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "cycladic": {
+  "Word ID": 10367,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "veritable": {
+  "Word ID": 10368,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "islands": {
+  "Word ID": 10369,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "spiritual": {
+  "Word ID": 10370,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "f3a5f1c33a65be6fad2ab397a03d32fb785afca125924aaf1a86363d2dedd6ec",
+   "c787dd2298c7a301005c66b30f8257b0afdd63daeb814ebbe5620659524b7484",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "tarshish": {
+  "Word ID": 10371,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "gibraltar": {
+  "Word ID": 10372,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "reborn": {
+  "Word ID": 10373,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "era": {
+  "Word ID": 10374,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "6e6e27031a400d575d7ee78c5fc375627e055ec20a34a0e2976931a493fa055e",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067",
+   "8464b879710f1d2999842f06f3c72b11340f0f051cc535fcd45f53bded7a57dc",
+   "86fbff0d1277287c3e4775c58dd88cf088f602dcf34501a2fc0092a5170ce134",
+   "09848297215b318bc28ab240053a28583d7a18b846fb6f0228565fd5f46dc178",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "meetings": {
+  "Word ID": 10375,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "255330a71cff1962842248607388c2858baa19985c166767f75db9d8a4a03b2f",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "cataclysmic": {
+  "Word ID": 10376,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "bimini": {
+  "Word ID": 10377,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "gifts": {
+  "Word ID": 10378,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "ee9ebe6af1a2ba900ade973b3b9b4143c1d8cce83b35761563c57bcb4c931be3"
+  ]
+ },
+ "exotic": {
+  "Word ID": 10379,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "miguel": {
+  "Word ID": 10380,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "canary": {
+  "Word ID": 10381,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319"
+  ]
+ },
+ "atlanteans": {
+  "Word ID": 10382,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "whales": {
+  "Word ID": 10383,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "tigers": {
+  "Word ID": 10384,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "athenians": {
+  "Word ID": 10385,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "imagination": {
+  "Word ID": 10386,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "297bbccc9bc52a2930ff4c89d37b1ead3ae8d99a4bd548a91bdf505e1a7f5041"
+  ]
+ },
+ "selfsufficient": {
+  "Word ID": 10387,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "comet": {
+  "Word ID": 10388,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "thriving": {
+  "Word ID": 10389,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "inundate": {
+  "Word ID": 10390,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "undeniable": {
+  "Word ID": 10391,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "lions": {
+  "Word ID": 10392,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "agriculture": {
+  "Word ID": 10393,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "gatherings": {
+  "Word ID": 10394,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "cleito": {
+  "Word ID": 10395,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "genuine": {
+  "Word ID": 10396,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "9ae64a73dfe5e2d2538f11c7fb60f701d16998cae8e5057265e979df09793e0c",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "mesoamerica": {
+  "Word ID": 10397,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "truths": {
+  "Word ID": 10398,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "ceremonies": {
+  "Word ID": 10399,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "depths": {
+  "Word ID": 10400,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "crabs": {
+  "Word ID": 10401,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "temples": {
+  "Word ID": 10402,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "magnificent": {
+  "Word ID": 10403,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "doubtful": {
+  "Word ID": 10404,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "sand": {
+  "Word ID": 10405,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "cecrops": {
+  "Word ID": 10406,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "habitants": {
+  "Word ID": 10407,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "thera": {
+  "Word ID": 10408,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "tartessos": {
+  "Word ID": 10409,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "continent": {
+  "Word ID": 10410,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "youngest": {
+  "Word ID": 10411,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "irrigation": {
+  "Word ID": 10412,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "timaeus": {
+  "Word ID": 10413,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "somewhere": {
+  "Word ID": 10414,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "f131ec11e07c72a7c4042f771bb26bcf0789bb59eb848f29cbf2935746d15777"
+  ]
+ },
+ "skilled": {
+  "Word ID": 10415,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409"
+  ]
+ },
+ "goddesses": {
+  "Word ID": 10416,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "colony": {
+  "Word ID": 10417,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "lands": {
+  "Word ID": 10418,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6"
+  ]
+ },
+ "donnelly": {
+  "Word ID": 10419,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "situated": {
+  "Word ID": 10420,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "circumference": {
+  "Word ID": 10421,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "inspiration": {
+  "Word ID": 10422,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "firstborn": {
+  "Word ID": 10423,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "twin": {
+  "Word ID": 10424,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "394c7ca9783396b0ffb57d6754ff8c19f15a4104788f4991989680e695650709"
+  ]
+ },
+ "philosopher": {
+  "Word ID": 10425,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "freund": {
+  "Word ID": 10426,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "mar": {
+  "Word ID": 10427,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "tsunami": {
+  "Word ID": 10428,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "landmass": {
+  "Word ID": 10429,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "fascinate": {
+  "Word ID": 10430,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "tricky": {
+  "Word ID": 10431,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "cayce": {
+  "Word ID": 10432,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "disappearances": {
+  "Word ID": 10433,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "secondly": {
+  "Word ID": 10434,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "concocted": {
+  "Word ID": 10435,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "bahamas": {
+  "Word ID": 10436,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271"
+  ]
+ },
+ "mighty": {
+  "Word ID": 10437,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "2f338eaa7be09c81908a803b5e540c2b1a28df8c7dc4d0c18d5b44f0dec70d1a"
+  ]
+ },
+ "immortal": {
+  "Word ID": 10438,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "knowledgeable": {
+  "Word ID": 10439,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "healthiest": {
+  "Word ID": 10440,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "relax": {
+  "Word ID": 10441,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "utterly": {
+  "Word ID": 10442,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "hartford": {
+  "Word ID": 10443,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "santorini": {
+  "Word ID": 10444,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "myth": {
+  "Word ID": 10445,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494"
+  ]
+ },
+ "storms": {
+  "Word ID": 10446,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "flowers": {
+  "Word ID": 10447,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "strait": {
+  "Word ID": 10448,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "galanopoulos": {
+  "Word ID": 10449,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "timeless": {
+  "Word ID": 10450,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "glass": {
+  "Word ID": 10451,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "394c7ca9783396b0ffb57d6754ff8c19f15a4104788f4991989680e695650709",
+   "6175746575aa2b1c3cc26b6c48c5f961b45e979f7cef9ba496dff3b0b22b8abe"
+  ]
+ },
+ "occupant": {
+  "Word ID": 10452,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "conquered": {
+  "Word ID": 10453,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "gadeirus": {
+  "Word ID": 10454,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "honor": {
+  "Word ID": 10455,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "formation": {
+  "Word ID": 10456,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "minoan": {
+  "Word ID": 10457,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "canals": {
+  "Word ID": 10458,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "archaeological": {
+  "Word ID": 10459,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "sao": {
+  "Word ID": 10460,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "sink": {
+  "Word ID": 10461,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409"
+  ]
+ },
+ "coronation": {
+  "Word ID": 10462,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "beautiful": {
+  "Word ID": 10463,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "tall": {
+  "Word ID": 10464,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "statue": {
+  "Word ID": 10465,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "3516c11d61d94f3c95bcfc1b56814bc9ead2c90745b162f4ae8161152823761a",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015"
+  ]
+ },
+ "sahara": {
+  "Word ID": 10466,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "palaces": {
+  "Word ID": 10467,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "puzzled": {
+  "Word ID": 10468,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b",
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "bull": {
+  "Word ID": 10469,
+  "Document IDs": [
+   "12fa9f9bf828c019b1f178272e72eee80db78828abe60c3b48f93f83fbc0d21b"
+  ]
+ },
+ "arrow": {
+  "Word ID": 10470,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "mourning": {
+  "Word ID": 10471,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "3aacd27e17b05d7f2ad4dbfa1d30e20933cc467cdcec1b5a749e6cac05e16950"
+  ]
+ },
+ "creature": {
+  "Word ID": 10472,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "girl": {
+  "Word ID": 10473,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "6e6e27031a400d575d7ee78c5fc375627e055ec20a34a0e2976931a493fa055e"
+  ]
+ },
+ "artists": {
+  "Word ID": 10474,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "desecrating": {
+  "Word ID": 10475,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "myrmidons": {
+  "Word ID": 10476,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "comrades": {
+  "Word ID": 10477,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "styx": {
+  "Word ID": 10478,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "agamemnon": {
+  "Word ID": 10479,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "schooled": {
+  "Word ID": 10480,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "mythological": {
+  "Word ID": 10481,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "temper": {
+  "Word ID": 10482,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "poems": {
+  "Word ID": 10483,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "kingdoms": {
+  "Word ID": 10484,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "teacher": {
+  "Word ID": 10485,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "impulsive": {
+  "Word ID": 10486,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "patroclus": {
+  "Word ID": 10487,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "wrecked": {
+  "Word ID": 10488,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "flaw": {
+  "Word ID": 10489,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "dipping": {
+  "Word ID": 10490,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "metropolis": {
+  "Word ID": 10491,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "angry": {
+  "Word ID": 10492,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "tenyear": {
+  "Word ID": 10493,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "aeacus": {
+  "Word ID": 10494,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "quarrel": {
+  "Word ID": 10495,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "troad": {
+  "Word ID": 10496,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "greeks": {
+  "Word ID": 10497,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "c2408f605a19f8c4ba5ed79abac92e76879034445e90f2e673ae4811ea5f7c41",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "commanderinchief": {
+  "Word ID": 10498,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "headstrong": {
+  "Word ID": 10499,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "iliad": {
+  "Word ID": 10500,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "phthia": {
+  "Word ID": 10501,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "mythology": {
+  "Word ID": 10502,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "hera": {
+  "Word ID": 10503,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "odysseus": {
+  "Word ID": 10504,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "mistakenly": {
+  "Word ID": 10505,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "coincides": {
+  "Word ID": 10506,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "homer": {
+  "Word ID": 10507,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "bravery": {
+  "Word ID": 10508,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "dies": {
+  "Word ID": 10509,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "186ce2abe7995b240834c63c4419a2ac4eda8730cd739d587a8f755d42dffd86"
+  ]
+ },
+ "offering": {
+  "Word ID": 10510,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "1a159df26df2b76e7e2a1d1aac6960f18ef6554dddcec560217b707ca49a1581",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "lover": {
+  "Word ID": 10511,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319"
+  ]
+ },
+ "nereid": {
+  "Word ID": 10512,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "handsome": {
+  "Word ID": 10513,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "upheaval": {
+  "Word ID": 10514,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "hiding": {
+  "Word ID": 10515,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "mycenaean": {
+  "Word ID": 10516,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "composite": {
+  "Word ID": 10517,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "sparta": {
+  "Word ID": 10518,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "finished": {
+  "Word ID": 10519,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "2daaa6130a5c9f57ccff678d11eb6630ee495f99087bdb10a4bfc820c326edb0"
+  ]
+ },
+ "pelion": {
+  "Word ID": 10520,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "rash": {
+  "Word ID": 10521,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "forgot": {
+  "Word ID": 10522,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "educated": {
+  "Word ID": 10523,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "brad": {
+  "Word ID": 10524,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "bb3fadc711a9bca51506839ab5aa335abfa5505f6f467eab5f3002fbd30537cb",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494"
+  ]
+ },
+ "poem": {
+  "Word ID": 10525,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "thetis": {
+  "Word ID": 10526,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "fond": {
+  "Word ID": 10527,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "qualities": {
+  "Word ID": 10528,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "hunting": {
+  "Word ID": 10529,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "poison": {
+  "Word ID": 10530,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "memorialized": {
+  "Word ID": 10531,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "overconfidence": {
+  "Word ID": 10532,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "pitt": {
+  "Word ID": 10533,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "personality": {
+  "Word ID": 10534,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "troy": {
+  "Word ID": 10535,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "abducted": {
+  "Word ID": 10536,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "ties": {
+  "Word ID": 10537,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "trick": {
+  "Word ID": 10538,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "peleus": {
+  "Word ID": 10539,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "achilles": {
+  "Word ID": 10540,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "writings": {
+  "Word ID": 10541,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "ascertained": {
+  "Word ID": 10542,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "zeus": {
+  "Word ID": 10543,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "athena": {
+  "Word ID": 10544,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "helen": {
+  "Word ID": 10545,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "entrusted": {
+  "Word ID": 10546,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "fictionalized": {
+  "Word ID": 10547,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "starred": {
+  "Word ID": 10548,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "thessaly": {
+  "Word ID": 10549,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "plays": {
+  "Word ID": 10550,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409",
+   "186ce2abe7995b240834c63c4419a2ac4eda8730cd739d587a8f755d42dffd86",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "heel": {
+  "Word ID": 10551,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "retold": {
+  "Word ID": 10552,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "modernday": {
+  "Word ID": 10553,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015"
+  ]
+ },
+ "briseis": {
+  "Word ID": 10554,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "invulnerable": {
+  "Word ID": 10555,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "uncertain": {
+  "Word ID": 10556,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "slopes": {
+  "Word ID": 10557,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "6ed29a23ffb0b083009f4565470be5c9ad825514a7b1d6dee9ad5121135f79e3"
+  ]
+ },
+ "northwest": {
+  "Word ID": 10558,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "59916ff8ffb3d4fee75d377499cafb2cb328397b610b36412232c2c55fec5c46",
+   "823d657c16933c09f02b7923918abd43afb34d055bf15ca704d54b42929cc21e",
+   "d840fc7ccbadf2d17ced6c4a46001ef460cd24bcd0fa213821440bbc09503b16"
+  ]
+ },
+ "chiron": {
+  "Word ID": 10559,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "chases": {
+  "Word ID": 10560,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "slain": {
+  "Word ID": 10561,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "mightiest": {
+  "Word ID": 10562,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "princess": {
+  "Word ID": 10563,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "homeric": {
+  "Word ID": 10564,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "aphrodite": {
+  "Word ID": 10565,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "priam": {
+  "Word ID": 10566,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "rudeness": {
+  "Word ID": 10567,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "mentions": {
+  "Word ID": 10568,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "athenian": {
+  "Word ID": 10569,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "odyssey": {
+  "Word ID": 10570,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "poisoned": {
+  "Word ID": 10571,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "centaur": {
+  "Word ID": 10572,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "destiny": {
+  "Word ID": 10573,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "returns": {
+  "Word ID": 10574,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "4e817e15b57ac9df7a919510d7d9ef4cf0d90f66bebd5e34e5c493b6b92f0fbd"
+  ]
+ },
+ "jason": {
+  "Word ID": 10575,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "255330a71cff1962842248607388c2858baa19985c166767f75db9d8a4a03b2f",
+   "8464b879710f1d2999842f06f3c72b11340f0f051cc535fcd45f53bded7a57dc"
+  ]
+ },
+ "band": {
+  "Word ID": 10576,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "00efde72f6a12870b147d588dedd049d824e3a77c80eb2f3b2ec20a0e9366235",
+   "208aa7191f30c218814c6ad1cf671d68e9d8ce230734930a6ffeb0c040eb06ec"
+  ]
+ },
+ "teleboans": {
+  "Word ID": 10577,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "mourn": {
+  "Word ID": 10578,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "admire": {
+  "Word ID": 10579,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "memorable": {
+  "Word ID": 10580,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8"
+  ]
+ },
+ "revenge": {
+  "Word ID": 10581,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "901dce3b604ae64f69b5b34d248654272543ab30d72d228c9834320132380b0b",
+   "4790497294fd39a78536024b5c5958dd6be35c71bafe6c4323bf6ddea598325e",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "catching": {
+  "Word ID": 10582,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "grieving": {
+  "Word ID": 10583,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "stubborn": {
+  "Word ID": 10584,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "drags": {
+  "Word ID": 10585,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "823d657c16933c09f02b7923918abd43afb34d055bf15ca704d54b42929cc21e",
+   "1ef703f8b80fbb2df34732c37c67819727f5082e6455a0307e8f5185bd27463c"
+  ]
+ },
+ "thirtythree": {
+  "Word ID": 10586,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "dipped": {
+  "Word ID": 10587,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "depict": {
+  "Word ID": 10588,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "chariot": {
+  "Word ID": 10589,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "trojan": {
+  "Word ID": 10590,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "riding": {
+  "Word ID": 10591,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "invincible": {
+  "Word ID": 10592,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "skyros": {
+  "Word ID": 10593,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "settle": {
+  "Word ID": 10594,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "asclepius": {
+  "Word ID": 10595,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "trojans": {
+  "Word ID": 10596,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "afraid": {
+  "Word ID": 10597,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "rage": {
+  "Word ID": 10598,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "3ccb4f582ec8bcd71f7324732f7aa98110af120943dfa959532f738e1eba01ba",
+   "1a159df26df2b76e7e2a1d1aac6960f18ef6554dddcec560217b707ca49a1581",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6"
+  ]
+ },
+ "demigod": {
+  "Word ID": 10599,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "descendent": {
+  "Word ID": 10600,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "portrayed": {
+  "Word ID": 10601,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "6c3afe7faaef1d1b691c950ebbd254a43ba8c287b2048a8d3abaf47e398b4eb8",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "hephaestus": {
+  "Word ID": 10602,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "anger": {
+  "Word ID": 10603,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "recounts": {
+  "Word ID": 10604,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "crowned": {
+  "Word ID": 10605,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "sack": {
+  "Word ID": 10606,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "disguised": {
+  "Word ID": 10607,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "hector": {
+  "Word ID": 10608,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "wronged": {
+  "Word ID": 10609,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703"
+  ]
+ },
+ "poet": {
+  "Word ID": 10610,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "conflicting": {
+  "Word ID": 10611,
+  "Document IDs": [
+   "0bfc1f7ec2d8409e50e613d7fd3052c3f45e9ac47f4789ef2aa23d48fdd27703",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "reticuli": {
+  "Word ID": 10612,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "belt": {
+  "Word ID": 10613,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "drawn": {
+  "Word ID": 10614,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "e7ee78920fd97b3ece980a56477d489d54b6ee58a4e2ffcfe6f5a2712dba3ca2"
+  ]
+ },
+ "beings": {
+  "Word ID": 10615,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "tabby": {
+  "Word ID": 10616,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "destructive": {
+  "Word ID": 10617,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "fac9077fa6f2775455848ae2547e0d63cb8f70061bfde96191e7efd1c877c319",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "hoax": {
+  "Word ID": 10618,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6"
+  ]
+ },
+ "disrupt": {
+  "Word ID": 10619,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "nora": {
+  "Word ID": 10620,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "planets": {
+  "Word ID": 10621,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77"
+  ]
+ },
+ "traction": {
+  "Word ID": 10622,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "901dce3b604ae64f69b5b34d248654272543ab30d72d228c9834320132380b0b"
+  ]
+ },
+ "zeta": {
+  "Word ID": 10623,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "iau": {
+  "Word ID": 10624,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "terrestrial": {
+  "Word ID": 10625,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "scenarios": {
+  "Word ID": 10626,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "gravitationally": {
+  "Word ID": 10627,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "implant": {
+  "Word ID": 10628,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "extends": {
+  "Word ID": 10629,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "cataclysm": {
+  "Word ID": 10630,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "uranus": {
+  "Word ID": 10631,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "tenth": {
+  "Word ID": 10632,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "excitement": {
+  "Word ID": 10633,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "hypothetical": {
+  "Word ID": 10634,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "nibiru": {
+  "Word ID": 10635,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "astronomers": {
+  "Word ID": 10636,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "eruptions": {
+  "Word ID": 10637,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "tabetha": {
+  "Word ID": 10638,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "reclassify": {
+  "Word ID": 10639,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "arrives": {
+  "Word ID": 10640,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "36e38e42586773c3ced0f391a4a2cba55b8f94fdf5bb911bd93b714e2c2f6d4f"
+  ]
+ },
+ "nemesis": {
+  "Word ID": 10641,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "games": {
+  "Word ID": 10642,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6",
+   "4bc510789408493b004498f5686982cc9df0f7dea5437c36359b2382751e83ad"
+  ]
+ },
+ "kic": {
+  "Word ID": 10643,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "hydrogen": {
+  "Word ID": 10644,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "gravitational": {
+  "Word ID": 10645,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "gravity": {
+  "Word ID": 10646,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "calendar": {
+  "Word ID": 10647,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "disastrous": {
+  "Word ID": 10648,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "martians": {
+  "Word ID": 10649,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "impending": {
+  "Word ID": 10650,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "eccentricity": {
+  "Word ID": 10651,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "orbits": {
+  "Word ID": 10652,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "drastic": {
+  "Word ID": 10653,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "kuiper": {
+  "Word ID": 10654,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "cleared": {
+  "Word ID": 10655,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "mercury": {
+  "Word ID": 10656,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77"
+  ]
+ },
+ "dwarfs": {
+  "Word ID": 10657,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "tilt": {
+  "Word ID": 10658,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "harmless": {
+  "Word ID": 10659,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "marduk": {
+  "Word ID": 10660,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "lafayette": {
+  "Word ID": 10661,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "unravel": {
+  "Word ID": 10662,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "doomsday": {
+  "Word ID": 10663,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "59916ff8ffb3d4fee75d377499cafb2cb328397b610b36412232c2c55fec5c46"
+  ]
+ },
+ "disasters": {
+  "Word ID": 10664,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067"
+  ]
+ },
+ "pseudoscience": {
+  "Word ID": 10665,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "floods": {
+  "Word ID": 10666,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "pluto": {
+  "Word ID": 10667,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "decides": {
+  "Word ID": 10668,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "leveson": {
+  "Word ID": 10669,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "spore": {
+  "Word ID": 10670,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "hypotheses": {
+  "Word ID": 10671,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "bunch": {
+  "Word ID": 10672,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "fuse": {
+  "Word ID": 10673,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "planetary": {
+  "Word ID": 10674,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "9a6e3caccf15aa422eb739143f16d113cd4e1f51a08b51034d5d6cd00efd0b22"
+  ]
+ },
+ "elliptical": {
+  "Word ID": 10675,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "adamant": {
+  "Word ID": 10676,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "flyby": {
+  "Word ID": 10677,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "minineptune": {
+  "Word ID": 10678,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "jupiter": {
+  "Word ID": 10679,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "collides": {
+  "Word ID": 10680,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "caltech": {
+  "Word ID": 10681,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "asteroids": {
+  "Word ID": 10682,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "havoc": {
+  "Word ID": 10683,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "au": {
+  "Word ID": 10684,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "infrared": {
+  "Word ID": 10685,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "mayan": {
+  "Word ID": 10686,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "demotion": {
+  "Word ID": 10687,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "astronomer": {
+  "Word ID": 10688,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "robertson": {
+  "Word ID": 10689,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "elongated": {
+  "Word ID": 10690,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "collide": {
+  "Word ID": 10691,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "searched": {
+  "Word ID": 10692,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "dyson": {
+  "Word ID": 10693,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "brighter": {
+  "Word ID": 10694,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "krypton": {
+  "Word ID": 10695,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "distant": {
+  "Word ID": 10696,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "comics": {
+  "Word ID": 10697,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "dinosaurs": {
+  "Word ID": 10698,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "contactee": {
+  "Word ID": 10699,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "debunked": {
+  "Word ID": 10700,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "earthsun": {
+  "Word ID": 10701,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "icy": {
+  "Word ID": 10702,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "nancy": {
+  "Word ID": 10703,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "17b7b7842fab5bc2d0e061c40b5153b0e15ba883e1393c0b2852c1b908f639ec",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015"
+  ]
+ },
+ "binary": {
+  "Word ID": 10704,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "tail": {
+  "Word ID": 10705,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "yale": {
+  "Word ID": 10706,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "bombarded": {
+  "Word ID": 10707,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102"
+  ]
+ },
+ "matese": {
+  "Word ID": 10708,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "lurking": {
+  "Word ID": 10709,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "helium": {
+  "Word ID": 10710,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "telescopes": {
+  "Word ID": 10711,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "sedna": {
+  "Word ID": 10712,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "astrologists": {
+  "Word ID": 10713,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "louisiana": {
+  "Word ID": 10714,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "7c9f39e586bf854a3457f76cc5aecc27e3c15bd9dfb1bde9737384fd01888f82",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "orbiting": {
+  "Word ID": 10715,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77"
+  ]
+ },
+ "selfproclaimed": {
+  "Word ID": 10716,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "seismic": {
+  "Word ID": 10717,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "boyajian": {
+  "Word ID": 10718,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "dimming": {
+  "Word ID": 10719,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "venus": {
+  "Word ID": 10720,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "hobbyists": {
+  "Word ID": 10721,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "lieder": {
+  "Word ID": 10722,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "neptune": {
+  "Word ID": 10723,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "surveys": {
+  "Word ID": 10724,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "schindler": {
+  "Word ID": 10725,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "superman": {
+  "Word ID": 10726,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "accompanied": {
+  "Word ID": 10727,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "mounts": {
+  "Word ID": 10728,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "emissions": {
+  "Word ID": 10729,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "8c32aa133c341fc6e3136dae93bbde8a40b0b698c8a90ede9a8cd8ebebfc33f0"
+  ]
+ },
+ "faint": {
+  "Word ID": 10730,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "gained": {
+  "Word ID": 10731,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "bb3fadc711a9bca51506839ab5aa335abfa5505f6f467eab5f3002fbd30537cb",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "4e817e15b57ac9df7a919510d7d9ef4cf0d90f66bebd5e34e5c493b6b92f0fbd",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "stargazers": {
+  "Word ID": 10732,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "worlds": {
+  "Word ID": 10733,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "394c7ca9783396b0ffb57d6754ff8c19f15a4104788f4991989680e695650709"
+  ]
+ },
+ "babylonian": {
+  "Word ID": 10734,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "saturn": {
+  "Word ID": 10735,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "comets": {
+  "Word ID": 10736,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "kevin": {
+  "Word ID": 10737,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274"
+  ]
+ },
+ "sooner": {
+  "Word ID": 10738,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "59916ff8ffb3d4fee75d377499cafb2cb328397b610b36412232c2c55fec5c46",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494"
+  ]
+ },
+ "mothership": {
+  "Word ID": 10739,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "ninth": {
+  "Word ID": 10740,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9",
+   "f6a10a82b55674df24a655c534d83b3499f52e834d078c413eb9bfa65f550985"
+  ]
+ },
+ "orbital": {
+  "Word ID": 10741,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "shapes": {
+  "Word ID": 10742,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "megastructure": {
+  "Word ID": 10743,
+  "Document IDs": [
+   "fce396e1a103b1972545f97233500ddea3fde014d04366e83eb1e9be150963e9"
+  ]
+ },
+ "pharaonic": {
+  "Word ID": 10744,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "befitted": {
+  "Word ID": 10745,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "siblings": {
+  "Word ID": 10746,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "sided": {
+  "Word ID": 10747,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "persona": {
+  "Word ID": 10748,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "powerhungry": {
+  "Word ID": 10749,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "romans": {
+  "Word ID": 10750,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "rulers": {
+  "Word ID": 10751,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "royalty": {
+  "Word ID": 10752,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "ushered": {
+  "Word ID": 10753,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "romantic": {
+  "Word ID": 10754,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "demonized": {
+  "Word ID": 10755,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "lady": {
+  "Word ID": 10756,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "3516c11d61d94f3c95bcfc1b56814bc9ead2c90745b162f4ae8161152823761a",
+   "11ae00522497a6fa79e459fc065228348643ed4a54e6dfed77a3d0fbd57cf7f6",
+   "2f338eaa7be09c81908a803b5e540c2b1a28df8c7dc4d0c18d5b44f0dec70d1a",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067"
+  ]
+ },
+ "transformation": {
+  "Word ID": 10757,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "naught": {
+  "Word ID": 10758,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "stabbed": {
+  "Word ID": 10759,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "255330a71cff1962842248607388c2858baa19985c166767f75db9d8a4a03b2f",
+   "be25a60462a5f2398712dc1c9ef2a9144a2cd90b658352819ac0abebba3bc81e"
+  ]
+ },
+ "rival": {
+  "Word ID": 10760,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "caesarion": {
+  "Word ID": 10761,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "ordinary": {
+  "Word ID": 10762,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "5cab5950049bbc2a9fc250874ae8cdddc2747897f17d774142ed6112f529f113",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "osiris": {
+  "Word ID": 10763,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "attendants": {
+  "Word ID": 10764,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "television": {
+  "Word ID": 10765,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "0e97c6683688d4c5c4be344f4173c8e72d47527289dd1241ada5644bc66c9206",
+   "ee9ebe6af1a2ba900ade973b3b9b4143c1d8cce83b35761563c57bcb4c931be3",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "struggles": {
+  "Word ID": 10766,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "00efde72f6a12870b147d588dedd049d824e3a77c80eb2f3b2ec20a0e9366235",
+   "f131ec11e07c72a7c4042f771bb26bcf0789bb59eb848f29cbf2935746d15777",
+   "1c1343d43f6586f9468d89be23730e01cdacbb9eb686a66b151b6ef8ef10c6bd",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "vi": {
+  "Word ID": 10767,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "xv": {
+  "Word ID": 10768,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "physician": {
+  "Word ID": 10769,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "7c9f39e586bf854a3457f76cc5aecc27e3c15bd9dfb1bde9737384fd01888f82",
+   "86fbff0d1277287c3e4775c58dd88cf088f602dcf34501a2fc0092a5170ce134",
+   "09848297215b318bc28ab240053a28583d7a18b846fb6f0228565fd5f46dc178",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "thousand": {
+  "Word ID": 10770,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "ee9ebe6af1a2ba900ade973b3b9b4143c1d8cce83b35761563c57bcb4c931be3",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "venomous": {
+  "Word ID": 10771,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "sadness": {
+  "Word ID": 10772,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "snakes": {
+  "Word ID": 10773,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "humiliate": {
+  "Word ID": 10774,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "julius": {
+  "Word ID": 10775,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "snake": {
+  "Word ID": 10776,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "heritage": {
+  "Word ID": 10777,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "b6d576be24a77588a81cad3037807e1c34f40d4cc4991ba61658765ecb7d48bb"
+  ]
+ },
+ "cleopatra": {
+  "Word ID": 10778,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "lovers": {
+  "Word ID": 10779,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274"
+  ]
+ },
+ "shrine": {
+  "Word ID": 10780,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "divine": {
+  "Word ID": 10781,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "asp": {
+  "Word ID": 10782,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "antonius": {
+  "Word ID": 10783,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "xiii": {
+  "Word ID": 10784,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "nile": {
+  "Word ID": 10785,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "hostage": {
+  "Word ID": 10786,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "255330a71cff1962842248607388c2858baa19985c166767f75db9d8a4a03b2f"
+  ]
+ },
+ "mourned": {
+  "Word ID": 10787,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "plutarch": {
+  "Word ID": 10788,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "ruthless": {
+  "Word ID": 10789,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102",
+   "dce4358029ff34734a27b80ad4db10144f3e3010b0dbbb86d161e61f7307b63a",
+   "c0e38d21709ea39720d530a25c8d3d97b6c93bde9b1df6e9016ff4c35eb77e83",
+   "4b1c82c107b6c1bf59be0d0e837c69f25173e658abfdcdc215991da3133ed802",
+   "ae016dda007195948fade60b9a8d1908a370afd62720a92d502252587a582a44",
+   "374251b09d6eb4e35f250d59a012bba1f63d56948c6dd5127c17abf04c0032e7"
+  ]
+ },
+ "films": {
+  "Word ID": 10790,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "reputation": {
+  "Word ID": 10791,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "b6d576be24a77588a81cad3037807e1c34f40d4cc4991ba61658765ecb7d48bb",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "regalias": {
+  "Word ID": 10792,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "sisterwife": {
+  "Word ID": 10793,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "crowns": {
+  "Word ID": 10794,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "patron": {
+  "Word ID": 10795,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "paraded": {
+  "Word ID": 10796,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "philae": {
+  "Word ID": 10797,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "toppled": {
+  "Word ID": 10798,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "betray": {
+  "Word ID": 10799,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "turmoil": {
+  "Word ID": 10800,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "59916ff8ffb3d4fee75d377499cafb2cb328397b610b36412232c2c55fec5c46"
+  ]
+ },
+ "barricaded": {
+  "Word ID": 10801,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "horus": {
+  "Word ID": 10802,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525"
+  ]
+ },
+ "upset": {
+  "Word ID": 10803,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "4769db9a017d11ef249e475e325ad990a00ad8a25698b3e3dbd0d10104770d2a",
+   "17ea4f9e7a7f2246d6577ba5025d1b85e28870d21143eb68d2ddceebdd618a2c",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "8cfeabfcd64138825c55d24401b8f0c4f304935bddd6a7ad3b73a89e46d2b7db",
+   "285a56c7b63dbd04bc2a5399c2fad46fac6e85e2528e5cb96414b325aa5c66a7",
+   "b83ef5bf057a4c36568d554c3f0329b46a89cd8e67787539264c62272fbdb58b",
+   "643ce4ae27925eca144b994b7fcd48c23896e4b7110300c4944298368329da40",
+   "396fe40ec5720cd131d56de7b2a204c79bb0e8bd244e93734156f94ddb8ec8c1"
+  ]
+ },
+ "beside": {
+  "Word ID": 10804,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "philippe": {
+  "Word ID": 10805,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "faithful": {
+  "Word ID": 10806,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf"
+  ]
+ },
+ "bracelet": {
+  "Word ID": 10807,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "julioclaudian": {
+  "Word ID": 10808,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "vii": {
+  "Word ID": 10809,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "ptolemaic": {
+  "Word ID": 10810,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "alexandria": {
+  "Word ID": 10811,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "lepidus": {
+  "Word ID": 10812,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "insulted": {
+  "Word ID": 10813,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "thirst": {
+  "Word ID": 10814,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "servants": {
+  "Word ID": 10815,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "ee9ebe6af1a2ba900ade973b3b9b4143c1d8cce83b35761563c57bcb4c931be3"
+  ]
+ },
+ "productions": {
+  "Word ID": 10816,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "vying": {
+  "Word ID": 10817,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "bdd4e4a0e5a5c91c5cf90c893f8afaa254869c3eaf55b02ebf3cf7c00601ecb6"
+  ]
+ },
+ "mausoleum": {
+  "Word ID": 10818,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "poisonous": {
+  "Word ID": 10819,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "trophy": {
+  "Word ID": 10820,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "unpopular": {
+  "Word ID": 10821,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "augustus": {
+  "Word ID": 10822,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "uraeus": {
+  "Word ID": 10823,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "assassins": {
+  "Word ID": 10824,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "2daaa6130a5c9f57ccff678d11eb6630ee495f99087bdb10a4bfc820c326edb0"
+  ]
+ },
+ "consolidated": {
+  "Word ID": 10825,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "threw": {
+  "Word ID": 10826,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "helios": {
+  "Word ID": 10827,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "curled": {
+  "Word ID": 10828,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "caesar": {
+  "Word ID": 10829,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "e78646f227cac5c0bb16f59c6f91276d86217cc66e091af1d2280cd289b33880"
+  ]
+ },
+ "bitten": {
+  "Word ID": 10830,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "dumped": {
+  "Word ID": 10831,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "wands": {
+  "Word ID": 10832,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "arm": {
+  "Word ID": 10833,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "34ccbf6192b90e0fa045151c8d7e038d40dcba1ebcb15eb37fc24deedcedceb9",
+   "43ba0f194d366e75057cbe038174f67f18555c87cad4f61f2222ffffcbc29162"
+  ]
+ },
+ "emblem": {
+  "Word ID": 10834,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "kingship": {
+  "Word ID": 10835,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "remembered": {
+  "Word ID": 10836,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "octavian": {
+  "Word ID": 10837,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "berenice": {
+  "Word ID": 10838,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "throne": {
+  "Word ID": 10839,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "prosperity": {
+  "Word ID": 10840,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "struggle": {
+  "Word ID": 10841,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "c2408f605a19f8c4ba5ed79abac92e76879034445e90f2e673ae4811ea5f7c41",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "asps": {
+  "Word ID": 10842,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "persuading": {
+  "Word ID": 10843,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "manipulation": {
+  "Word ID": 10844,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "20fcd085bddc07cf6b2a5b512fb1fb8ec261c72eac62dd3334060420be92d525",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "pharaohs": {
+  "Word ID": 10845,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "odds": {
+  "Word ID": 10846,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "568087561c778c0a3cd673391bb14ea18e355714861c5974d111d87144baf2cf",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "a807df1579b2d9ca57212d4127bad32bbfccca0f48e0ea1f891fa2d6c6bf0fec"
+  ]
+ },
+ "needle": {
+  "Word ID": 10847,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "unceremoniously": {
+  "Word ID": 10848,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "eiras": {
+  "Word ID": 10849,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "dignity": {
+  "Word ID": 10850,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "cloaks": {
+  "Word ID": 10851,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "actium": {
+  "Word ID": 10852,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "baskets": {
+  "Word ID": 10853,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "annexed": {
+  "Word ID": 10854,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "grandnephew": {
+  "Word ID": 10855,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "charmion": {
+  "Word ID": 10856,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "traitor": {
+  "Word ID": 10857,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274"
+  ]
+ },
+ "humiliated": {
+  "Word ID": 10858,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "reclaimed": {
+  "Word ID": 10859,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "antony": {
+  "Word ID": 10860,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "ptolemy": {
+  "Word ID": 10861,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "grudges": {
+  "Word ID": 10862,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "servant": {
+  "Word ID": 10863,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "destined": {
+  "Word ID": 10864,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "b4dcd3295f27b289e245a32430fdeae76e962bda2a9db996ee0b7d233f2acf01",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577"
+  ]
+ },
+ "headdresses": {
+  "Word ID": 10865,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "cobra": {
+  "Word ID": 10866,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "couch": {
+  "Word ID": 10867,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "tomb": {
+  "Word ID": 10868,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "marcus": {
+  "Word ID": 10869,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "f45e277a6b1da1e9a8d1316bf67557210e4dda04e93379f5405fad9145ed994b"
+  ]
+ },
+ "retreated": {
+  "Word ID": 10870,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "arsino": {
+  "Word ID": 10871,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "tarnished": {
+  "Word ID": 10872,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "triumvirates": {
+  "Word ID": 10873,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "overshadow": {
+  "Word ID": 10874,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51"
+  ]
+ },
+ "xii": {
+  "Word ID": 10875,
+  "Document IDs": [
+   "a8a0472028a429572318a776c9871c47eee33a9635048ade1a7c726cae0c0a51",
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "loyal": {
+  "Word ID": 10876,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "6e6e27031a400d575d7ee78c5fc375627e055ec20a34a0e2976931a493fa055e"
+  ]
+ },
+ "tryphaena": {
+  "Word ID": 10877,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "overweight": {
+  "Word ID": 10878,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "myths": {
+  "Word ID": 10879,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494"
+  ]
+ },
+ "xvi": {
+  "Word ID": 10880,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "vowing": {
+  "Word ID": 10881,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "uninvited": {
+  "Word ID": 10882,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "ensured": {
+  "Word ID": 10883,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "tantamount": {
+  "Word ID": 10884,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "pulitzer": {
+  "Word ID": 10885,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "d6494556377be03c08d0d234a5f251be2ddd18c87fbfa19b6d76f753f7406102"
+  ]
+ },
+ "corulers": {
+  "Word ID": 10886,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "mummify": {
+  "Word ID": 10887,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "regarded": {
+  "Word ID": 10888,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "9a6e3caccf15aa422eb739143f16d113cd4e1f51a08b51034d5d6cd00efd0b22"
+  ]
+ },
+ "obeyed": {
+  "Word ID": 10889,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "subhuman": {
+  "Word ID": 10890,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "duggan": {
+  "Word ID": 10891,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "preceded": {
+  "Word ID": 10892,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8"
+  ]
+ },
+ "gesture": {
+  "Word ID": 10893,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "philometor": {
+  "Word ID": 10894,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "elegantly": {
+  "Word ID": 10895,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "tiber": {
+  "Word ID": 10896,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "forgave": {
+  "Word ID": 10897,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "joyce": {
+  "Word ID": 10898,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "negotiating": {
+  "Word ID": 10899,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "couples": {
+  "Word ID": 10900,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "063723906aaf190822931cbebf9d30fe058a0978781e7d3476a45a08f535a993",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067",
+   "406800366d992e8cc025f5258beb7ef7132c9ebb4c4290faf97d6c8ab6c468d8",
+   "035f62691f9dfa1c095dc8fd9474891778d1e8fc55e674664be0a4c7b827296e",
+   "9b75558b57df4d2ce9540ee2c45809df94575fa9a7c5439b5c58a8cdf5265073"
+  ]
+ },
+ "composed": {
+  "Word ID": 10901,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a873fdbd3ebac25cceed77485fd897d41e24014ca3a68a0a597fc3dd048099d8"
+  ]
+ },
+ "cleverly": {
+  "Word ID": 10902,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "inimitable": {
+  "Word ID": 10903,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "doubled": {
+  "Word ID": 10904,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "f131ec11e07c72a7c4042f771bb26bcf0789bb59eb848f29cbf2935746d15777"
+  ]
+ },
+ "fishwick": {
+  "Word ID": 10905,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "queens": {
+  "Word ID": 10906,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "c05e7c1a51649e329c28afb6c932b51c0442da24b135a90d161fc8bf67106274"
+  ]
+ },
+ "courage": {
+  "Word ID": 10907,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "42156f0762a8ad1b77e4ea1b0a4aac37ffe7b9cbfc668f44c092bcc70be49841"
+  ]
+ },
+ "philadelphus": {
+  "Word ID": 10908,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "educate": {
+  "Word ID": 10909,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409"
+  ]
+ },
+ "starring": {
+  "Word ID": 10910,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "unfavorably": {
+  "Word ID": 10911,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "networks": {
+  "Word ID": 10912,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "6e6e27031a400d575d7ee78c5fc375627e055ec20a34a0e2976931a493fa055e",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "ptolemies": {
+  "Word ID": 10913,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "regency": {
+  "Word ID": 10914,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "rapidly": {
+  "Word ID": 10915,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "49e8d66ec84625453f028dd7e4cb15674f82605951fe3f2ecb88fb8468b5fa1b"
+  ]
+ },
+ "vinegar": {
+  "Word ID": 10916,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "parodies": {
+  "Word ID": 10917,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "foreigner": {
+  "Word ID": 10918,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067"
+  ]
+ },
+ "priestess": {
+  "Word ID": 10919,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "stacy": {
+  "Word ID": 10920,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "expanding": {
+  "Word ID": 10921,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "ae016dda007195948fade60b9a8d1908a370afd62720a92d502252587a582a44",
+   "f65e95bb7571f2fb43d0ffc48f2359e04bbf91ba3173f188b4bf0e5f056b68b8",
+   "9a6e3caccf15aa422eb739143f16d113cd4e1f51a08b51034d5d6cd00efd0b22"
+  ]
+ },
+ "predecessors": {
+  "Word ID": 10922,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "deposed": {
+  "Word ID": 10923,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "magic": {
+  "Word ID": 10924,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "cemented": {
+  "Word ID": 10925,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "philippi": {
+  "Word ID": 10926,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "styled": {
+  "Word ID": 10927,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "captivating": {
+  "Word ID": 10928,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630"
+  ]
+ },
+ "bogging": {
+  "Word ID": 10929,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "insulting": {
+  "Word ID": 10930,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "visionary": {
+  "Word ID": 10931,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "opponents": {
+  "Word ID": 10932,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "4ebe3c04eabd1b2fcc2b85bbabe4dc1804c643e83d83e6cc6efffad45ff4c015",
+   "4e817e15b57ac9df7a919510d7d9ef4cf0d90f66bebd5e34e5c493b6b92f0fbd",
+   "4bc510789408493b004498f5686982cc9df0f7dea5437c36359b2382751e83ad"
+  ]
+ },
+ "wedding": {
+  "Word ID": 10933,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "9a1a93ee958befce3313036b56df583ee40e408d714c915bf3c6a0e65c4dc577",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "rushed": {
+  "Word ID": 10934,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "hare": {
+  "Word ID": 10935,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "charmed": {
+  "Word ID": 10936,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "foot": {
+  "Word ID": 10937,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "greatnephew": {
+  "Word ID": 10938,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "dislikeness": {
+  "Word ID": 10939,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "sister": {
+  "Word ID": 10940,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "2cbd0ac8d768fd05236c84a232c8259c9a88ee232ec0705c0bd259bf4e603096"
+  ]
+ },
+ "wished": {
+  "Word ID": 10941,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "praising": {
+  "Word ID": 10942,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "f131ec11e07c72a7c4042f771bb26bcf0789bb59eb848f29cbf2935746d15777"
+  ]
+ },
+ "examining": {
+  "Word ID": 10943,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "86fbff0d1277287c3e4775c58dd88cf088f602dcf34501a2fc0092a5170ce134",
+   "09848297215b318bc28ab240053a28583d7a18b846fb6f0228565fd5f46dc178",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494",
+   "40298d41262898e0811e721ad9ef8da420772f4840319edd3eed06317f4c89de"
+  ]
+ },
+ "valletta": {
+  "Word ID": 10944,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "comedy": {
+  "Word ID": 10945,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "tarsus": {
+  "Word ID": 10946,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "rebellion": {
+  "Word ID": 10947,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "a9f0429cb0e202d5333c19f2767615217af0b769c41f9e2c5f8026b60ec18630",
+   "ca43ea0f94a326b3121ce6c344a67866dc1e8e9d2129522c13422fd41ad0507b"
+  ]
+ },
+ "kara": {
+  "Word ID": 10948,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "auletes": {
+  "Word ID": 10949,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "opponent": {
+  "Word ID": 10950,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "duncan": {
+  "Word ID": 10951,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "f88c691520136af6cb86c993826a9a7727d4ea8bc5becde42cb958b4f5f66e77"
+  ]
+ },
+ "paint": {
+  "Word ID": 10952,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "088820cbe93878da2172b83f5d13791ce003443754a592b7265875a05c954067"
+  ]
+ },
+ "grandmother": {
+  "Word ID": 10953,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "sisters": {
+  "Word ID": 10954,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "c2408f605a19f8c4ba5ed79abac92e76879034445e90f2e673ae4811ea5f7c41"
+  ]
+ },
+ "decisive": {
+  "Word ID": 10955,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "boxoffice": {
+  "Word ID": 10956,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "overcame": {
+  "Word ID": 10957,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "tolerated": {
+  "Word ID": 10958,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "summoned": {
+  "Word ID": 10959,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "1aab57a7a0e5d884b2a09566e44aa38c0deebcebeba1a372c0b7ccdb1ba38167"
+  ]
+ },
+ "opportunities": {
+  "Word ID": 10960,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa",
+   "762ff75aa73ded6bb0a0f93b360ef93924b3c9c9c7e4ffcec91863c5e52e3d94"
+  ]
+ },
+ "diplomatic": {
+  "Word ID": 10961,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "4790497294fd39a78536024b5c5958dd6be35c71bafe6c4323bf6ddea598325e",
+   "016897e59b5fad488bfebbc43a8fe1f493500fdb26deec7a0184edc5de54b1aa"
+  ]
+ },
+ "upstart": {
+  "Word ID": 10962,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "breached": {
+  "Word ID": 10963,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "1704c618e6285a507ad075266aa3fd6d95acbaa368668d36a4d9f6a9b1db9494"
+  ]
+ },
+ "cassius": {
+  "Word ID": 10964,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "madefortelevision": {
+  "Word ID": 10965,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "talbot": {
+  "Word ID": 10966,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "caeser": {
+  "Word ID": 10967,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "lifestyle": {
+  "Word ID": 10968,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "063723906aaf190822931cbebf9d30fe058a0978781e7d3476a45a08f535a993",
+   "de7b7ec145f37f27229aa2f02042f1b5902f5054e2c95628c5840af081758271"
+  ]
+ },
+ "foremost": {
+  "Word ID": 10969,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801"
+  ]
+ },
+ "admired": {
+  "Word ID": 10970,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "6a03bfe31429a2cbd8bf4c854349b66e563b42a8542dcba77288906b169cf801",
+   "a2e2918a2852808a922ec694cb586fce62966fd48b0c2db792c5057cadbbe70d"
+  ]
+ },
+ "coregent": {
+  "Word ID": 10971,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "nephew": {
+  "Word ID": 10972,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "2cbd0ac8d768fd05236c84a232c8259c9a88ee232ec0705c0bd259bf4e603096"
+  ]
+ },
+ "xi": {
+  "Word ID": 10973,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "lately": {
+  "Word ID": 10974,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "0e97c6683688d4c5c4be344f4173c8e72d47527289dd1241ada5644bc66c9206",
+   "4790497294fd39a78536024b5c5958dd6be35c71bafe6c4323bf6ddea598325e",
+   "a466b144d53c56876ca1a5b443a15e1495b2e9c19c4378b181cf872111cb64dd"
+  ]
+ },
+ "fleets": {
+  "Word ID": 10975,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "carpet": {
+  "Word ID": 10976,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "suspicions": {
+  "Word ID": 10977,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "incest": {
+  "Word ID": 10978,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "inherited": {
+  "Word ID": 10979,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "patriarchal": {
+  "Word ID": 10980,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "4e817e15b57ac9df7a919510d7d9ef4cf0d90f66bebd5e34e5c493b6b92f0fbd"
+  ]
+ },
+ "storyline": {
+  "Word ID": 10981,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "artistic": {
+  "Word ID": 10982,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "b43565152b315d0d60c72e35d7c79ae4d25e53b90eba2214944e249c18fad409"
+  ]
+ },
+ "divisions": {
+  "Word ID": 10983,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "admirably": {
+  "Word ID": 10984,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "alluring": {
+  "Word ID": 10985,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "carryon": {
+  "Word ID": 10986,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "pastimes": {
+  "Word ID": 10987,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "octavia": {
+  "Word ID": 10988,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "wore": {
+  "Word ID": 10989,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7",
+   "ee9ebe6af1a2ba900ade973b3b9b4143c1d8cce83b35761563c57bcb4c931be3"
+  ]
+ },
+ "unattractive": {
+  "Word ID": 10990,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "hostages": {
+  "Word ID": 10991,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "xenophobia": {
+  "Word ID": 10992,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "sails": {
+  "Word ID": 10993,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "rumours": {
+  "Word ID": 10994,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "pompey": {
+  "Word ID": 10995,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "fouryearold": {
+  "Word ID": 10996,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "leigh": {
+  "Word ID": 10997,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d",
+   "265930571efc94aa88dfdfaa5c913d073c145e2635f27815f889df122b2885f7"
+  ]
+ },
+ "brighteyed": {
+  "Word ID": 10998,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ },
+ "biography": {
+  "Word ID": 10999,
+  "Document IDs": [
+   "88b8b9a0e581545629c62c1bdc88cdedf1f2cb2a492a2ce74e2e24a03250e13d"
+  ]
+ }
+}

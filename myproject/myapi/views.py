@@ -1,5 +1,5 @@
-# myapi/views.py
 import json
+import os
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.views import View
@@ -9,12 +9,15 @@ from myapi.main import ForwardIndex, InvertedIndex
 from myapi.ranking import Ranking
 from myapi.extract_guiData import load_metadata, display_metadata
 from myapi.utils.utils import process_content_generator
+from myapi.class_forwardIndex import build_forward_index
+from myapi.extract_guiData import extract_metadata_from_json
+from myapi.contentaddition import append_article_to_json_file, append_article_to_forward_file, append_article_to_inverted_file
 
-# Assume these are your paths, adjust them accordingly
-FI_JSON_PATH = 'myapi/FI.json'
-LEXI_JSON_PATH = 'myapi/Lexi.json'
-METADATA_JSON_PATH = 'myapi/metadata.json'
-NEW_ARTICLES_JSON_PATH = 'myapi/test/newarticles.json'
+
+FI_JSON_PATH = os.path.join('myapi', 'FI.json')
+LEXI_JSON_PATH = os.path.join('myapi', 'Lexi.json')
+METADATA_JSON_PATH = os.path.join('myapi', 'metadata.json')
+NEW_ARTICLES_JSON_PATH = os.path.join('myapi', 'test', 'newarticles.json')
 
 forward_index_instance = ForwardIndex()
 forward_index_instance.load_from_json(FI_JSON_PATH)
@@ -57,6 +60,17 @@ class SearchView(View):
         except Exception as e:
             return JsonResponse({'error': str(e)}, status=500)
 
+class BaseUpdateView(View):
+    @method_decorator(csrf_exempt)
+    def dispatch(self, *args, **kwargs):
+        return super().dispatch(*args, **kwargs)
+
+    def update_data(self, json_file_path, update_function):
+        try:
+            update_function(json_file_path)
+            return JsonResponse({'success': True, 'message': f'{self.__class__.__name__} updated successfully'})
+        except Exception as e:
+            return JsonResponse({'error': str(e)}, status=500)
 
 class AddContentView(View):
     @method_decorator(csrf_exempt)
@@ -65,9 +79,9 @@ class AddContentView(View):
 
     def post(self, request, *args, **kwargs):
         try:
-            data = json.loads(request.body.decode('utf-8'))
-            article_data = data.get('content', {})
-            
+            # Read the request body directly as a JSON object
+            article_data = json.loads(request.body)
+
             # Save the article data to your data files
             append_article_to_json_file(article_data)
 
@@ -75,22 +89,128 @@ class AddContentView(View):
         except Exception as e:
             return JsonResponse({'error': str(e)}, status=500)
 
-
 def append_article_to_json_file(article_data, json_file_path=NEW_ARTICLES_JSON_PATH):
     try:
-        with open(json_file_path, "r", encoding="utf-8") as file:
-            articles = json.load(file)
-            articles.append(article_data)
+        # Read existing data from the file, or initialize an empty list if the file is empty or not valid JSON
+        try:
+            with open(json_file_path, "r", encoding="utf-8") as file:
+                articles = json.load(file)
+        except (json.JSONDecodeError, FileNotFoundError):
+            articles = []
 
+        # Append the parsed JSON object
+        articles.append(article_data)
+        print('Article data after appending:', article_data)
+
+        # Write the modified data back to the file
         with open(json_file_path, "w", encoding="utf-8") as file:
             json.dump(articles, file, ensure_ascii=False, indent=2)
 
         print("Article appended successfully!")
-
-        # Additional logic if needed
+        append_article_to_forward_file()
 
         return True
     except Exception as e:
         print(f"An error occurred: {str(e)}")
         return False
     
+def append_article_to_forward_file(json_file_path=r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\FI.json"):
+    try:
+        forward_index = ForwardIndex() 
+        print("obj created")  # Create a new instance of ForwardIndex
+        build_forward_index(r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\test", forward_index)  # Build the forward index
+        print("extra foward built\n")
+
+        # Open the file and directly assign the content to existing_data
+        with open(json_file_path, "r", encoding="utf-8") as file:
+            print("foward file open\n")
+            try:
+                existing_data = json.load(file)
+                print("prev data loaded\n")
+            except json.JSONDecodeError as e:
+                print(f"JSONDecodeError: {e}")
+    except json.JSONDecodeError:
+        # If the file is empty or not a valid JSON, start with an empty dictionary
+        existing_data = {}
+
+    new_structure = forward_index.index
+    print("foward into new struct built\n")
+    existing_data.update(new_structure)
+    print("update foward built\n")
+
+    # Step 4: Write the modified data back to the file
+
+    with open(json_file_path, "w", encoding="utf-8") as file:
+        print(" fowarddump open in file built\n")
+        json.dump(existing_data, file, ensure_ascii=False, indent=2)
+        print(" foward dumped close in file built\n")
+    
+    with open(r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\Lexi.json", "r", encoding="utf-8") as file:
+        print(" lexi load open in file built\n")
+        existing_lexi = json.load(file)
+        print(" lexui load close in file built\n")
+    last_word_id = existing_lexi[-1]["Word ID"]+1
+    lexicon_list = []
+    for word, word_id in forward_index.lexicon.items():
+        if word not in [item["Word"] for item in existing_lexi]:
+            data = {"Word ID": last_word_id, "Word": word}
+            lexicon_list.append(data)
+            last_word_id = last_word_id+1
+    
+    print(lexicon_list)
+    
+    
+
+    with open(r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\Lexi.json", "w", encoding="utf-8") as file:
+        update_lexi = existing_lexi + lexicon_list
+        print(" lexidump open in file built\n")
+        json.dump(update_lexi, file, ensure_ascii=False, indent=2)
+        print(" lexi dump in file built\n")
+
+    print("Forward\\lexicon appended successfully!")
+    total_doc_length_file = r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\total_doc_len.json"
+    with open(total_doc_length_file, 'r', encoding='utf-8') as json_file:
+            data = json.load(json_file)
+            total_doc_length = data["total_doc_length"]
+            total_doc_length = total_doc_length+ forward_index.total_doc_length
+            
+    with open(total_doc_length_file, 'w', encoding='utf-8') as json_file:
+            json.dump({"total_doc_length": total_doc_length}, json_file, indent=2)
+            
+            
+    #code for meta data files
+    metadata_dict = {}
+    metadata_dict.update(extract_metadata_from_json(r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\test\newarticles.json"))#add path of newarticles file
+    #new meta data dict completed
+    json_file_path=r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\metadata.json"
+    try:
+        with open(json_file_path, "r", encoding="utf-8") as file:
+            print("meta file open\n")
+            try:
+                existing_data = json.load(file)
+                print("prev data loaded\n")
+            except json.JSONDecodeError as e:
+                print(f"JSONDecodeError: {e}")
+    except json.JSONDecodeError:
+        # If the file is empty or not a valid JSON, start with an empty dictionary
+        existing_data = {}
+
+    existing_data.update(metadata_dict)
+    print("meta dict built full\n")
+
+    # Step 4: Write the modified data back to the file
+
+    with open(json_file_path, "w", encoding="utf-8") as file:
+        print(" meta dump open in file built\n")
+        json.dump(existing_data, file, ensure_ascii=False, indent=2)
+        print(" meta dumped close in file built\n")    
+    append_article_to_inverted_file()
+
+
+def append_article_to_inverted_file():
+    inverted_index = InvertedIndex()
+    inverted_index.build_inverted_index(r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\FI.json", r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\Lexi.json")
+    inverted_index.save_inverted_index_to_json(r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\II.json")
+    json_file_path=r"C:\Users\user\Documents\GitHub\DSA\myproject\myapi\test\newarticles.json"
+    with open(json_file_path, "w", encoding="utf-8") as file:
+            json.dump([], file, ensure_ascii=False, indent=2)

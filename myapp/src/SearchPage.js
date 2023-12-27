@@ -24,20 +24,21 @@ const SearchPage = () => {
 
   const handleAddContentModal = async (content) => {
     try {
-      const response = await axios.post('http://localhost:8000/api/add-content/', {
-        content: JSON.stringify(content),
+      console.log('Content:', content);
+  
+      const response = await axios.post('http://localhost:8000/api/add-content/', content, {
+        headers: {
+          'Content-Type': 'application/json',
+        },
       });
-
-      if (response.data.success) {
-        await axios.post('http://localhost:8000/api/update-forward/');
-        await axios.post('http://localhost:8000/api/update-inverted/');
-      }
-
+  
       setIsModalOpen(false);
     } catch (error) {
       console.error('Error adding content:', error);
     }
   };
+  
+  
 
   return (
     <div className="search-page-container">

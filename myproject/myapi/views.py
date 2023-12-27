@@ -67,7 +67,7 @@ class AddContentView(View):
         try:
             data = json.loads(request.body.decode('utf-8'))
             article_data = data.get('content', {})
-            
+            print(article_data)
             # Save the article data to your data files
             append_article_to_json_file(article_data)
 
@@ -80,7 +80,8 @@ def append_article_to_json_file(article_data, json_file_path=NEW_ARTICLES_JSON_P
     try:
         with open(json_file_path, "r", encoding="utf-8") as file:
             articles = json.load(file)
-            articles.append(json.loads(article_data))
+            articles.append(json.loads(json.loads(article_data)))
+            print(articles)
 
         with open(json_file_path, "w", encoding="utf-8") as file:
             json.dump(articles, file, ensure_ascii=False, indent=2)

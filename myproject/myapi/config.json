@@ -1,9 +1,9 @@
 {
-  "folder_path": "C:/Users/user/Documents/GitHub/DSA/myproject/myapi/testFiles/", 
-  "output_file_path_txt": "C:/Users/user/Documents/GitHub/DSA/myproject/myapi/FI.json",
-  "lexicon_file_path_txt": "C:/Users/user/Documents/GitHub/DSA/myproject/myapi/Lexi.json",
-  "inverted_index_file_path_txt": "C:/Users/user/Documents/GitHub/DSA/myproject/myapi/II.json",
-  "total_doc_length_file": "C:/Users/user/Documents/GitHub/DSA/myproject/myapi/total_doc_len.json"
+  "folder_path": "C:\\DSAProject\\myproject\\myapi\\testFiles", 
+  "output_file_path_txt": "C:\\DSAProject\\myproject\\myapi\\FI.json",
+  "lexicon_file_path_txt": "C:\\DSAProject\\myproject\\myapi\\Lexi.json",
+  "inverted_index_file_path_txt": "C:\\DSAProject\\myproject\\myapi\\II.json",
+  "total_doc_length_file": "C:\\DSAProject\\myproject\\myapi\\total_doc_len.json"
 }
 
 
